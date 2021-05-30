@@ -1,4 +1,4 @@
-## Informatique MP2I Paul Valery
+## Informatique MP2I Paul Valery (Paris)
 
 Le cours est composé de trois grands thèmes qui sont développés en
 parallèle :
