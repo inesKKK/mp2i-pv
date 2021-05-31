@@ -14,3 +14,16 @@ formes :
   * Algorithmique
   * Programmation
   * Synthétique
+
+### Pour s'entraîner à programmer sans rien installer
+
+À terme c'est sûrement une bonne idée d'installer un linux et d'y
+mettre les outils nécessaires pour programmer dans de bonnes
+conditions. Mais en première approximation, il existe des outils
+gratuits en ligne qui feront l'affaire pour la partie programmation.
+
+#### ocaml
+* [https://try.ocamlpro.com/](https://try.ocamlpro.com/)
+
+#### C
+* [http://pythontutor.com/c.html#mode=edit](http://pythontutor.com/c.html#mode=edit)
