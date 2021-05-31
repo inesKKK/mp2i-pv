@@ -22,8 +22,6 @@ mettre les outils nécessaires pour programmer dans de bonnes
 conditions. Mais en première approximation, il existe des outils
 gratuits en ligne qui feront l'affaire pour la partie programmation.
 
-#### ocaml
-* [https://try.ocamlpro.com/](https://try.ocamlpro.com/)
+#### ocaml : [https://try.ocamlpro.com/](https://try.ocamlpro.com/)
 
-#### C
-* [http://pythontutor.com/c.html#mode=edit](http://pythontutor.com/c.html#mode=edit)
+#### C : [http://pythontutor.com/c.html#mode=edit](http://pythontutor.com/c.html#mode=edit)
