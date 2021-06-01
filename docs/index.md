@@ -30,9 +30,14 @@ gratuits en ligne qui feront l'affaire pour la partie programmation.
 
 * Si vous avez un mac : rien à faire, OSX est une surcouche sur BSD.
 * Si vous avez un pc sous windows, plusieurs solutions :
-  * vous écrasez windows avec une distribution linux
-  * vous mettez en place un double boot
-  * vous installez un machine virtuelle
+  * vous écrasez windows avec une distribution linux [sauvegardez vos
+    données avant]
+  * vous mettez en place un double boot [sauvegardez vos
+    données avant]
+  * vous installez un machine virtuelle [installez un distribution
+    légère, surtout si votre machine possède peu de RAM]
+  * utilisez un conteneur docker [pas forcément recommandé pour des
+    débutants]
   * il paraît que WSL et WSL2 fonctionnent
 * Quelle distribution choisir ?
   * la plus grand public et celle qui est installée au lycée : Ubuntu
@@ -42,3 +47,10 @@ gratuits en ligne qui feront l'affaire pour la partie programmation.
   * pour installer sur le premier ordinateur que votre père/mère geek
     a acheté : toutou linux
   * et toutes les autres, à vous de regarder ce que vous voulez privilégier
+
+### Pour poser des questions
+
+* mail
+* ENT
+* cahier de prépa
+* discord
