@@ -8,8 +8,8 @@ parallèle :
 
 Vous avez accès à un plan de ce que nous avons fait sous plusieurs
 formes :
-* vision synthétique
-* vision chronologique
+* [vision synthétique](Cours/synthese.md)
+* [vision chronologique](Cours/chronologie)
 * par thème :
   * Algorithmique
   * Programmation
