@@ -13,7 +13,7 @@ formes :
 * par thème :
   * Algorithmique
   * Programmation
-  * Synthétique
+  * Systèmes
 
 ### Pour s'entraîner à programmer sans rien installer
 
