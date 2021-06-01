@@ -25,3 +25,20 @@ gratuits en ligne qui feront l'affaire pour la partie programmation.
 #### ocaml : [https://try.ocamlpro.com/](https://try.ocamlpro.com/)
 
 #### C : [http://pythontutor.com/c.html#mode=edit](http://pythontutor.com/c.html#mode=edit)
+
+### Pour travailler sur unix/linux
+
+* Si vous avez un mac : rien à faire, OSX est une surcouche sur BSD.
+* Si vous avez un pc sous windows, plusieurs solutions :
+  * vous écrasez windows avec une distribution linux
+  * vous mettez en place un double boot
+  * vous installez un machine virtuelle
+  * il paraît que WSL et WSL2 fonctionnent
+* Quelle distribution choisir ?
+  * la plus grand public et celle qui est installée au lycée : Ubuntu
+  * un peu plus geek : Debian
+  * encore plus geek (?) : ArchLinux
+  * pour que vos grands-parents puissent aussi s'en servir : dflinux
+  * pour installer sur le premier ordinateur que votre père/mère geek
+    a acheté : toutou linux
+  * et toutes les autres, à vous de regarder ce que vous voulez privilégier
