@@ -54,3 +54,10 @@ gratuits en ligne qui feront l'affaire pour la partie programmation.
 * ENT
 * cahier de prépa
 * discord
+
+### Le coin culture et hors programme
+Je vous propose ici des ressources externes et quelques documents que
+j'ai produits moi-même pour vous permettre de prendre du recul sur le
+programme.
+
+* Sur la [complexité](https://interstices.info/la-theorie-de-la-complexite-algorithmique/)
