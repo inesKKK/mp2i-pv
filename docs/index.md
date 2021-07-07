@@ -55,9 +55,10 @@ gratuits en ligne qui feront l'affaire pour la partie programmation.
 * cahier de prépa
 * discord
 
-### Le coin culture et hors programme
+### Le coin culture, articles divers et hors programme
 Je vous propose ici des ressources externes et quelques documents que
 j'ai produits moi-même pour vous permettre de prendre du recul sur le
 programme.
 
 * Sur la [complexité](https://interstices.info/la-theorie-de-la-complexite-algorithmique/)
+* Encore sur la [complexité](https://www.lemonde.fr/blog/binaire/2021/04/16/henri-potier-a-lecole-de-la-complexite/)
