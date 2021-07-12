@@ -26,7 +26,9 @@ pour plein de langages : [https://ideone.com/](https://ideone.com/)
 
 `C` :
 [http://pythontutor.com/c.html#mode=edit](http://pythontutor.com/c.html#mode=edit)
-qui permet de voir l'état de la mémoire
+qui permet de voir l'état de la mémoire, ou
+[https://www.mycompiler.io/](https://www.mycompiler.io/) juste pour
+éditer et compiler
 
 `ocaml` : [https://try.ocamlpro.com/](https://try.ocamlpro.com/) qui
 ressemble plus à l'environnement utilisé en TP
