@@ -22,9 +22,15 @@ mettre les outils nécessaires pour programmer dans de bonnes
 conditions. Mais en première approximation, il existe des outils
 gratuits en ligne qui feront l'affaire pour la partie programmation.
 
-`ocaml` : [https://try.ocamlpro.com/](https://try.ocamlpro.com/)
+pour plein de langages : [https://ideone.com/](https://ideone.com/)
 
-`C` : [http://pythontutor.com/c.html#mode=edit](http://pythontutor.com/c.html#mode=edit)
+`C` :
+[http://pythontutor.com/c.html#mode=edit](http://pythontutor.com/c.html#mode=edit)
+qui permet de voir l'état de la mémoire
+
+`ocaml` : [https://try.ocamlpro.com/](https://try.ocamlpro.com/) qui
+ressemble plus à l'environnement utilisé en TP
+
 
 ### Pour travailler sous unix/linux
 
