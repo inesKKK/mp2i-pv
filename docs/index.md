@@ -60,7 +60,7 @@ ressemble plus à l'environnement utilisé en TP
 
 * mail
 * ENT
-* cahier de prépa
+* [cahier de prépa](https://cahier-de-prepa.fr/mp2i-pv/)
 * discord
 
 ### Le coin culture, articles divers et hors programme
