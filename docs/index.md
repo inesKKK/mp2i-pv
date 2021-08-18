@@ -23,7 +23,7 @@ formes :
 
 La partie `C` sera gérée sur un serveur jupyterhub, avec nbgrader.
 
-La partie `ocaml` sera gérée sur [essok](essok.learn-ocaml.org/).
+La partie `ocaml` sera gérée sur [essok](https://essok.learn-ocaml.org/).
 
 La partie `sql` je ne sais pas encore.
 
