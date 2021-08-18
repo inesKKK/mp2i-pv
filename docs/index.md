@@ -1,5 +1,9 @@
 ## Informatique MP2I Paul Valery (Paris)
 
+[programme officiel]{https://cache.media.education.gouv.fr/file/SPE1-MEN-MESRI-4-2-2021/64/6/spe777_annexe_1373646.pdf)
+
+### Le cours
+
 Le cours est composé de trois grands thèmes qui sont développés en
 parallèle :
 * Algorithmique
@@ -14,6 +18,18 @@ formes :
   * Algorithmique
   * Programmation
   * Systèmes
+
+### Le TP
+
+La partie `C` sera gérée sur un serveur jupyterhub, avec nbgrader.
+
+La partie `ocaml` sera gérée sur [essok](essok.learn-ocaml.org/).
+
+La partie `sql` je ne sais pas encore.
+
+### Le TD
+
+Les énoncés sont disponibles sur [cahier de prépa](https://cahier-de-prepa.fr/mp2i-pv/).
 
 ### Pour s'entraîner à programmer sans rien installer
 
