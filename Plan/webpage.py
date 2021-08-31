@@ -9,6 +9,7 @@ topics = { 'algorithmic':{'dir': 'Algorithmique', 'md':'algorithmique.md', 'titl
            'coding':{'dir':'Programmation','md':'prog.md', 'title':'Programmation'},
            'systems':{'dir':'Systemes','md':'systemes.md','title':'Systèmes'} }
 synthesis = 'synthese.md'
+chronology = 'chronologie.md'
 
 
 class Course :
@@ -28,6 +29,24 @@ class Course :
             s += line
         self.description = s
 
+    def write_course(self, f, with_date=True, with_topic=False):
+        f.write('* ')
+        if(with_date):
+            f.write(nice_date(self.date) + ' : ')
+        if(with_topic):
+            f.write('[' + self.part[0] + '] ')
+        f.write(self.abstract)
+        f.write(self.description)
+
+    def write_in_right_position(self, f) :
+        ordered_topics = sorted([ t['title'] for t in topics.values()])
+        n = ordered_topics.index(self.part)
+        for i in range(0, len(ordered_topics)) :
+            if i==n : f.write(self.abstract.strip().replace('\n', '<br />'))
+            f.write(' | ')
+        f.write('\n')
+
+
 
 def not_yet(file) :
     return file[0] == '_'
@@ -40,6 +59,9 @@ def headers():
             f.write(topic['title'] + ' | ')
         f.write("""\n|---|-----------|---------|---------|-------|\n""")
         f.close()
+    with open(chronology, 'w') as f :
+        f.write("##Chronologie du cours\n\n")
+        f.close()
     for topic in topics.values() :
         with open(topic['md'], 'w') as f :
             f.write('##' + topic['title'] + '\n\n')
@@ -49,19 +71,6 @@ def headers():
 def nice_date(date):
     return datetime.strptime(date, "%Y%m%d").strftime("%A %-d %B %Y")
             
-def write_course(c, f):
-    f.write('* ' + nice_date(c.date) + ' : ')
-    f.write(c.abstract)
-    f.write(c.description)
-
-def write_in_right_position(c, f) :
-    ordered_topics = sorted([ t['title'] for t in topics.values()])
-    n = ordered_topics.index(c.part)
-    for i in range(0, len(ordered_topics)) :
-        if i==n : f.write(c.abstract.strip().replace('\n', '<br />'))
-        f.write(' | ')
-    f.write('\n')
-            
 def bodies(courses):
     for topic in topics.values():
         #get only the courses for this topic
@@ -69,19 +78,27 @@ def bodies(courses):
         topic_courses.sort(key=lambda c: c.date) # in chronological order
         with open(topic['md'], 'a') as f :
             for c in topic_courses :
-                write_course(c, f)
+                c.write_course(f)
             f.close()
     courses.sort(key=lambda c: c.date)
     with open(synthesis, 'a') as f:
         for c in courses:
             f.write('| '+ nice_date(c.date) + ' | ')
-            write_in_right_position(c, f)
+            c.write_in_right_position(f)
+        f.close()
+    with open(chronology, 'a') as f :
+        old_date = ""
+        for c in courses:
+            if c.date != old_date:
+                old_date = c.date
+                f.write('#### ' + nice_date(c.date) + '\n')
+            c.write_course(f, with_date=False, with_topic=True)
         f.close()
 
 
 def write_foot(f):
-    f.write("\n\n\n")
-    f.write("[Synthèse](synthese.md) ")
+    f.write('\n\n\n')
+    f.write('[Synthèse](' + synthesis + ') [Chronologie](' + chronology +') ')
     for topic in topics.values() :
         f.write('[' + topic['title'] + '](' + topic['md'] + ') ')
     f.write('\n\n\n')
@@ -89,6 +106,9 @@ def write_foot(f):
         
 def footers():
     with open(synthesis, 'a') as f :
+        write_foot(f)
+        f.close()
+    with open(chronology, 'a') as f :
         write_foot(f)
         f.close()
     for topic in topics.values() :
