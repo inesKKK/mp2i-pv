@@ -23,14 +23,14 @@ class Course :
     def set_data(self, dir, file):
         f = open(dir + '/' + file, 'r')
         s = ''
-        espace = ''
+        space = ''
         for line in f:
             if line[0] == '#':
                 self.abstract = s
                 s = ''
-                espace = '> '
+                space = '> '
                 continue
-            s += espace + line
+            s += space + line
         self.description = s
 
     def write_course(self, f, with_date=True, with_topic=False):
