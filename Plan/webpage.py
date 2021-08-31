@@ -30,7 +30,7 @@ class Course :
                 s = ''
                 space = '> '
                 continue
-            s += space + line
+            s += space + line + '<br />'
         self.description = s
 
     def write_course(self, f, with_date=True, with_topic=False):
@@ -102,10 +102,11 @@ def bodies(courses):
 
 def write_foot(f):
     f.write('\n\n\n')
-    f.write('[Synthèse](' + synthesis + ') [Chronologie](' + chronology +') ')
+    f.write('[Synthèse](' + synthesis + ') /  [Chronologie](' + chronology +') ')
     for topic in topics.values() :
-        f.write('[' + topic['title'] + '](' + topic['md'] + ') ')
+        f.write('/ [' + topic['title'] + '](' + topic['md'] + ') ')
     f.write('\n\n\n')
+    f.write('[Page principale du cours](https://ineskkk.github.io/mp2i-pv)\n\n')
         
         
 def footers():
