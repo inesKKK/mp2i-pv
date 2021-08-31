@@ -16,17 +16,21 @@ class Course :
     def __init__(self, dir, file):
         self.part = dir
         self.date = file
+        self.absract = ""
+        self.description = ""
         self.set_data(dir, file)
 
     def set_data(self, dir, file):
         f = open(dir + '/' + file, 'r')
-        s = ""
+        s = ''
+        espace = ''
         for line in f:
             if line[0] == '#':
                 self.abstract = s
-                s = ""
+                s = ''
+                espace = '> '
                 continue
-            s += line
+            s += espace + line
         self.description = s
 
     def write_course(self, f, with_date=True, with_topic=False):
