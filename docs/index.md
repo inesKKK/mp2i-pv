@@ -15,9 +15,9 @@ formes :
 * [vision synthétique](Cours/synthese.md)
 * [vision chronologique](Cours/chronologie)
 * par thème :
-  * Algorithmique
-  * Programmation
-  * Systèmes
+  * [Algorithmique](Cours/algorithmique.md)
+  * [Programmation](Cours/prog.md)
+  * [Systèmes](Cours/systemes.md)
 
 ### Le TP
 
