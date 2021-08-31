@@ -1,4 +1,4 @@
-##Plan du cours
+## Plan du cours
 
 |   | Algorithmique | Bases de données | Programmation | Systèmes | 
 |---|-----------|---------|---------|-------|

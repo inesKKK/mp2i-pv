@@ -1,4 +1,4 @@
-##Chronologie du cours
+## Chronologie du cours
 
 #### vendredi 3 septembre 2021
 * [P] caractériser un langage de programmation
