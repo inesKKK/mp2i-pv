@@ -14,10 +14,8 @@ Vous avez accès à un plan de ce que nous avons fait sous plusieurs
 formes :
 * [vision synthétique](Cours/synthese.md)
 * [vision chronologique](Cours/chronologie)
-* par thème :
-  * [Algorithmique](Cours/algorithmique.md)
-  * [Programmation](Cours/prog.md)
-  * [Systèmes](Cours/systemes.md)
+* par thème :  [Algorithmique](Cours/algorithmique.md) /
+  [Programmation](Cours/prog.md) /  [Systèmes](Cours/systemes.md)
 
 ### Le TP
 
