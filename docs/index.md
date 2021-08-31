@@ -20,7 +20,8 @@ formes :
 ### Le TP
 
 La partie `C` sera faite sur un serveur
-[jupyterhub avec nbgrader](https://informatique.cpge-pv.fr) (non encore disponible).
+[jupyterhub avec nbgrader](https://informatique.cpge-pv.ovh).
+
 
 La partie `ocaml` sera gérée sur [essok](https://essok.learn-ocaml.org/).
 
