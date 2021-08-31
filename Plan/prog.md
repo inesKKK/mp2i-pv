@@ -1,7 +1,6 @@
-##Chronologie du cours
+##Programmation
 
-#### vendredi 3 septembre 2021
-* [P] caractériser un langage de programmation
+* vendredi 3 septembre 2021 : caractériser un langage de programmation
 bases du `C`
 > divers critères : paradigmes, compilation/interprétation, typage statique/dynamique faible/fort
 > types numériques en `C`
