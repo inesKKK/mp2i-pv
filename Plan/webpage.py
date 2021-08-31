@@ -57,18 +57,18 @@ def not_yet(file) :
 
 def headers():
     with open(synthesis, 'w') as f :
-        f.write("""##Plan du cours\n
+        f.write("""## Plan du cours\n
 |   | """)
         for topic in sorted(topics.values(), key=lambda t: t['title']):
             f.write(topic['title'] + ' | ')
         f.write("""\n|---|-----------|---------|---------|-------|\n""")
         f.close()
     with open(chronology, 'w') as f :
-        f.write("##Chronologie du cours\n\n")
+        f.write("## Chronologie du cours\n\n")
         f.close()
     for topic in topics.values() :
         with open(topic['md'], 'w') as f :
-            f.write('##' + topic['title'] + '\n\n')
+            f.write('## ' + topic['title'] + '\n\n')
             f.close()
 
 
