@@ -3,7 +3,7 @@
 * vendredi 3 septembre 2021 : caractériser un langage de programmation
 <br />bases du `C`
 <br />> divers critères : paradigmes, compilation/interprétation, typage statique/dynamique faible/fort
-<br />> types numériques en `C`
+<br />> comment compiler un programme `C`
 <br />
 
 
