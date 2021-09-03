@@ -1,5 +1,5 @@
 caractériser un langage de programmation
 bases du `C`
 #
-divers critères : paradigmes, compilation/interprétation, typage statique/dynamique faible/fort; code: [SuiteRec.java](code/SuiteRec.java), [suite_rec.c](suite_rec.c), [suite_rec.ml](suite_rec.ml)
-comment compiler un programme `C`; code: [bonjour.c](bonjour.c)
+divers critères : paradigmes, compilation/interprétation, typage statique/dynamique faible/fort; code: [SuiteRec.java](code/SuiteRec.java), [suite_rec.c](code/suite_rec.c), [suite_rec.ml](code/suite_rec.ml)
+comment compiler un programme `C`; code: [bonjour.c](code/bonjour.c)
