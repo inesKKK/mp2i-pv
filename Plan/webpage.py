@@ -95,7 +95,7 @@ def bodies(courses):
         for c in courses:
             if c.date != old_date:
                 old_date = c.date
-                f.write('\n#### ' + nice_date(c.date) + '\n')
+                f.write('\n\n#### ' + nice_date(c.date) + '\n')
             c.write_course(f, with_date=False, with_topic=True)
         f.close()
 
