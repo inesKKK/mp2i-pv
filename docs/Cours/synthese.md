@@ -3,6 +3,7 @@
 |   | Algorithmique | Bases de données | Programmation | Systèmes | 
 |---|-----------|---------|---------|-------|
 | vendredi 3 septembre 2021 |  |  | caractériser un langage de programmation<br /><br />bases du `C`<br /><br /> |  | 
+| lundi 6 septembre 2021 | tour d'horizon<br /><br />terminaison<br /><br /> |  |  |  | 
 
 
 
