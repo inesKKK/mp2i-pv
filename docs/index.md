@@ -88,3 +88,5 @@ programme.
   [intérêt](https://www.lemonde.fr/blog/binaire/2021/04/16/henri-potier-a-lecole-de-la-complexite/),
   [classes de complexité](https://interstices.info/la-theorie-de-la-complexite-algorithmique/)
 * Sur l'indécidabilité du problème de l'arrêt: [vidéo du Professeur Karré](https://www.youtube.com/watch?v=13O1qhX4Bqo)
+* Sur les codages de nombres en machine : [exemples de catastrophes
+  dûes à des erreurs de conversion](https://www.iro.umontreal.ca/~mignotte/IFT2425/Disasters.html)
