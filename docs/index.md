@@ -17,6 +17,10 @@ formes :
 * par thème :  [Algorithmique](Cours/algorithmique.md) /
   [Programmation](Cours/prog.md) /  [Systèmes](Cours/systemes.md)
 
+#### Quelques compléments en réponses aux questions:
+
+* [exemple de codage d'un réel en flottant](https://cahier-de-prepa.fr/mp2i-pv/download?id=32)
+
 ### Le TP
 
 La partie `C` sera faite sur un serveur
