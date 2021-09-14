@@ -3,6 +3,8 @@
 
 
 #### vendredi 3 septembre 2021
+
+
 * [P] caractériser un langage de programmation
 <br />bases du `C`
 <br />> divers critères : paradigmes, compilation/interprétation, typage statique/dynamique faible/fort; code: [SuiteRec.java](code/SuiteRec.java), [suite_rec.c](code/suite_rec.c), [suite_rec.ml](code/suite_rec.ml)
@@ -10,18 +12,24 @@
 <br />
 
 #### lundi 6 septembre 2021
+
+
 * [A] tour d'horizon
 <br />terminaison
 <br />> conception / correction / efficacité; code : [plus_grande_puissance_de_2.py](code/plus_grande_puissance_de_2.py), [plus_grande_puissance_de_2.c](code/plus_grande_puissance_de_2.c), [plus_grande_puissance_de_2.ml](code/plus_grande_puissance_de_2.ml)
 <br />> variants de boucles<br />
 
 #### jeudi 9 septembre 2021
+
+
 * [P] types numériques
 <br />> fonction `main`
 <br />> représentation des entiers et des flottants en machine
 <br />
 
 #### vendredi 10 septembre 2021
+
+
 * [P] fin types numériques
 <br />variables en `C`
 <br />début fonctions
@@ -32,6 +40,8 @@
 <br />
 
 #### lundi 13 septembre 2021
+
+
 * [A] terminaison et correction
 <br />début complexité
 <br />> terminaison : variants de boucles et preuves par récurrence; code : [fibonacci.py](code/fibonacci.py) / [fibonacci.c](code/fibonacci.c) / [fibonacci.ml](code/fibonacci.ml) / [note_sous_la_moyenne.py](code/note_sous_la_moyenne.py) / [note_sous_la_moyenne.c](code/note_sous_la_moyenne.c) / [note_sous_la_moyenne.ml](code/note_sous_la_moyenne.ml) / [dichotomie.py](code/dichotomie.py) / [dichotomie.c](code/dichotomie.c)
