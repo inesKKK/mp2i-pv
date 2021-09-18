@@ -1,0 +1,10 @@
+name: mp2i-pv
+
+channels:
+  - QuantStack
+  - conda-forge
+
+dependencies:
+  - cling
+  - xeus-cling
+  - notebook
