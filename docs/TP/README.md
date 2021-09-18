@@ -11,7 +11,8 @@ Les liens pour binder :
 |       | flocon | 1ère étoile |
 |------|------|-----|
 | TP1 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/inesKKK/mp2i-pv/HEAD?filepath=docs%2FTP%2FTP1_flocon.ipynb) |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/inesKKK/mp2i-pv/HEAD?filepath=docs%2FTP%2FTP1_premiere_etoile.ipynb) |
-|TP2 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/inesKKK/mp2i-pv/HEAD?filepath=docs%2FTP%2FTP2_flocon.ipynb) |  [![Binder(https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/inesKKK/mp2i-pv/HEAD?filepath=docs%2FTP%2FTP2_premiere_etoile.ipynb) |
+| TP2 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/inesKKK/mp2i-pv/HEAD?filepath=docs%2FTP%2FTP2_flocon.ipynb) |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/inesKKK/mp2i-pv/HEAD?filepath=docs%2FTP%2FTP2_premiere_etoile.ipynb) |
+
 
 
 
