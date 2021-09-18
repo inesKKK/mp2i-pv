@@ -3,7 +3,7 @@
 * En principe les TP sont à faire sur [informatique.cpge-pv.ovh](https://informatique.cpge-pv.ovh)
 * Quand tout bloque, vous pouvez les faire sur binder (attention, c'est assez long à charger, mais vous pouvez lire l'énoncé et commencer à réfléchir pendant ce temps-là); mode d'emploi:
   * vous faites sur binder,
-  * vous réléchargez le notebook
+  * vous téléchargez le notebook
   * vous le déposez sur le site de TP en écrasant le notebook correspondant existant
 
 Les liens pour binder :
