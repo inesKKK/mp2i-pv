@@ -7,6 +7,8 @@
 | jeudi 9 septembre 2021 |  |  | types numériques<br /><br /> |  | 
 | vendredi 10 septembre 2021 |  |  | fin types numériques<br /><br />variables en `C`<br /><br />début fonctions<br /><br /> |  | 
 | lundi 13 septembre 2021 | terminaison et correction<br /><br />début complexité<br /><br /> |  |  |  | 
+| jeudi 16 septembre 2021 |  |  | suite fonctions<br /><br /> |  | 
+| vendredi 17 septembre 2021 |  |  | structures de contrôle<br /><br /> |  | 
 
 
 

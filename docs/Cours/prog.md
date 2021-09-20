@@ -22,6 +22,16 @@
 <br />> fonctions : syntaxe
 <br />
 
+* jeudi 16 septembre 2021 : suite fonctions
+<br />> passage par valeur des paramètres
+<br />> variables locales
+<br />> valeur de retour
+<br />
+
+* vendredi 17 septembre 2021 : structures de contrôle
+<br />> conditionnelles, boucles conditionnelles et inconditionnelles
+<br />
+
 
 [Synthèse](synthese.md) /  [Chronologie](chronologie.md) / [Algorithmique](algorithmique.md) / [Bases de données](bd.md) / [Programmation](prog.md) / [Systèmes](systemes.md) 
 

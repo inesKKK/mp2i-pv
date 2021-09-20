@@ -1,0 +1,6 @@
+terminaison et correction
+début complexité
+#
+terminaison : variants de boucles et preuves par récurrence; code : [fibonacci.py](code/fibonacci.py) / [fibonacci.c](code/fibonacci.c) / [fibonacci.ml](code/fibonacci.ml) / [note_sous_la_moyenne.py](code/note_sous_la_moyenne.py) / [note_sous_la_moyenne.c](code/note_sous_la_moyenne.c) / [note_sous_la_moyenne.ml](code/note_sous_la_moyenne.ml) / [dichotomie.py](code/dichotomie.py) / [dichotomie.c](code/dichotomie.c)
+correction : invariants de boucles et preuves par récurrence
+complexité : notation grand O
