@@ -25,7 +25,9 @@ formes :
 
 La partie `C` sera faite sur un serveur
 [jupyterhub avec nbgrader](https://informatique.cpge-pv.ovh). Au cas
-où tout se bloque, [solution binder alternative](TP).
+où tout se bloque, [solution binder alternative](TP), avec une
+explication sur [https://youtu.be/pqWcWNLS5Po](comment rendre un
+devoir fait sur binder).
 
 
 La partie `ocaml` sera gérée sur [essok](https://essok.learn-ocaml.org/).
