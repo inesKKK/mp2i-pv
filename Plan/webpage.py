@@ -34,7 +34,7 @@ class Course :
         self.description = s
 
     def write_course(self, f, with_date=True, with_topic=False):
-        f.write('* ')
+        f.write('\n\n* ')
         if(with_date):
             f.write(nice_date(self.date) + ' : ')
         if(with_topic):
