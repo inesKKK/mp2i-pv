@@ -15,7 +15,7 @@
 <br />
 
 * lundi 20 septembre 2021 : ordres de grandeur
-<br />> notations grand Omega $\Omega$ et grand Theta $\Theta$
+<br />> notations grand Omega et grand Theta
 <br />> lien avec les limites
 <br />> comparaison des fonctions usuelles
 <br />
