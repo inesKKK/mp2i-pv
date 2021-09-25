@@ -9,6 +9,8 @@
 | lundi 13 septembre 2021 | terminaison et correction<br /><br />début complexité<br /><br /> |  |  |  | 
 | jeudi 16 septembre 2021 |  |  | suite fonctions<br /><br /> |  | 
 | vendredi 17 septembre 2021 |  |  | structures de contrôle<br /><br /> |  | 
+| lundi 20 septembre 2021 | ordres de grandeur<br /><br /> |  |  |  | 
+| jeudi 23 septembre 2021 |  |  | tableaux unidimensionnels<br /><br /> |  | 
 
 
 

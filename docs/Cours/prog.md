@@ -32,6 +32,12 @@
 <br />> conditionnelles, boucles conditionnelles et inconditionnelles
 <br />
 
+* jeudi 23 septembre 2021 : tableaux unidimensionnels
+<br />> types tableaux
+<br />> déclaration
+<br />> initialisateurs
+<br />
+
 
 [Synthèse](synthese.md) /  [Chronologie](chronologie.md) / [Algorithmique](algorithmique.md) / [Bases de données](bd.md) / [Programmation](prog.md) / [Systèmes](systemes.md) 
 

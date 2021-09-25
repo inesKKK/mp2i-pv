@@ -65,6 +65,24 @@
 <br />> conditionnelles, boucles conditionnelles et inconditionnelles
 <br />
 
+#### lundi 20 septembre 2021
+
+
+* [A] ordres de grandeur
+<br />> notations grand Omega $\Omega$ et grand Theta $\Theta$
+<br />> lien avec les limites
+<br />> comparaison des fonctions usuelles
+<br />
+
+#### jeudi 23 septembre 2021
+
+
+* [P] tableaux unidimensionnels
+<br />> types tableaux
+<br />> déclaration
+<br />> initialisateurs
+<br />
+
 
 [Synthèse](synthese.md) /  [Chronologie](chronologie.md) / [Algorithmique](algorithmique.md) / [Bases de données](bd.md) / [Programmation](prog.md) / [Systèmes](systemes.md) 
 

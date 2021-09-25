@@ -14,6 +14,12 @@
 <br />> complexité : notation grand O
 <br />
 
+* lundi 20 septembre 2021 : ordres de grandeur
+<br />> notations grand Omega $\Omega$ et grand Theta $\Theta$
+<br />> lien avec les limites
+<br />> comparaison des fonctions usuelles
+<br />
+
 
 [Synthèse](synthese.md) /  [Chronologie](chronologie.md) / [Algorithmique](algorithmique.md) / [Bases de données](bd.md) / [Programmation](prog.md) / [Systèmes](systemes.md) 
 
