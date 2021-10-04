@@ -38,6 +38,12 @@
 <br />> initialisateurs
 <br />
 
+* jeudi 30 septembre 2021 : pointeurs
+<br />> adresse d'une variable
+<br />> NULL
+<br />> allocation mémoire
+<br />
+
 
 [Synthèse](synthese.md) /  [Chronologie](chronologie.md) / [Algorithmique](algorithmique.md) / [Bases de données](bd.md) / [Programmation](prog.md) / [Systèmes](systemes.md) 
 

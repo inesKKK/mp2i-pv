@@ -20,6 +20,10 @@
 <br />> comparaison des fonctions usuelles
 <br />
 
+* lundi 27 septembre 2021 : complexité des algorithmes
+<br />> étude de cas : tri bulle (meilleur des cas, pire des cas et en moyenne)
+<br />
+
 
 [Synthèse](synthese.md) /  [Chronologie](chronologie.md) / [Algorithmique](algorithmique.md) / [Bases de données](bd.md) / [Programmation](prog.md) / [Systèmes](systemes.md) 
 

@@ -83,6 +83,22 @@
 <br />> initialisateurs
 <br />
 
+#### lundi 27 septembre 2021
+
+
+* [A] complexité des algorithmes
+<br />> étude de cas : tri bulle (meilleur des cas, pire des cas et en moyenne)
+<br />
+
+#### jeudi 30 septembre 2021
+
+
+* [P] pointeurs
+<br />> adresse d'une variable
+<br />> NULL
+<br />> allocation mémoire
+<br />
+
 
 [Synthèse](synthese.md) /  [Chronologie](chronologie.md) / [Algorithmique](algorithmique.md) / [Bases de données](bd.md) / [Programmation](prog.md) / [Systèmes](systemes.md) 
 

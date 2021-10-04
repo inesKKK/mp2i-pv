@@ -11,6 +11,8 @@
 | vendredi 17 septembre 2021 |  |  | structures de contrôle<br /><br /> |  | 
 | lundi 20 septembre 2021 | ordres de grandeur<br /><br /> |  |  |  | 
 | jeudi 23 septembre 2021 |  |  | tableaux unidimensionnels<br /><br /> |  | 
+| lundi 27 septembre 2021 | complexité des algorithmes<br /><br /> |  |  |  | 
+| jeudi 30 septembre 2021 |  |  | pointeurs<br /><br /> |  | 
 
 
 
