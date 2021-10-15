@@ -4,7 +4,10 @@
 
 ### Pendant les vacances
 
-Pour s'entraîner à programmer en s'amusant : [codingame](https://www.codingame.com/start).
+Pour s'entraîner à programmer en s'amusant :
+[codingame](https://www.codingame.com/start),
+[codewars](https://www.codewars.com/?language=c),
+[France-IOI](http://www.france-ioi.org/).
 
 ### Le cours
 
