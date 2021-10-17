@@ -43,7 +43,7 @@ class Course :
         f.write(self.description)
 
     def write_in_right_position(self, f) :
-        ordered_topics = sorted([ t['title'] for t in topics.values()])
+        ordered_topics = sorted([ t['dir'] for t in topics.values()])
         n = ordered_topics.index(self.part)
         for i in range(0, len(ordered_topics)) :
             if i==n : f.write(self.abstract.strip().replace('\n', '<br />'))
