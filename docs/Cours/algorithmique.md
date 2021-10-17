@@ -24,6 +24,14 @@
 <br />> étude de cas : tri bulle (meilleur des cas, pire des cas et en moyenne)
 <br />
 
+* lundi 4 octobre 2021 : complexité des algorithmes récursifs
+<br />> étude de cas : recherche dichotomique, tri fusion; code : [tri_fusion.c](code/tri_fusion.c)
+<br />
+
+* lundi 11 octobre 2021 : complexité spatiale
+<br />> compromis entre complexité temporelle et complexité spatiale, exemple de la mémoïsation; code : [fibonacci_memoisation.c](code/fibonacci_memoisation.c)
+<br />
+
 
 [Synthèse](synthese.md) /  [Chronologie](chronologie.md) / [Algorithmique](algorithmique.md) / [Bases de données](bd.md) / [Programmation](prog.md) / [Systèmes](systemes.md) 
 

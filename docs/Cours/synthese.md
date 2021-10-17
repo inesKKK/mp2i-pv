@@ -13,6 +13,10 @@
 | jeudi 23 septembre 2021 |  |  | tableaux unidimensionnels<br /><br /> |  | 
 | lundi 27 septembre 2021 | complexité des algorithmes<br /><br /> |  |  |  | 
 | jeudi 30 septembre 2021 |  |  | pointeurs<br /><br /> |  | 
+| lundi 4 octobre 2021 | complexité des algorithmes récursifs<br /><br /> |  |  |  | 
+| jeudi 7 octobre 2021 |  |  | mémoire d'un processus<br /><br />tableaux multidimensionnels<br /><br />début types structurés<br /><br /> |  | 
+| lundi 11 octobre 2021 | complexité spatiale<br /><br /> |  |  |  | 
+| mercredi 13 octobre 2021 |  |  | types structurés<br /><br />structures auto-référencées<br /><br />assert<br /><br /> |  | 
 
 
 

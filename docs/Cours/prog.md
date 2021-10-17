@@ -44,6 +44,24 @@
 <br />> allocation mémoire
 <br />
 
+* jeudi 7 octobre 2021 : mémoire d'un processus
+<br />tableaux multidimensionnels
+<br />début types structurés
+<br />> pile/tas, différence entre pointeurs et tableaux; code : [pile_tas1.c](code/pile_tas1.c) / [pile_tas2.c](code/pile_tas2.c) / [pile_tas3.c](code/pile_tas3.c) / [pile_tas4.c](code/pile_tas4.c)
+<br />> pointeurs, tableaux et fonctions; code : [mise_a_42.c](code/mise_a_42.c) / [parametre_tableau.c](code/parametre_tableau.c) / [retour_tableau.c](code/retour_tableau.c)
+<br />> tableaux multidimensionnels, arguments du main; code : [arguments_du_main.c](code/arguments_du_main.c)
+<br />> syntaxe pour `struct`
+<br />
+
+* mercredi 13 octobre 2021 : types structurés
+<br />structures auto-référencées
+<br />assert
+<br />> syntaxe
+<br />> utilisation avec les fonctions, tableaux et pointeurs
+<br />> listes chaînées; code : [liste_chainee1.h](code/liste_chainee1.h) / [liste_chainee1.c](code/liste_chainee1.c) / [liste_chainee2.h](code/liste_chainee2.h) / [liste_chainee2.c](code/liste_chainee2.c)
+<br />> parenthèse sur la documentation et la programmation défensive; code : [assert1.c](code/assert1.c) / [assert2.c](code/assert2.c)
+<br />
+
 
 [Synthèse](synthese.md) /  [Chronologie](chronologie.md) / [Algorithmique](algorithmique.md) / [Bases de données](bd.md) / [Programmation](prog.md) / [Systèmes](systemes.md) 
 

@@ -1,0 +1,8 @@
+mémoire d'un processus
+tableaux multidimensionnels
+début types structurés
+#
+pile/tas, différence entre pointeurs et tableaux; code : [pile_tas1.c](code/pile_tas1.c) / [pile_tas2.c](code/pile_tas2.c) / [pile_tas3.c](code/pile_tas3.c) / [pile_tas4.c](code/pile_tas4.c)
+pointeurs, tableaux et fonctions; code : [mise_a_42.c](code/mise_a_42.c) / [parametre_tableau.c](code/parametre_tableau.c) / [retour_tableau.c](code/retour_tableau.c)
+tableaux multidimensionnels, arguments du main; code : [arguments_du_main.c](code/arguments_du_main.c)
+syntaxe pour `struct`
