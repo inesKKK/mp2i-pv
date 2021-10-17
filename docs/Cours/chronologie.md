@@ -137,6 +137,17 @@
 <br />> parenthèse sur la documentation et la programmation défensive; code : [assert1.c](code/assert1.c) / [assert2.c](code/assert2.c)
 <br />
 
+#### jeudi 14 octobre 2021
+
+
+* [S] SGF
+<br />> répertoires / fichiers réguliers
+<br />> chemins absolus / chemins relatifs
+<br />> lancer une commande dans un shell
+<br />> répertoire courant
+<br />> quelques commandes : `man`, `pwd`, `cd`, `ls`, `mkdir`
+<br />
+
 
 [Synthèse](synthese.md) /  [Chronologie](chronologie.md) / [Algorithmique](algorithmique.md) / [Bases de données](bd.md) / [Programmation](prog.md) / [Systèmes](systemes.md) 
 
