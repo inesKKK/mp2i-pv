@@ -1,0 +1,3 @@
+complexité spatiale
+#
+compromis entre complexité temporelle et complexité spatiale, exemple de la mémoïsation; code : [fibonacci_memoisation.c](code/fibonacci_memoisation.c)
