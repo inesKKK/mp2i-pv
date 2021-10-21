@@ -30,7 +30,9 @@ formes :
 
 ### Le TP
 
-La partie `C` sera faite sur un serveur
+[Les énoncés après jupyter](TPC/index.md).
+
+La partie `C` sera faite au début sur un serveur
 [jupyterhub avec nbgrader](https://informatique.cpge-pv.ovh). Au cas
 où tout se bloque, [solution binder alternative](TP), avec une
 explication sur [https://youtu.be/pqWcWNLS5Po](comment rendre un
