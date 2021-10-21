@@ -359,8 +359,8 @@ d'utilisateurs irréductibles. Ils sont faciles à installer.
     manipuler plusieurs bouts de texte en même temps (et sûrement
     plein d'autres choses) [info de dernière minute : cet éditeur
     n'est pas encore installé]
-  * [vscodium](https://vscodium.com), clone libre de VSCode, le
-    dernier éditeur à la mode (plus un IDE qu'un éditeur)
+  * [VSCode](https://code.visualstudio.com/), le
+    dernier éditeur à la mode de microsoft (plus un IDE qu'un éditeur)
 
 Il y a sûrement des avantages à utiliser tout ça, mais si ça se trouve
 dans deux ou trois ans j'en mettrai deux autres à la place (qui se
@@ -375,7 +375,7 @@ Mise en garde :
   trop dépendants de l'installation, vous risquez d'avoir de mauvaises
   surprise au moment de l'oral,
 * au bout d'un moment, c'est très difficile de changer d'éditeur, car
-  les nouveaux qu'on teste ne possède pas telle ou telle
+  les nouveaux qu'on teste ne possèdent pas telle ou telle
   fonctionnalité tellement pratique de l'éditeur auquel vous êtes
   habitué.
 
