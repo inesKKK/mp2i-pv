@@ -72,8 +72,8 @@ argument est un chemin valide désignant une destination:
     fichier avec ce nom est créé s'il n'existe pas, et son contenu est
     écrasé par celui du fichier source).
 
-1. Copiez les fichiers `/home/utilisateurs/Documents/2021-10-22\ -\ MP2I/histogramme.c` et
-`/home/utilisateurs/Documents/2021-10-22\ -\ MP2I/histogramme.h` dans votre répertoire courant (qui est
+1. Copiez les fichiers `/home/utilisateur/Documents/2021-10-22\ -\ MP2I/histogramme.c` et
+`/home/utilisateur/Documents/2021-10-22\ -\ MP2I/histogramme.h` dans votre répertoire courant (qui est
 encore `~/MP2I/Informatique/TP/TP7` en principe).
 2. Pour voir le contenu de ces fichiers, vous pouvez utiliser la
    commande `cat` suivi du nom du fichier (quand un fichier est long,
