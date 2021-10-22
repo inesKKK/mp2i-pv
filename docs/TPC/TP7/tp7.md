@@ -72,8 +72,8 @@ argument est un chemin valide désignant une destination:
     fichier avec ce nom est créé s'il n'existe pas, et son contenu est
     écrasé par celui du fichier source).
 
-1. Copiez les fichiers `/home/klimann/histogramme.c` et
-`/home/klimann/histogramme.h` dans votre répertoire courant (qui est
+1. Copiez les fichiers `/home/utilisateurs/Documents/2021-10-22\ -\ MP2I/histogramme.c` et
+`/home/utilisateurs/Documents/2021-10-22\ -\ MP2I/histogramme.h` dans votre répertoire courant (qui est
 encore `~/MP2I/Informatique/TP/TP7` en principe).
 2. Pour voir le contenu de ces fichiers, vous pouvez utiliser la
    commande `cat` suivi du nom du fichier (quand un fichier est long,
@@ -269,7 +269,7 @@ lien est effectivement fait entre un appel de fonction et la
 définition de cette fonction (c'est-à-dire son code).
 
 **Exercice 9** : 
-1. Copier le fichier `~klimann/MP2I/TP7/ordre.c` et compilez-le. Échangez
+1. Copier le fichier `~/Documents/2021-10-22\ -\ MP2I/ordre.c` et compilez-le. Échangez
    l'ordre de `f` et `main` et recompilez-le.
 2. Repartez de la version précédente de `ordre.c` et ajoutez _avant le
    `main`_ la ligne suivante :
@@ -301,8 +301,8 @@ donc important qu'un fichier d'en-tête ne soit inclus qu'une seule
 fois.
 
 **Exercice 10** :
-1. Copiez les fichiers `~klimann/MP2I/TP7/entete.h` et
-`~klimann/MP2I/TP7/entete.c` et compiler `entete.c`.
+1. Copiez les fichiers `~/Documents/2021-10-22\ -\ MP2I/entete.h` et
+`~/Documents/2021-10-22\ -\ MP2I/entete.c` et compiler `entete.c`.
 2. Pour remédier à ce problème, on utilise des instructions de
    pré-compilation (qui sont exécutées dans la toute première phase de
    compilation) qui permettent de dire : si telle macro n'est pas
