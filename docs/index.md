@@ -45,7 +45,7 @@ La partie `sql` je ne sais pas encore.
 
 ### Le TD
 
-Les énoncés sont disponibles sur [cahier de prépa](https://cahier-de-prepa.fr/mp2i-pv/).
+Correction de la [question 15 du TD4](https://youtu.be/U2yNvtQT4u8).
 
 ### Pour s'entraîner à programmer sans rien installer
 
