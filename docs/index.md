@@ -111,3 +111,6 @@ programme.
   d'appel](https://www.youtube.com/watch?v=-PX0BV9hGZY) en musique
   (c'est du javascript, mais c'est le même principe que ce que nous
   avons vu en cours).
+* [coût des
+  bugs](https://medium.com/@ryancohane/financial-cost-of-software-bugs-51b4d193f107)
+  dans le développement logiciel
