@@ -2,6 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-section{width: 125%}
+section{width: 125%; left: -100px}
 nav,footer{ left: 40%;}
 div.wrapper{width: 800 px}
+#banner{background: #93bacb;
+        border: #95bccd;}
