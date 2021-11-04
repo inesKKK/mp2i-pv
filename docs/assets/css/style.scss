@@ -3,5 +3,5 @@
 
 @import "{{ site.theme }}";
 section{width: 125%}
-nav{ left: 40%;}
-.wrapper{width: 800 px}
+nav,footer{ left: 40%;}
+div.wrapper{width: 800 px}
