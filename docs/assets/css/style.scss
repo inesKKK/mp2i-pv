@@ -4,8 +4,9 @@
 @import "{{ site.theme }}";
 nav,footer{ left: 40%;}
 .wrapper{width: 900 px;
-         margin:0 auto;
+         margin:10px auto;
          position:relative}
+section{width:850 px}
 #banner{background: #93bacb;
         border: #95bccd;}
 #banner .fork{
