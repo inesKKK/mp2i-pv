@@ -3,9 +3,10 @@
 
 @import "{{ site.theme }}";
 nav,footer{ left: 40%;}
-.wrapper{width: 120%;
+.wrapper{
          margin:10px auto;
          position:relative}
+section{width:120%}
 #banner{background: #93bacb;
         border: #95bccd;}
 #banner .fork{
