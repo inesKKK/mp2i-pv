@@ -148,6 +148,14 @@
 <br />> quelques commandes : `man`, `pwd`, `cd`, `ls`, `mkdir`
 <br />
 
+#### lundi 8 novembre 2021
+
+
+* [P] méthodes de tests
+<br />> tests fonctionnels "boîte noire"
+<br />> début tests structurels "boîte blanche"
+<br />
+
 
 [Synthèse](synthese.md) /  [Chronologie](chronologie.md) / [Algorithmique](algorithmique.md) / [Bases de données](bd.md) / [Programmation](prog.md) / [Systèmes](systemes.md) 
 

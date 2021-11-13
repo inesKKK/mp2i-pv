@@ -18,6 +18,7 @@
 | lundi 11 octobre 2021 | complexité spatiale<br /><br /> |  |  |  | 
 | mercredi 13 octobre 2021 |  |  | types structurés<br /><br />structures auto-référencées<br /><br />assert<br /><br /> |  | 
 | jeudi 14 octobre 2021 |  |  |  | SGF<br /><br /> | 
+| lundi 8 novembre 2021 |  |  | méthodes de tests<br /><br /> |  | 
 
 
 

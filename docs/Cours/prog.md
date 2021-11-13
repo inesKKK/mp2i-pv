@@ -62,6 +62,11 @@
 <br />> parenthèse sur la documentation et la programmation défensive; code : [assert1.c](code/assert1.c) / [assert2.c](code/assert2.c)
 <br />
 
+* lundi 8 novembre 2021 : méthodes de tests
+<br />> tests fonctionnels "boîte noire"
+<br />> début tests structurels "boîte blanche"
+<br />
+
 
 [Synthèse](synthese.md) /  [Chronologie](chronologie.md) / [Algorithmique](algorithmique.md) / [Bases de données](bd.md) / [Programmation](prog.md) / [Systèmes](systemes.md) 
 
