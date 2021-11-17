@@ -32,7 +32,7 @@ formes :
 
 [Les énoncés de C](TPC/index.md).
 
-[Les énoncé de ocaml](TPocaml/index.md)
+[Les énoncé de ocaml](TPocaml/index.md).
 
 La partie `ocaml` sera gérée sur [essok](https://essok.learn-ocaml.org/).
 
