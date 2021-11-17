@@ -30,14 +30,9 @@ formes :
 
 ### Le TP
 
-[Les énoncés après jupyter](TPC/index.md).
+[Les énoncés de C](TPC/index.md).
 
-La partie `C` sera faite au début sur un serveur
-[jupyterhub avec nbgrader](https://informatique.cpge-pv.ovh). Au cas
-où tout se bloque, [solution binder alternative](TP), avec une
-explication sur [https://youtu.be/pqWcWNLS5Po](comment rendre un
-devoir fait sur binder).
-
+[Les énoncé de ocaml](TPocaml/index.md)
 
 La partie `ocaml` sera gérée sur [essok](https://essok.learn-ocaml.org/).
 
