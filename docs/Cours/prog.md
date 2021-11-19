@@ -64,7 +64,24 @@
 
 * lundi 8 novembre 2021 : méthodes de tests
 <br />> tests fonctionnels "boîte noire"
-<br />> début tests structurels "boîte blanche"
+<br />> début tests structurels "boîte blanche" : couverture des sommets / couverture des arcs
+<br />
+
+* lundi 15 novembre 2021 : méthodes de tests
+<br />début ocaml
+<br />> fin tests structurels "boîte blanche": tests exhaustifs de conditions / MDMC / couverture des chemins
+<br />> ocaml : intro; mutabilité vs immuabilité; compilation / utop; types primitifs
+<br />
+
+* mercredi 17 novembre 2021 : ocaml : variables et expressions
+<br />> définitions de variables
+<br />> expressions : expressions conditionnelles, expressions let et portée, annotations de types
+<br />
+
+* jeudi 18 novembre 2021 : ocaml : fonctions (non récursives)
+<br />> fonctions anonymes
+<br />> définition, syntaxe et sémantique des fonctions
+<br />> curryfication
 <br />
 
 

@@ -19,6 +19,9 @@
 | mercredi 13 octobre 2021 |  |  | types structurés<br /><br />structures auto-référencées<br /><br />assert<br /><br /> |  | 
 | jeudi 14 octobre 2021 |  |  |  | SGF<br /><br /> | 
 | lundi 8 novembre 2021 |  |  | méthodes de tests<br /><br /> |  | 
+| lundi 15 novembre 2021 |  |  | méthodes de tests<br /><br />début ocaml<br /><br /> |  | 
+| mercredi 17 novembre 2021 |  |  | ocaml : variables et expressions<br /><br /> |  | 
+| jeudi 18 novembre 2021 |  |  | ocaml : fonctions (non récursives)<br /><br /> |  | 
 
 
 
