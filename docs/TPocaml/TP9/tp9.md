@@ -33,3 +33,11 @@ votre compte essok à chaque fois que vous travaillerez dessus.
 
 L'interface est ensuite plus ou moins intuitive et vous la découvrirez
 en TP.
+
+[9.1_expressions_descr.md](9.1_expressions_descr.md)
+[9.2_declarations_descr.md](9.2_declarations_descr.md)
+[9.3_conditionnelles_descr.md](9.3_conditionnelles_descr.md)
+[9.4_fonctions_et_types_descr.md](9.4_fonctions_et_types_descr.md)
+[9.5_corriger_des_fonctions_descr.md](9.5_corriger_des_fonctions_descr.md)
+[9.6_premieres_fonctions_descr.md](9.6_premieres_fonctions_descr.md)
+
