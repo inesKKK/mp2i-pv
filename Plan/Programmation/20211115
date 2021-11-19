@@ -1,0 +1,5 @@
+méthodes de tests
+début ocaml
+#
+fin tests structurels "boîte blanche": tests exhaustifs de conditions / MDMC / couverture des chemins
+ocaml : intro; mutabilité vs immuabilité; compilation / utop; types primitifs

@@ -1,4 +1,4 @@
 méthodes de tests
 #
 tests fonctionnels "boîte noire"
-début tests structurels "boîte blanche"
+début tests structurels "boîte blanche" : couverture des sommets / couverture des arcs
