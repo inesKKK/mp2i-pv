@@ -6,5 +6,5 @@ Les TP `ocaml` du début se trouvent sur un serveur
 
 [TP10](TP10/tp10.md)
 
-[TP11](TP10/tp11.md)
+[TP11](TP11/tp11.md)
 
