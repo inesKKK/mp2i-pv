@@ -1,0 +1,83 @@
+<p>
+  Un exercice de géométrie basique en 2D.
+</p>
+
+<p>
+  On représente un point du plan par un couple d'entiers, comme
+  spécifié par le type <code>point2d</code> dans le prélude (vous
+  n'avez pas à redéfinir ce type), avec dans l'ordre l'abscisse puis
+  l'ordonnée.
+
+  Les coordonnées augmentent dans le sens classique :
+</p>
+
+<pre>
+                          ^ (y)
+                          |
+                          |
+                          |
+                          |
+   -------------------- (0,0) --------------------> (x)
+                          |
+                          |
+                          |
+                          |
+</pre>
+<p>
+Un quadrilatère est alors représenté par un quadruplet de point, comme
+  défini par le type <code>tetragon</code>
+  dans le prélude prélude, dans l'ordre suivant: sommet en haut à
+  gauche (lup), sommet en haut à droite (rup), sommet en bas à gauche
+  (llp) et sommet en bas à droite (rlp).
+</p>
+
+<ol>
+  <li>
+   Écrire une fonction <code>pairwise_distinct : tetragon ->
+   bool</code> qui vérifie que les points du quadrilatère sont deux à
+   deux distincts. Dans la suite, on supposera que c'est le cas sans
+   avoir à le vérifier.
+  </li>
+  <li> Un quadrilatère est bien formé si les propriétés suivantes sont vérifiées:
+   <ol>
+     <li>
+       Les sommets de gauche ont les plus petites abscisses.
+     </li>
+     <li>
+       Entre les deux sommets les plus à gauche, celui d'en haut
+       possède la plus grande des deux ordonnées.
+     </li>
+     <li>
+       Entre les deux sommets les plus à droite, celui d'en haut
+       possède la plus grande des deux ordonnées.
+     </li>
+   </ol>
+   Écrire une fonction <code>wellformed : tetragon -> bool</code> qui
+   teste si le quadrilatère est bien formé.
+  </li>
+  <li>
+    Une façon simple d'appliquer une rotation de 90 degrés dans le
+   sens contraire au sens trigonométrique et de centre le centre du
+   repère à un quadrilatère est d'échanger les abscisses et ordonnées
+   de chaque sommet de celui-ci, puis de prendre l'opposé des
+   ordonnées ainsi obtenues.
+   <br/> Écrire une fonction <code>rotate_point : point2d ->
+     point2d</code>
+   telle que <code>rotate_point p</code> est le point <code>p</code>
+   obtenu comme expliqué ci-dessus.
+  </li>
+  <li>
+    Une fois cette rotation appliquée, les sommets du quadrilatère
+    peuvent ne plus être dans le bon ordre : lup est peut-être llp,
+    rup peut-être llp, etc.  <br/> Écrire une fonction <code>reorder :
+    point2d * point2d * point2d * point2d -> tetragon</code> qui prend
+    4 points deux à deux distincts en arguments (par forcément issus
+    de l'application de <code>rotate_point</code>) et renvoie un
+    quadrilatère bien formé avec ces 4 sommets.
+  </li>
+  <li>
+   Écrire une fonction <code>rotate_tetragon</code> qui prend en
+   argument un quadrilatère supposé bien formé et renvoie un
+   quadrilatère bien formé obtenu par rotation.
+  </li>
+</ol>
