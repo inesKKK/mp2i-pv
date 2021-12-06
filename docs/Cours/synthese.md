@@ -22,6 +22,10 @@
 | lundi 15 novembre 2021 |  |  | méthodes de tests<br /><br />début ocaml<br /><br /> |  | 
 | mercredi 17 novembre 2021 |  |  | ocaml : variables et expressions<br /><br /> |  | 
 | jeudi 18 novembre 2021 |  |  | ocaml : fonctions (non récursives)<br /><br /> |  | 
+| lundi 22 novembre 2021 |  |  | ocaml : fonctions récursives, récursivité terminale, listes, filtrage par motifs<br /><br /> |  | 
+| jeudi 25 novembre 2021 |  |  | ocaml : filtrage par motifs, opérateur `@`<br /><br /> |  | 
+| lundi 29 novembre 2021 |  |  | ocaml : types algébriques<br /><br /> |  | 
+| jeudi 2 décembre 2021 |  |  | ocaml : types algébriques, options<br /><br /> |  | 
 
 
 

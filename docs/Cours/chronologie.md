@@ -182,6 +182,48 @@
 <br />> curryfication
 <br />
 
+#### lundi 22 novembre 2021
+
+
+* [P] ocaml : fonctions récursives, récursivité terminale, listes, filtrage par motifs
+<br />> `let rec` et exemples de fonctions récursives; code : [factorielle.ml](code/factorielle.ml) / [pair_impair.ml](code/pair_impair.ml)
+<br />> récursivité terminale (hors programme) pour éviter un débordement de pile; code : [compte.ml](code/compte.ml) / [compte_rt.ml](code/compte_rt.ml)
+<br />> polymorphisme
+<br />> listes : immuabilité, syntaxes `x :: xs` et `[e1;e2;e3]`, sémantiques statique et dynamique; code : [longue_liste.ml](code/longue_liste.ml)
+<br />> filtrage : syntaxe `match ... with`, variables de motif, variable joker `_`, motifs associés aux listes
+<br />
+
+#### jeudi 25 novembre 2021
+
+
+* [P] ocaml : filtrage par motifs, opérateur `@`
+<br />> rôle du compilateur : exhaustivité, cas non atteints
+<br />> importance de l'ordre des cas
+<br />> des exemples de fonctions utilisant le filtrage sur les listes; code : [pattern_matching.ml](code/pattern_matching.ml)
+<br />> opérateur `@` et sa complexité
+<br />
+
+#### lundi 29 novembre 2021
+
+
+* [P] ocaml : types algébriques
+<br />> types énumérés : constructeurs constants
+<br />> enregistrements
+<br />> n-uplets
+<br />> motifs de filtrage associées; code : [zip.ml](code/zip.ml)
+<br />> types énumérés qui transportent des données (constructeurs non constants); code : [figure.ml](code/figure.ml); [liste_entiers_flottants.ml](code/liste_entiers_flottants.ml)
+<br />
+
+#### jeudi 2 décembre 2021
+
+
+* [P] ocaml : types algébriques, options
+<br />> retour sur la syntaxe et la sémantique
+<br />> récursivité et polymorphisme; code : [liste.ml](code/liste.ml); [liste_parametree.ml](code/liste_parametree.ml)
+<br />> options
+<br />> bloc `begin ... end`
+<br />
+
 
 [Synthèse](synthese.md) /  [Chronologie](chronologie.md) / [Algorithmique](algorithmique.md) / [Bases de données](bd.md) / [Programmation](prog.md) / [Systèmes](systemes.md) 
 
