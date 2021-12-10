@@ -8,3 +8,6 @@ Les TP `ocaml` du début se trouvent sur un serveur
 
 [TP11](TP11/tp11.md)
 
+[TP12](TP12/tp12.md)
+
+
