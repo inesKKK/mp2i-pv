@@ -26,6 +26,10 @@
 | jeudi 25 novembre 2021 |  |  | ocaml : filtrage par motifs, opérateur `@`<br /><br /> |  | 
 | lundi 29 novembre 2021 |  |  | ocaml : types algébriques<br /><br /> |  | 
 | jeudi 2 décembre 2021 |  |  | ocaml : types algébriques, options<br /><br /> |  | 
+| lundi 6 décembre 2021 | structures de données séquentielles<br /><br /> |  |  |  | 
+| jeudi 9 décembre 2021 | structures de données hiérarchiques<br /><br /> |  |  |  | 
+| lundi 13 décembre 2021 | structures de données hiérarchiques<br /><br /> |  |  |  | 
+| jeudi 16 décembre 2021 | fin tas<br /><br />des applications des arbres<br /><br /> |  |  |  | 
 
 
 

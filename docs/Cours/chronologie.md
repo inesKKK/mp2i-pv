@@ -224,6 +224,49 @@
 <br />> bloc `begin ... end`
 <br />
 
+#### lundi 6 décembre 2021
+
+
+* [A] structures de données séquentielles
+<br />> `typedef` en `C`
+<br />> différence implémentation / interface
+<br />> tableaux de taille variable; code : [vartab.h](code/vartab.h), [main_tableaux_de_taille_variable.c](code/main_tableaux_de_taille_variable.c), [tableaux_de_taille_variable.h](code/tableaux_de_taille_variable.h), [tableaux_de_taille_variable.c](code/tableaux_de_taille_variable.c)
+<br />> piles; code : [stack.h](code/stack.h). [main_stack.c](code/main_stack.c), [stack_array.h](code/stack_array.h), [stack_array.c](code/stack_array.c), [stack_list.h](code/stack_list.h), [stack_list.c](code/stack_list.c)
+<br />> calculatrice en polonaise inverse; code : [polonaise.ml](code/polonaise/ml)
+<br />> calculatrice avec des parenthèses
+<br />> files; code : [queue.h](code/queue.h), [main_queue.c](code/main_queue.c), [queue_list.h](code/queue_list.h), [queue_list.c](code/queue_list.c), [queue.ml](code/queue.ml)
+<br />
+
+#### jeudi 9 décembre 2021
+
+
+* [A] structures de données hiérarchiques
+<br />> arbres binaires, vocabulaire dans un arbre
+<br />> arbres binaires stricts, parfaits
+<br />> liens entre hauteur et taille dans un arbre binaire parfait
+<br />
+
+#### lundi 13 décembre 2021
+
+
+* [A] structures de données hiérarchiques
+<br />> arbres binaires complets
+<br />> liens entre hauteur et taille dans un arbre binaire complet
+<br />> exemples d'implémentation d'arbres binaires en `ocaml` et en `C`
+<br />> implémenation des arbres binaires complets par tableau
+<br />> files de priorité
+<br />> tas : percolation (+complexité), construction
+<br />
+
+#### jeudi 16 décembre 2021
+
+
+* [A] fin tas
+<br />des applications des arbres
+<br />> tas : complexité de l'algorithme de construction
+<br />> applications : minimisation de la complexité dans le pire des cas d'un tri par comparaisons; tri par tas
+<br />
+
 
 [Synthèse](synthese.md) /  [Chronologie](chronologie.md) / [Algorithmique](algorithmique.md) / [Bases de données](bd.md) / [Programmation](prog.md) / [Systèmes](systemes.md) 
 
