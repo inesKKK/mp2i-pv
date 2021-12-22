@@ -10,6 +10,8 @@ devoir fait sur binder).
 
 [TP8](TP8/tp8.md)
 
+[Revisions Noël](Revisions_Noel/revisions_Noel.md)
+
 
 une [fiche sur `gdb`](../GDB/gdb.md) pour ceux qui voudraient se
 servir d'un debugger (aucune obligation)
