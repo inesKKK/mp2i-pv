@@ -1,7 +1,7 @@
 #ifndef _POINT_H
 #define _POINT_H
 
-strut point {
+struct point {
   int x, y;
 };
 
