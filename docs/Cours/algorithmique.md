@@ -63,6 +63,15 @@
 <br />> applications : minimisation de la complexité dans le pire des cas d'un tri par comparaisons; tri par tas
 <br />
 
+* lundi 3 janvier 2022 : applications des arbres, suite
+<br />> codage de Huffman : construction de l'arbre d'encodage
+<br />> tri rapide : correction, complexité dans le meilleur et dans le pire des cas; code : [tri_rapide.c](code/tri_rapide.c)
+<br />
+
+* jeudi 6 janvier 2022 : applications des arbres, suite
+<br />> tri rapide : complexité en moyenne
+<br />
+
 
 [Synthèse](synthese.md) /  [Chronologie](chronologie.md) / [Algorithmique](algorithmique.md) / [Bases de données](bd.md) / [Programmation](prog.md) / [Systèmes](systemes.md) 
 

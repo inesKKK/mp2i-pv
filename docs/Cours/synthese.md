@@ -30,6 +30,8 @@
 | jeudi 9 décembre 2021 | structures de données hiérarchiques<br /><br /> |  |  |  | 
 | lundi 13 décembre 2021 | structures de données hiérarchiques<br /><br /> |  |  |  | 
 | jeudi 16 décembre 2021 | fin tas<br /><br />des applications des arbres<br /><br /> |  |  |  | 
+| lundi 3 janvier 2022 | applications des arbres, suite<br /><br /> |  |  |  | 
+| jeudi 6 janvier 2022 | applications des arbres, suite<br /><br /> |  |  |  | 
 
 
 
