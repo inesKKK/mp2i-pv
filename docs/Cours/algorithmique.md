@@ -72,6 +72,20 @@
 <br />> tri rapide : complexité en moyenne
 <br />
 
+* dimanche 9 janvier 2022 : applications des arbres, fin
+<br />parcours d'arbres binaires
+<br />arbres d'arité quelconque
+<br />> tri rapide : cas des doublons ; code : [tri_rapide_3.c](code/tri_rapide_3.c)
+<br />> parcours : profondeur (préfixe, infixe, postfixe) et largeur (application : garbage collector)
+<br />> représentation fils gauche/frère droit
+<br />
+
+* jeudi 13 janvier 2022 : arbres d'arité quelconque, suite
+<br />complexité amortie
+<br />> tableaux dynamiques implémentés par des arbres; code : [tableaux_arbres.h](code/tableaux_arbres.h) / [tableaux_arbres.c](code/tableaux_arbres.c)
+<br />> complexité amortie pour les tableaux dynamique implémentés à la python
+<br />
+
 
 [Synthèse](synthese.md) /  [Chronologie](chronologie.md) / [Algorithmique](algorithmique.md) / [Bases de données](bd.md) / [Programmation](prog.md) / [Systèmes](systemes.md) 
 

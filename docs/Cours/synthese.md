@@ -32,6 +32,8 @@
 | jeudi 16 décembre 2021 | fin tas<br /><br />des applications des arbres<br /><br /> |  |  |  | 
 | lundi 3 janvier 2022 | applications des arbres, suite<br /><br /> |  |  |  | 
 | jeudi 6 janvier 2022 | applications des arbres, suite<br /><br /> |  |  |  | 
+| dimanche 9 janvier 2022 | applications des arbres, fin<br /><br />parcours d'arbres binaires<br /><br />arbres d'arité quelconque<br /><br /> |  |  |  | 
+| jeudi 13 janvier 2022 | arbres d'arité quelconque, suite<br /><br />complexité amortie<br /><br /> |  |  |  | 
 
 
 
