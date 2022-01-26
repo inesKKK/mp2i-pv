@@ -16,6 +16,7 @@ devoir fait sur binder).
 
 [TP15](TP15/tp15.md) (`C` + `ocaml`)
 
+[TP17](TP17/tp17.md) (`C` + `ocaml`)
 
 
 une [fiche sur `gdb`](../GDB/gdb.md) pour ceux qui voudraient se

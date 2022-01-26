@@ -17,3 +17,6 @@ Les TP `ocaml` du début se trouvent sur un serveur
 
 [TP15](../TPC/TP15/tp15.md) (`C` + `ocaml`)
 
+[TP17](../TPC/TP17/tp17.md) (`C` + `ocaml`)
+
+
