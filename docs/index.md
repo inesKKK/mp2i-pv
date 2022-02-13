@@ -109,4 +109,5 @@ programme.
 * [coût des
   bugs](https://medium.com/@ryancohane/financial-cost-of-software-bugs-51b4d193f107)
   dans le développement logiciel
-* un [bug inattendu de programmation](https://arstechnica.com/cars/2022/02/radio-station-snafu-in-seattle-bricks-some-mazda-infotainment-systems/)
+* un [bug inattendu de programmation](https://arstechnica.com/cars/2022/02/radio-station-snafu-in-seattle-bricks-some-mazda-infotainment-systems/)i
+* explication sur les [solveur SAT](https://www.youtube.com/watch?v=hegPyaLJhGM)
