@@ -30,13 +30,7 @@ formes :
 
 ### Le TP
 
-[Les énoncés de C](TPC/index.md).
-
-[Les énoncé de ocaml](TPocaml/index.md).
-
-La partie `ocaml` sera gérée sur [essok](https://essok.learn-ocaml.org/).
-
-La partie `sql` je ne sais pas encore.
+[Les énoncés](TP).
 
 ### Le TD
 
