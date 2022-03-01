@@ -14,7 +14,7 @@ Pour s'entraîner à programmer en s'amusant :
 Le cours est composé de trois grands thèmes qui sont développés en
 parallèle :
 * Algorithmique
-* Programmation
+* Programmation (dont Bases de données)
 * Systèmes
 
 Vous avez accès à un plan de ce que nous avons fait sous plusieurs
@@ -23,6 +23,9 @@ formes :
 * [vision chronologique](Cours/chronologie.md)
 * par thème :  [Algorithmique](Cours/algorithmique.md) /
   [Programmation](Cours/prog.md) /  [Systèmes](Cours/systemes.md)
+
+
+La base utilisée pour illustrer les cours: [chinook](https://github.com/lerocha/chinook-database/tree/master/ChinookDatabase/DataSources).
 
 #### Quelques compléments en réponses aux questions:
 
