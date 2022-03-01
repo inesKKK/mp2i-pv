@@ -25,12 +25,7 @@ formes :
   [Programmation](Cours/prog.md) /  [Systèmes](Cours/systemes.md)
 
 
-La base utilisée pour illustrer les cours est la base du site
-IMDB. Les données sont accessibles sur
-[imdb](https://datasets.imdbws.com/), avec une explication du [schéma
-des tables](https://www.imdb.com/interfaces/) (le contenu varie tous
-les jours, je l'ai chargé le 1er mars 2022). J'ai utilisé
-[imdb-sqlite](https://pypi.org/project/imdb-sqlite/) pour l'installation.
+La base utilisée pour illustrer les cours est empruntée à [Northeastern University](https://raw.githubusercontent.com/northeastern-datalab/cs3200-activities/master/sql/300-SmallIMDB.txt). Et j'utiliserai [litecli](litecli.com/) comme client (pour la coloration et surtout la complétion automatique).
 
 #### Quelques compléments en réponses aux questions:
 
