@@ -34,6 +34,9 @@
 | jeudi 6 janvier 2022 | applications des arbres, suite<br /><br /> |  |  |  | 
 | dimanche 9 janvier 2022 | applications des arbres, fin<br /><br />parcours d'arbres binaires<br /><br />arbres d'arité quelconque<br /><br /> |  |  |  | 
 | jeudi 13 janvier 2022 | arbres d'arité quelconque, suite<br /><br />complexité amortie<br /><br /> |  |  |  | 
+| lundi 7 mars 2022 |  |  | chaînes de caractères<br /><br /> |  | 
+| lundi 7 mars 2022 |  |  |  | Fichiers<br /><br /> | 
+| vendredi 11 mars 2022 |  |  | entrées / sorties<br /><br /> |  | 
 
 
 

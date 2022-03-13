@@ -302,6 +302,25 @@
 <br />> complexité amortie pour les tableaux dynamique implémentés à la python
 <br />
 
+#### lundi 7 mars 2022
+
+
+* [P] chaînes de caractères
+<br />> caractères et chaînes de caractères (`C` et `ocaml`); code : [chaines_memoire.c](code/chaines_memoire.c) / [erreur_caractere.c](code/erreur_caractere.c)
+<br />
+
+* [S] Fichiers
+<br />> i-nœuds, rôle et contenu des répertoires, espace d'adressage d'un fichier; code: [bigfile.c](code/bigfile.c)
+<br />
+
+#### vendredi 11 mars 2022
+
+
+* [P] entrées / sorties
+<br />> flux standard (entrée, sortie, sortie erreur): dans le shell, en `C` et en `ocaml`; code : [bufferisation.c](code/bufferisation.c) / [bufferisation2.c](code/bufferisation2.c) / [lecture_entree_standard.c](code/lecture_entree_standard.c) / [lecture_chaine.c](code/lecture_chaine.c)
+<br />> fichiers textuels: en `C`; code : [trop_d_ouvertures.c](code/trop_d_ouvertures.c) / [pas_d_ecriture.c](code/pas_d_ecriture.c)
+<br />
+
 
 [Synthèse](synthese.md) /  [Chronologie](chronologie.md) / [Algorithmique](algorithmique.md) / [Bases de données](bd.md) / [Programmation](prog.md) / [Systèmes](systemes.md) 
 
