@@ -68,4 +68,4 @@ vous lancer dans la programmation.
 
 En `C` : [compio.h](C/compio.h) / [compio.c](C/compio.c)
 
-En `ocaml` : [compio.ml](compi.ml)
+En `ocaml` : [compio.ml](compio.ml)
