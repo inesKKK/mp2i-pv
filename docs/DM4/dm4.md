@@ -66,4 +66,6 @@ Je fournis le code qui permet de passer d'une chaîne de caractères à
 un fichier et vice-versa. Regarder bien la documentation _avant_ de
 vous lancer dans la programmation.
 
-En `C` : [compio.h](C/compio.h) / [compio.c] (C/compio.c)
+En `C` : [compio.h](C/compio.h) / [compio.c](C/compio.c)
+
+En `ocaml` : [compio.ml](compi.ml)
