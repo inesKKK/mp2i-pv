@@ -44,7 +44,7 @@ let h_read_bit (stream : h_in_channel) =
   if stream.ou = debut
   then begin
       stream.tampon <- input_byte stream.f;
-      stream.ou <- debut
+      stream.ou <- fin
     end;
   let res = stream.tampon land (1 lsl debut) in
   stream.tampon <- (stream.tampon * 2) land masque;
