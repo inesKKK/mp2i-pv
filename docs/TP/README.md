@@ -61,5 +61,7 @@ Les TP `ocaml` du début se trouvent sur un serveur
 
 [TP25 facile](../TPC/TP25/tp25.md) / [TP25 difficile](../TPC/TP25/tp25b.md) (`C`)
 
+[TP26](../TPC/TP26/tp26.md) (`C`)
+
 une [fiche sur `gdb`](../GDB/gdb.md) pour ceux qui voudraient se
 servir d'un debugger (aucune obligation)
