@@ -63,6 +63,7 @@ Les TP `ocaml` du début se trouvent sur un serveur
 
 [TP26](../TPC/TP26/tp26.md) (`C`)
 
+[TP27](../TPocaml/TP27/tp27.md) (`ocaml`)
 
 une [fiche sur `gdb`](../GDB/gdb.md) pour ceux qui voudraient se
 servir d'un debugger (aucune obligation)
