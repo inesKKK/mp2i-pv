@@ -4,6 +4,8 @@
 
 ### Pendant les vacances
 
+[cahier de vacances](https://ineskkk.github.io/cahier-de-vacances/)
+
 Pour s'entraîner à programmer en s'amusant :
 [codingame](https://www.codingame.com/start),
 [codewars](https://www.codewars.com/?language=c),
