@@ -1,0 +1,7 @@
+ocaml : types algébriques
+#
+types énumérés : constructeurs constants
+enregistrements
+n-uplets
+motifs de filtrage associées; code : [zip.ml](code/zip.ml)
+types énumérés qui transportent des données (constructeurs non constants); code : [figure.ml](code/figure.ml); [liste_entiers_flottants.ml](code/liste_entiers_flottants.ml)

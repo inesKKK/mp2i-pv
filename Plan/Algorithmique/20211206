@@ -1,0 +1,9 @@
+structures de données séquentielles
+#
+`typedef` en `C`
+différence implémentation / interface
+tableaux de taille variable; code : [vartab.h](code/vartab.h), [main_tableaux_de_taille_variable.c](code/main_tableaux_de_taille_variable.c), [tableaux_de_taille_variable.h](code/tableaux_de_taille_variable.h), [tableaux_de_taille_variable.c](code/tableaux_de_taille_variable.c)
+piles; code : [stack.h](code/stack.h). [main_stack.c](code/main_stack.c), [stack_array.h](code/stack_array.h), [stack_array.c](code/stack_array.c), [stack_list.h](code/stack_list.h), [stack_list.c](code/stack_list.c)
+calculatrice en polonaise inverse; code : [polonaise.ml](code/polonaise/ml)
+calculatrice avec des parenthèses
+files; code : [queue.h](code/queue.h), [main_queue.c](code/main_queue.c), [queue_list.h](code/queue_list.h), [queue_list.c](code/queue_list.c), [queue.ml](code/queue.ml)

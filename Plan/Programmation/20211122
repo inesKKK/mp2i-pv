@@ -1,0 +1,7 @@
+ocaml : fonctions récursives, récursivité terminale, listes, filtrage par motifs
+#
+`let rec` et exemples de fonctions récursives; code : [factorielle.ml](code/factorielle.ml) / [pair_impair.ml](code/pair_impair.ml)
+récursivité terminale (hors programme) pour éviter un débordement de pile; code : [compte.ml](code/compte.ml) / [compte_rt.ml](code/compte_rt.ml)
+polymorphisme
+listes : immuabilité, syntaxes `x :: xs` et `[e1;e2;e3]`, sémantiques statique et dynamique; code : [longue_liste.ml](code/longue_liste.ml)
+filtrage : syntaxe `match ... with`, variables de motif, variable joker `_`, motifs associés aux listes

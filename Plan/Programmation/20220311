@@ -1,0 +1,4 @@
+entrées / sorties
+#
+flux standard (entrée, sortie, sortie erreur): dans le shell, en `C` et en `ocaml`; code : [bufferisation.c](code/bufferisation.c) / [bufferisation2.c](code/bufferisation2.c) / [lecture_entree_standard.c](code/lecture_entree_standard.c) / [lecture_chaine.c](code/lecture_chaine.c)
+fichiers textuels: en `C`; code : [trop_d_ouvertures.c](code/trop_d_ouvertures.c) / [pas_d_ecriture.c](code/pas_d_ecriture.c)

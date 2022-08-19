@@ -1,0 +1,3 @@
+chaînes de caractères
+#
+caractères et chaînes de caractères (`C` et `ocaml`); code : [chaines_memoire.c](code/chaines_memoire.c) / [erreur_caractere.c](code/erreur_caractere.c)

@@ -1,0 +1,4 @@
+applications des arbres, suite
+#
+codage de Huffman : construction de l'arbre d'encodage
+tri rapide : correction, complexité dans le meilleur et dans le pire des cas; code : [tri_rapide.c](code/tri_rapide.c)

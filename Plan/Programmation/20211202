@@ -1,0 +1,6 @@
+ocaml : types algébriques, options
+#
+retour sur la syntaxe et la sémantique
+récursivité et polymorphisme; code : [liste.ml](code/liste.ml); [liste_parametree.ml](code/liste_parametree.ml)
+options
+bloc `begin ... end`

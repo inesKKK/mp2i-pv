@@ -1,0 +1,5 @@
+arbres d'arité quelconque, suite
+complexité amortie
+#
+tableaux dynamiques implémentés par des arbres; code : [tableaux_arbres.h](code/tableaux_arbres.h) / [tableaux_arbres.c](code/tableaux_arbres.c)
+complexité amortie pour les tableaux dynamique implémentés à la python

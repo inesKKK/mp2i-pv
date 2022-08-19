@@ -1,0 +1,8 @@
+structures de données hiérarchiques
+#
+arbres binaires complets
+liens entre hauteur et taille dans un arbre binaire complet
+exemples d'implémentation d'arbres binaires en `ocaml` et en `C`
+implémenation des arbres binaires complets par tableau
+files de priorité
+tas : percolation (+complexité), construction

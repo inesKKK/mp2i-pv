@@ -1,0 +1,7 @@
+applications des arbres, fin
+parcours d'arbres binaires
+arbres d'arité quelconque
+#
+tri rapide : cas des doublons ; code : [tri_rapide_3.c](code/tri_rapide_3.c)
+parcours : profondeur (préfixe, infixe, postfixe) et largeur (application : garbage collector)
+représentation fils gauche/frère droit

@@ -1,0 +1,6 @@
+ocaml : filtrage par motifs, opérateur `@`
+#
+rôle du compilateur : exhaustivité, cas non atteints
+importance de l'ordre des cas
+des exemples de fonctions utilisant le filtrage sur les listes; code : [pattern_matching.ml](code/pattern_matching.ml)
+opérateur `@` et sa complexité
