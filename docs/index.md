@@ -1,47 +1,33 @@
-## Informatique MP2I Paul Valery (Paris)
+## Informatique MP2I Paul Valéry (Paris)
 
 [programme officiel](https://cache.media.education.gouv.fr/file/SPE1-MEN-MESRI-4-2-2021/64/6/spe777_annexe_1373646.pdf)
 
-### Pendant les vacances
+### Pendant les vacances entre la MP2I et la MPI
 
 [cahier de vacances](https://ineskkk.github.io/cahier-de-vacances/)
 
-Pour s'entraîner à programmer en s'amusant :
-[codingame](https://www.codingame.com/start),
-[codewars](https://www.codewars.com/?language=c),
-[France-IOI](http://www.france-ioi.org/).
+### Documents
 
-### Le cours
-
-Le cours est composé de trois grands thèmes qui sont développés en
-parallèle :
-* Algorithmique
-* Programmation (dont Bases de données)
-* Systèmes
-
-Vous avez accès à un plan de ce que nous avons fait sous plusieurs
-formes :
-* [vision synthétique](Cours/synthese.md)
-* [vision chronologique](Cours/chronologie.md)
-* par thème :  [Algorithmique](Cours/algorithmique.md) /
-  [Programmation](Cours/prog.md) /  [Systèmes](Cours/systemes.md)
+* La [chronologie](Cours/chronologie) du cours.
+* Les [énoncés de TP](TP).
+* Les [énoncés de TD](TD).
 
 
-La base utilisée pour illustrer les cours est empruntée à [Northeastern University](https://raw.githubusercontent.com/northeastern-datalab/cs3200-activities/master/sql/300-SmallIMDB.txt). Et j'utiliserai [litecli](litecli.com/) comme client (pour la coloration et surtout la complétion automatique).
+<!-- La base utilisée pour illustrer les cours est empruntée à -->
+<!-- [Northeastern -->
+<!-- University](https://raw.githubusercontent.com/northeastern-datalab/cs3200-activities/master/sql/300-SmallIMDB.txt). Et j'utiliserai [litecli](litecli.com/) comme client (pour la coloration et surtout la complétion automatique). -->
 
-#### Quelques compléments en réponses aux questions:
+<!-- #### Quelques compléments en réponses aux questions:
 
 * [exemple de codage d'un réel en flottant](https://cahier-de-prepa.fr/mp2i-pv/download?id=32)
+-->
 
-### Le TP
+<!-- ### Le TD
 
-[Les énoncés](TP).
+Correction de la [question 15 du TD4](https://youtu.be/U2yNvtQT4u8). -->
 
-### Le TD
-
-Correction de la [question 15 du TD4](https://youtu.be/U2yNvtQT4u8).
-
-### Pour s'entraîner à programmer sans rien installer
+### Pour s'entraîner à programmer sans rien installer (à part un
+navigateur web)
 
 À terme c'est sûrement une bonne idée d'installer un linux et d'y
 mettre les outils nécessaires pour programmer dans de bonnes
@@ -58,6 +44,11 @@ qui permet de voir l'état de la mémoire, ou
 
 `ocaml` : [https://try.ocamlpro.com/](https://try.ocamlpro.com/) qui
 ressemble plus à l'environnement utilisé en TP
+
+Pour s'entraîner à programmer en s'amusant :
+[codingame](https://www.codingame.com/start),
+[codewars](https://www.codewars.com/?language=c),
+[France-IOI](http://www.france-ioi.org/).
 
 
 ### Pour travailler sous unix/linux
