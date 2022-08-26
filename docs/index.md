@@ -26,8 +26,7 @@
 
 Correction de la [question 15 du TD4](https://youtu.be/U2yNvtQT4u8). -->
 
-### Pour s'entraîner à programmer sans rien installer (à part un
-navigateur web)
+### Pour s'entraîner à programmer sans rien installer (à part un navigateur web)
 
 À terme c'est sûrement une bonne idée d'installer un linux et d'y
 mettre les outils nécessaires pour programmer dans de bonnes
