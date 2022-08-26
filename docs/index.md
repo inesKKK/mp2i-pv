@@ -8,7 +8,7 @@
 
 ### Documents
 
-* La [chronologie](Cours/chronologie) du cours.
+* La [chronologie](Cours/chronologie.md) du cours.
 * Les [énoncés de TP](TP).
 * Les [énoncés de TD](TD).
 
