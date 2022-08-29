@@ -2,9 +2,10 @@
 
 [programme officiel](https://cache.media.education.gouv.fr/file/SPE1-MEN-MESRI-4-2-2021/64/6/spe777_annexe_1373646.pdf)
 
-### Pendant les vacances entre la MP2I et la MPI
+<!-- ### Pendant les vacances entre la MP2I et la MPI
 
 [cahier de vacances](https://ineskkk.github.io/cahier-de-vacances/)
+-->
 
 ### Documents
 
