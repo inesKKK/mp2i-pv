@@ -9,7 +9,7 @@
 
 ### Documents
 
-* La [chronologie](Cours/chronologie.md) du cours.
+* La [chronologie](Cours) du cours.
 * Les [énoncés de TP](TP).
 * Les [énoncés de TD](TD).
 
