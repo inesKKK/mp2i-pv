@@ -89,9 +89,11 @@ argument est un chemin valide désignant une destination:
     fichier avec ce nom est créé s'il n'existe pas, et son contenu est
     écrasé par celui du fichier source).
 
-1. Copiez le fichier `/home/i/iklimann/Documents/fichier` dans votre répertoire courant (qui est
-encore `~/Documents/MP2I/Informatique/TP/TP1` en principe).
-2. Pour voir le contenu de ces fichiers, vous pouvez utiliser la
+1. Listez le contenu du répertoire `/tmp`.
+2. Trouvez un fichier régulier dans ce répertoire sur lequel vous avez
+   les droits en lecture.
+3. Copiez ce fichier dans votre répertoire de login sous le nom `fic`.
+4. Pour voir le contenu de ces fichiers, vous pouvez utiliser la
    commande `cat` suivi du nom du fichier (quand un fichier est long,
    on peut utiliser `less` qui permet du défilement page par page
    grâce à la barre d'espace, ou ligne à ligne grâce à la touche
@@ -100,7 +102,7 @@ encore `~/Documents/MP2I/Informatique/TP/TP1` en principe).
 
 
 **Exercice 5** :
-Copier le fichier `/home/i/iklimann/Documents/fichier` dans un nouveau fichier
+Copier le fichier `fic` dans un nouveau fichier
 `copie`. Ouvrez ce nouveau fichier l'éditeur de texte `emacs` (voir
 section [Choisir son éditeur de texte](#editeur) ci-dessous), en
 écrivant le nom de l'éditeur suivi du nom du fichier.
