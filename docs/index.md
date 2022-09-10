@@ -11,7 +11,7 @@
 
 * La [chronologie](Cours) du cours.
 * Les [énoncés de TP](TP).
-* Les [énoncés de TD](TD).
+* Les [énoncés de TD](TD2022-2023).
 
 
 <!-- La base utilisée pour illustrer les cours est empruntée à -->
