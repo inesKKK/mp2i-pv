@@ -24,3 +24,20 @@
 * graphe de flot de contrôle d'un programme
 * compilation vs. interprétation
 * types: définition, taille, conversions explicite et implicite, typage fort vs. typage faible
+
+**12 septembre 2022**:
+* typage statique vs. typage dynamique
+* bases de `C` : compilation, flot d'un programme `C` et rôle de la
+  fonction `main`
+* types en `C`: `int`, `unsigned int`, `int8_t`, `int32_t`, `int64_t`,
+  `uint8_t`, `uint32_t`, `uint64_t`
+* bit de poids fort / bit de poids faible
+* complément à 2
+
+**15 septembre 2022**:
+* norme IEEE 754 pour les nombres à virgule flottante en double
+  précision
+* opérations sur les doubles, problèmes de précision et erreurs d'arrondi
+* opérations entre doubles et entiers
+* booléens
+* identifiants en C: règles
