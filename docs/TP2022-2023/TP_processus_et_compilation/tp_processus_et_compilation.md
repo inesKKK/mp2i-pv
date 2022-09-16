@@ -93,7 +93,7 @@ message d'erreur est affiché la plupart du temps. Ce message n'est pas
 affiché sur la sortie standard, mais sur la sortie erreur standard.
 
 1. Lancez la commande `ls schtroumpf` pour voir le message d'erreur.
-2. Relancez-la avec une redirection de sortie erreur : vous voyez
+2. Relancez-la avec une redirection de sortie standard : vous voyez
    encore le message d'erreur.
 3. Relancez-la sous cette forme : `ls schtroumpf 2> toto` (sans espace
    entre le `2` et le `>`) et regardez le contenu de `toto` avec la
