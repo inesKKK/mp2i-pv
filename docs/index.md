@@ -10,7 +10,7 @@
 ### Documents
 
 * La [chronologie](Cours) du cours.
-* Les [énoncés de TP](TP).
+* Les [énoncés de TP](TP2022-2023).
 * Les [énoncés de TD](TD2022-2023).
 
 
