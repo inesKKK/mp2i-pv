@@ -24,6 +24,9 @@ Pour s'entraîner à programmer en s'amusant :
 
 ## Pour travailler sous unix/linux
 
+* en ligne (mais à terme ce ne sera pas viable), on trouve [un
+  environnement très semblable à celui du
+  TP](https://www.onworks.net/runos/create-os.html)
 * Si vous avez un mac : rien à faire, OSX est une surcouche sur BSD.
 * Si vous avez un pc sous windows, plusieurs solutions :
   * vous écrasez windows avec une distribution linux [sauvegardez vos
