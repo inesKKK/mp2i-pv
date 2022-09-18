@@ -41,3 +41,6 @@
 * opérations entre doubles et entiers
 * booléens
 * identifiants en C: règles
+
+**16 septembre 2022** (complément en TP):
+* variables en `C`: déclaration, affectation, portée; code: [reutilisation_identifiant.c](code/reutilisation_identifiant.c)
