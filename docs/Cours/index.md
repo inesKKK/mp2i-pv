@@ -43,4 +43,21 @@
 * identifiants en C: règles
 
 **16 septembre 2022** (complément en TP):
-* variables en `C`: déclaration, affectation, portée; code: [reutilisation_identifiant.c](code/reutilisation_identifiant.c)
+* variables en `C`: déclaration, affectation, portée; code : [reutilisation_identifiant.c](code/reutilisation_identifiant.c)
+
+**19 septembre 2022**
+* constantes en `C` (littérales et symboliques)
+* fonctions en `C`: invocation/appel, passage par valeurs, variables
+  locales, valeur de retour; code :
+  [passage_par_valeurs.c](code/passage_par_valeurs.c)
+* structures de contrôle de `C`: conditionnelles, boucles
+  (conditionnelles et inconditionnelles)
+* introduction à l'algorithmique
+
+**22 septembre 2022**
+* conception d'un algorithme: entrée, sortie, problème de décision
+* correction: terminaison, correction partielle et totale; code :
+  [plus_grande_puissance_de_2.c](code/plus_grande_puissance_de_2.c) /
+  [plus_grande_puissance_de_2.ml](code/plus_grande_puissance_de_2.ml)
+* efficacité: complexité temporelle, complexité spatiale
+* indécidabilité du problème de l'arrêt
