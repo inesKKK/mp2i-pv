@@ -52,7 +52,7 @@ racine carrée, en incluant le fichier d'en-tête `math.h`.
 
 
 **Exercice 4**:
-La célèbre conjecture de Syracuse énonce que, quel que soit l'entier strictement positif $N$, la suite définie par $u_0=N$ et
+La célèbre conjecture de Syracuse énonce que, quel que soit l'entier strictement positif $N$, la suite définie par $u_{0}=N$ et
 
 ```math
 u_{n+1} = \begin{cases}
