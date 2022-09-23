@@ -77,7 +77,7 @@ suivant dans cette suite.
 Écrire et commenter un fonction `valeur_absolue` qui prend un double en arguments et renvoie sa valeur absolue.
 
 [valeur_absolue.c](tests/test_valeur_absolue.c) (ce test est à compiler
-avec l'option `-lm` à cause de l'utilisation de la bibliothèque de math)
+avec l'option `-lm` **en fin de ligne de commande** à cause de l'utilisation de la bibliothèque de math)
 
 ## Algorithme dichotomique
 Dans cette partie, nous allons aborder le problème du calcul de la racine carrée d'un nombre supposé positif (sans vérifier pour l'instant ce point), par une stratégie algorithmique classique, la _dichotomie_. Le principe de la dichotomie est le suivant :
