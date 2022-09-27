@@ -61,3 +61,11 @@
   [plus_grande_puissance_de_2.ml](code/plus_grande_puissance_de_2.ml)
 * efficacité: complexité temporelle, complexité spatiale
 * indécidabilité du problème de l'arrêt
+
+**26 septembre 2022**
+* preuve de terminaison par variant de boucle et par récurrence;
+  code : [fibonacci.c](code/fibonacci.c) /
+  [fibonacci.ml](code/fibonacci.ml) /
+  [note_sous_la_moyenne.c](code/note_sous_la_moyenne.c) /
+  [note_sous_la_moyenne.ml](code/note_sous_la_moyenne.ml) / [dichotomie.c](code/dichotomie.c)
+* preuve de correction par invariant de boucle et par récurrence

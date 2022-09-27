@@ -5,7 +5,7 @@
 /**
  * entree : tableau d'entiers trie dans l'ordre croissant,
  *               indice de debut positif ou nul,
- *               indice de fin strictement inférieur a la longueur du tableau
+ *               indice de fin strictement inferieur a la longueur du tableau
  *               et entier a trouver
  * sortie : true si la valeur apparait dans le tableau, false sinon
  */
@@ -14,7 +14,7 @@ bool recherche(int *tab, int debut, int fin, int n){
 
   int i = (debut+fin)/2;
   if (n==tab[i]) return true;
-  else if n<tab[i] return recherche(tab, debut, i-1, n);
+  else if (n<tab[i]) return recherche(tab, debut, i-1, n);
   else return recherche(tab, i+1, fin, n);
 }
 
