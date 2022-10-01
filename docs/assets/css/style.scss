@@ -2,21 +2,45 @@
 ---
 
 @import "{{ site.theme }}";
-nav,footer{ left: 40%;}
-.wrapper{
-         margin:10px auto;
-         position:relative}
-section{width:120%}
-#banner{background: #93bacb;
-        border: #95bccd;}
-#banner .fork{
-    border:#92b5ca;
+
+nav,
+footer {
+    left: 40%;
 }
-#banner .button{
+
+.wrapper {
+    margin: 10px auto;
+    position: relative
+}
+
+section {
+    width: 120%
+}
+
+#banner {
+    background: #93bacb;
+    border: #95bccd;
+
+    /* Make the banner full width */
+    right: 0;
+}
+
+#banner .fork {
+    border: #92b5ca;
+}
+
+#banner .button {
     background: linear-gradient(#92b5ca, #95bccd);
 }
 
-code,pre{
+#banner #logo {
+    /* Move the github logo closer to the button */
+    right: 7px;
+    left: calc(100vw - 45%);
+}
+
+code,
+pre {
     color: #333;
     background: #efefef;
 }
