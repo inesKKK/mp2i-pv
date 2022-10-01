@@ -43,7 +43,9 @@ Je vous propose ici des ressources externes et quelques documents que
 j'ai produits moi-même pour vous permettre de prendre du recul sur le
 programme.
 
-* un exemple de [graphe de flot de contrôle](https://imgs.xkcd.com/comics/physics_safety_tip.png)
+* un exemple de [graphe de flot de
+  contrôle](https://imgs.xkcd.com/comics/physics_safety_tip.png)
+* les [algorithmes rapides des calculatrices](https://archived.hpcalc.org/laporte/LeSecretDesAlgorithmes.htm)
 * Sur la complexité :
   [intérêt](https://www.lemonde.fr/blog/binaire/2021/04/16/henri-potier-a-lecole-de-la-complexite/),
   [classes de complexité](https://interstices.info/la-theorie-de-la-complexite-algorithmique/)
