@@ -69,3 +69,7 @@
   [note_sous_la_moyenne.c](code/note_sous_la_moyenne.c) /
   [note_sous_la_moyenne.ml](code/note_sous_la_moyenne.ml) / [dichotomie.c](code/dichotomie.c)
 * preuve de correction par invariant de boucle et par récurrence
+
+**29 septembre 2022**
+* gestion de la mémoire en `C`: tableau (déclaration, initialisation),
+  pointeur (déclaration)
