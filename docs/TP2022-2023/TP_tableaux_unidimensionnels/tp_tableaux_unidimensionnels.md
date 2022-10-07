@@ -49,8 +49,6 @@ tableau de double et un entier représentant la taille de ce tableau et
 renvoie la somme des valeurs des cases de ce tableau.
 
 
-Dans ce qui suit, un tableau de `double` de taille 25 est déclaré et initialisé. Déclarez une variable `somme` et faites en sorte que sa valeur soit la somme des éléments du tableau.
-
 [somme.c](tests/somme.c)
 
 ### Exercice 3 : Recherche d'un élément
