@@ -3,7 +3,7 @@
 int main(void){
   bool xxx[] = {true, false, false, true, false, true, true, true, false, false, false, false, false, false, false, true, true, true, true, true, false, false, true, true, true, true, false, true, true, false, true, false, false, true, true, false, false, false, true, true, false, true, true, false, true, false, true, true, true, false, false, true, false, true, false, true, true, false, false, false, false, true, false, true, true, true, true, true, true, true, false, true, false, false, false, false, false, true, true, true, false, true, false, false, false, false, false, true, false, false, true, false, false, true, true, true, false, true, false, true, false, true, true, false, true, true, false, true, false, true, false, false, false, false, true, true, false, true, false, false, true, false, false, true, true, false, false};
 
-  int *yyy = miroir(xxx);
+  int *yyy = miroir(xxx, 127);
   
   assert(! yyy[0]);
   assert(yyy[32]);
