@@ -1,5 +1,6 @@
 #include <assert.h>
 #include <stdbool.h>
+#include <stdlib.h>
 
 bool assert_identiques(bool *r, bool *rep){
   for(int i=0; i<8; i=i+1){
