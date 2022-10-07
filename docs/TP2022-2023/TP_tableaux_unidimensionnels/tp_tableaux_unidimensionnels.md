@@ -117,7 +117,7 @@ Si je considère un tableaux de valeurs comparables (par exemple des nombres), j
 
 1. Écrire une fonction `maximum_local` qui prend en argument un tableau d'entiers, sa taille et un indice et teste si la valeur à cet indice est un maximum local.
 
-[maximum_local.c](maximum_local.c)
+[maximum_local.c](tests/maximum_local.c)
 
 
 L'instruction `break` permet de sortir de la boucle dans laquelle elle
