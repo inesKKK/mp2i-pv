@@ -73,3 +73,17 @@
 **29 septembre 2022**
 * gestion de la mémoire en `C`: tableau (déclaration, initialisation),
   pointeur (déclaration)
+
+**3 octobre 2022**
+* obtenir une valeur de type pointeur: `NULL`, adresse d'une variable,
+  allocation mémoire avec `malloc`, libération avec `free`
+* valeur, contenu et déréférencement d'un pointeur
+* pile d'appel d'un processus, bloc d'activation d'un appel; code :
+  [pile_tas1.c](code/pile_tas1.c) / [pile_tas2.c](code/pile_tas2.c) [pile_tas3.c](code/pile_tas3.c)
+
+**6 octobre 2022**
+* tas d'un processus; code : [pile_tas4.c](code/pile_tas4.c)
+* passage d'un pointeur en paramètre; code :
+  [mise_a_42.c](code/mise_a_42.c)
+* tableaux multi-dimensionnels, syntaxe et place occupée en mémoire;
+  code : [tableaux_multidim.c](code/tableaux_multidim.c)
