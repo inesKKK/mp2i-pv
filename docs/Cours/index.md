@@ -87,3 +87,16 @@
   [mise_a_42.c](code/mise_a_42.c)
 * tableaux multi-dimensionnels, syntaxe et place occupée en mémoire;
   code : [tableaux_multidim.c](code/tableaux_multidim.c)
+
+**10 octobre 2022**
+* tableaux et pointeurs (unidimensionnels et multidimensionnels) comme
+  paramètres d'une fonction; code :
+  [pb_tableaux_pointeurs.c](code/pb_tableaux_pointeurs.c)
+* arguments du `main`; code :
+  [arguments_du_main.c](code/arguments_du_main.c)
+* ordres de grandeurs : grand O, $\Theta$, $\Omega$
+* comparaisons et calculs des ordres de grandeurs habituels
+* complexité dans le pire des cas (définition)
+
+**13 octobre 2022**
+cours annulé
