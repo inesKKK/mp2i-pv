@@ -5,3 +5,5 @@
 * [tp3](TP_premieres_fonctions/tp_premieres_fonctions.md): premières fonctions
 * [tp4](TP_boucles/tp_boucles.md): boucles
 * [tp5](TP_tableaux_unidimensionnels/tp_tableaux_unidimensionnels.md): tableaux unidimensionnels
+* [tp6](TP_pointeurs_et_tableaux/tp_pointeurs_et_tableaux.md):
+  pointeurs et tableaux
