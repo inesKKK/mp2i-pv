@@ -55,7 +55,7 @@ C'est à vous d'écrire une fonction `main`, dans un fichier
 
 
 ### Exercice 3 : Suite récurrente
-On considère une suite numérique $(u_n)_{n\geq 0}$ donnée par son premier terme $(u_0)$ et la relation de récurrence $u_{n+1}=au_n+b$, où $u_0$, $a$ et $b$ sont des réels. Le but de cet exercice est de calculer les premiers termes de cette suite.
+On considère une suite numérique $(u_n)_{n>= 0}$ donnée par son premier terme $(u_0)$ et la relation de récurrence $u_{n+1}=au_n+b$, où $u_0$, $a$ et $b$ sont des réels. Le but de cet exercice est de calculer les premiers termes de cette suite.
 
 Écrire et documenter une fonction `premiers_termes` dont les paramètres sont, dans l'ordre, le terme initial de la suite, les coefficients $a$ et $b$, et le nombre de termes à calculer $n$ et renvoie un tableau qui contient les $n$ premiers termes de la suite.
 
