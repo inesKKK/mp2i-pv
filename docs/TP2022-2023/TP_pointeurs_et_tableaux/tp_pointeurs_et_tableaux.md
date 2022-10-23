@@ -187,7 +187,7 @@ où $\alpha=\pi/3$.
 
 [Koch.c](tests/Koch.c)
 
-2. Écrire une fonction `init_y` qui renvoie un tableau avec les abscisses des deux extrêmités du segment initial.
+2. Écrire une fonction `init_y` qui renvoie un tableau avec les ordonnées des deux extrêmités du segment initial.
 
 3. Écrire une fonction `suivante_x` qui prend en argument deux tableaux représentants respectivement les abscisses et les ordonnées des sommets à une étape donnée dans la construction de la courbe de Koch, et le nombre de sommets en question (sans avoir à le vérifier) et renvoie un tableau avec les abscisses des somments à l'étape suivante.
 
