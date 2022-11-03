@@ -100,3 +100,18 @@
 
 **13 octobre 2022**
 cours annulé
+
+**17 octobre 2022**
+* complexité dans le meilleur des cas et en moyenne (définitions)
+* point de vue expérimental sur la complexité
+* étude de la complexité temporelle du tri bulle: meilleur des cas et
+  pire des cas dans le cas général, en moyenne en ajoutant l'hypothèse
+  que les données sont deux à deux distinctes
+* étude de la complexité temporelle du tri dichotomique: meilleur des
+  cas et pire des cas
+  
+**20 octobre 2022**
+* fin du pire des cas pour le tri dichotomique
+* étude de la complexité temporelle du tri fusion
+* étude de la complexité spatiale de diverses implémentation du calcul
+  de la suite de Fibonacci
