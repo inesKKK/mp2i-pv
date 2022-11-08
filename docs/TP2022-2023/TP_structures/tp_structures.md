@@ -1,6 +1,16 @@
 # TP7 : tableaux, pointeurs et structures
 ## [à la maison pour cause de 11 novembre]
 
+Toutes les semaines, les TP sont à rendre pour le mercredi soir
+suivant au plus tard, sur cahier-de-prepa. Comme c'est à la maison je
+mets un seul énoncé pas trop compliqué (à condition que vous soyez
+méthodiques).
+
+> Les réponses sont à rendre dans un  fichier source, en
+ajoutant en commentaire vos nom et prénom sur la première ligne, la
+ligne de compilation à utiliser sur la deuxième ligne, et en
+identifiant de manière claire les numéros de questions.
+
 
 ### Exercice : Serpent
 Dans cet exercice, nous allons modéliser de façon simplifiée les mouvements erratiques d'un serpent. Seule règle : il avance vers les abscisses croissantes.
