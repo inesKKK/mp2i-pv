@@ -7,3 +7,4 @@
 * [tp5](TP_tableaux_unidimensionnels/tp_tableaux_unidimensionnels.md): tableaux unidimensionnels
 * [tp6](TP_pointeurs_et_tableaux/tp_pointeurs_et_tableaux.md):
   pointeurs et tableaux
+* [tp7](TP_structures/tp_structures.md): structures, tableaux et pointeurs
