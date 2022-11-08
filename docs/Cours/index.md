@@ -115,3 +115,8 @@ cours annulé
 * étude de la complexité temporelle du tri fusion
 * étude de la complexité spatiale de diverses implémentation du calcul
   de la suite de Fibonacci
+
+**7 novembre 2022**
+* tests fonctionnels
+* tests structurels: couverture des sommets, couverture des arcs,
+  tessts exhaustifs de condition, MC/DC
