@@ -120,3 +120,14 @@ cours annulé
 * tests fonctionnels
 * tests structurels: couverture des sommets, couverture des arcs,
   tessts exhaustifs de condition, MC/DC
+
+**11 novembre 2022**
+* documentation et programmation défensive; code :
+  [assert1.c](code/assert1.c) / [assert2.c](code/assert2.c)
+* types structurés en `C` : définition (`struct`), déclaration,
+  initialisateur; accès aux champs
+* types structurés et fonctions; code :
+  [quadrilatere.c](code/quadrilatere.c)
+* types structurés et tableaux, types structurés et pointeurs
+* structures auto-référencées : listes chaînées; code :
+  [liste_chainee1.h](code/liste_chainee1.h) / [liste_chainee1.c](code/liste_chainee1.c)
