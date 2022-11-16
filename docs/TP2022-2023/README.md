@@ -8,3 +8,4 @@
 * [tp6](TP_pointeurs_et_tableaux/tp_pointeurs_et_tableaux.md):
   pointeurs et tableaux
 * [tp7](TP_structures/tp_structures.md): structures, tableaux et pointeurs
+* [tp8](TP_encore_des_pointeurs/tp_encore_des_pointeurs.md): encore des pointeurs
