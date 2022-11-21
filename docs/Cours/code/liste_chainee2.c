@@ -202,9 +202,11 @@ void supprime_toutes_occurences_recursif(struct liste *L, int val){
 
 struct maillon *suppr_recursif(struct maillon *M){
   if(M->suiv == NULL){
+    free(M);
     return NULL;
   }
-  return suppr_recursif(M->suiv);
+  M->suiv = suppr_recursif(M->suiv);
+  return M;
 }
 
 /** L : adresse non nulle d'une liste non vide;
