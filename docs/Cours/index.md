@@ -143,3 +143,18 @@ cours annulé
 
 **17 novembre 2022**
 * expressions conditionnelles, expressions `let` et portée
+
+**21 novembre 2022**
+* annotation des de types
+* fonctions anonymes
+* définition d'une fonction
+* sémantiques dynamique et statique des fonctions
+* curryfication
+* fonctions récursives; code : [factorielle.ml](code/factorielle.ml) /
+  [pair_impair.ml](code/pair_impair.ml) / [compte.ml](code/compte.ml)
+  / [compte_rt.ml](code/compte_rt.ml)
+* polymorphisme
+
+**24 novembre 2022**
+* listes littérales, sémantiques des listes; code : [longue_liste.ml](code/longue_liste.ml)
+* début du filtrage par motifs
