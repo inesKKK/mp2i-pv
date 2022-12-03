@@ -156,5 +156,21 @@ cours annulé
 * polymorphisme
 
 **24 novembre 2022**
-* listes littérales, sémantiques des listes; code : [longue_liste.ml](code/longue_liste.ml)
+* listes littérales, sémantiques des listes, constructeur de liste (`::`); code : [longue_liste.ml](code/longue_liste.ml)
 * début du filtrage par motifs
+
+**28 novembre 2022**
+* filtrage par motifs de listes; code :
+  [pattern_matching.ml](code/pattern_matching.ml)
+* opérateur `@` vs. constructeur `::`
+* fonctionnement du filtrage, filtrage profond, disjonction de motifs
+* sucre syntaxique `function`
+* types algébriques: types énumérés sans valeur; code : [mois.ml](code/mois.ml)
+
+**1er décembre 2022**
+* portée des constructeurs des types énumérés
+* motifs de filtrage pour les types énumérés
+* enregistrements et leurs motifs
+* $n$-uplets et leurs motifs
+* types énumérés embarquant des données et leurs motifs de filtrage;
+  code : [figure.ml](code/figure.ml) / [liste_entiers_flottants.ml](code/liste_entiers_flottants.ml)
