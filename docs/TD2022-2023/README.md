@@ -9,3 +9,5 @@ Représentation des nombres en machine
   Initiation à la complexité
 * [td6](https://cahier-de-prepa.fr/mp2i-pv/download?id=758) : Listes doublement chaînées
 * [td7](https://cahier-de-prepa.fr/mp2i-pv/download?id=799) : Typage `ocaml`
+* [td8](https://cahier-de-prepa.fr/mp2i-pv/download?id=815) : Fonctions `ocaml`
+* [td9](https://cahier-de-prepa.fr/mp2i-pv/download?id=816) : Types algébriques
