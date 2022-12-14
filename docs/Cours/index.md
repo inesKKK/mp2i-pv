@@ -174,3 +174,33 @@ cours annulé
 * $n$-uplets et leurs motifs
 * types énumérés embarquant des données et leurs motifs de filtrage;
   code : [figure.ml](code/figure.ml) / [liste_entiers_flottants.ml](code/liste_entiers_flottants.ml)
+
+**5 décembre 2022**
+* syntaxe et sémantique des types
+* types récursifs et polymorphes; code : [liste.ml](code/liset.ml) /
+  [liste_parametree.ml](code/liste_parametree.ml)
+* mot-clef `and` en `ocaml` pour définir des types mutuellement
+  récursifs
+* option
+* parenthésage `(`/`)` et `begin`/`end`
+
+**7 décembre 2022**
+* début des structures de données
+* mot-clef `typedef` en `C`
+* interface des tableaux de taille variable; code :
+  [vartab.h](code/vartab.h) /
+  [main_tableaux_de_taille_variable.c](code/main_tableaux_de_taille_variable.c)
+  /
+  [tableaux_de_taille_variable.h](code/tableaux_de_taille_variable.h)
+  / [tableaux_de_taille_variable.c](code/tableaux_de_taille_variable.c)
+* interface des piles; code : [stack.h](code/stack.h) / [main_stack.c](code/main_stack.c) / [stack_array.h](code/stack_array.h) / [stack_array.c](code/stack_array.c) / [stack_list.h](code/stack_list.h) / [stack_list.c](code/stack_list.c)
+
+**12 décembre 2022**
+* exemple d'utilisation de pile : calculatrice en polonaise inverse;
+  code : [polonaise.ml](code/polonaise.ml)
+* interface d'une file; code : [queue.h](code/queue.h) /
+  [main_queue.c](code/main_queue.c) /
+  [queue_list.h](code/queue_list.h) /
+  [queue_list.c](code/queue_list.c) / [queue.ml](code/queue.ml)
+* arbres binaires : définitions de base (père, frère, sous-arbre,
+  feuille, nœud interne, branche, arbre binaire strict)
