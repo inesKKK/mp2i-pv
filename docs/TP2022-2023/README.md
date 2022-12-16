@@ -9,6 +9,4 @@
   pointeurs et tableaux
 * [tp7](TP_structures/tp_structures.md) : structures, tableaux et pointeurs
 * [tp8](TP_encore_des_pointeurs/tp_encore_des_pointeurs.md) : encore des pointeurs
-* [tp9](http://klimann.mp2ipv.learn-ocaml.org) : début `ocaml` (le
-  code de connexion sera donné en présentiel)
-* [tp10](http://klimann.mp2ipv.learn-ocaml.org) : fonctions et listes
+* [tp ocaml](http://klimann.mp2ipv.learn-ocaml.org) : tp9 à tp12
