@@ -204,3 +204,13 @@ cours annulé
   [queue_list.c](code/queue_list.c) / [queue.ml](code/queue.ml)
 * arbres binaires : définitions de base (père, frère, sous-arbre,
   feuille, nœud interne, branche, arbre binaire strict)
+
+**15 décembre 2022**
+* arbres binaires parfaits, lien taille / hauteur
+* arbres binaires complets, lien taille / hauteur
+* implémentation des arbres binaires en `C` avec des pointeurs et en `ocaml` avec un type somme
+* implémentation des arbres binaires complets sous forme de tableau
+
+**5 janvier 2023**
+* files de priorité
+* implémenation par tas max : percolation vers le bas (correction et complexité)
