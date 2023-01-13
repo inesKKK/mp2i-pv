@@ -13,3 +13,4 @@
 * tp13 : une partie sur les
   [arbres](http://klimann.mp2ipv.learn-ocaml.org) et une partie sur la
   [compilation `ocaml` en ligne de commande](TP_ocaml_en_ligne_de_commande/tp_compil_ocaml.md)
+* [tp14](TP14_quadtrees/tp14.md) : quadtrees
