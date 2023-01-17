@@ -214,3 +214,25 @@ cours annulé
 **5 janvier 2023**
 * files de priorité
 * implémenation par tas max : percolation vers le bas (correction et complexité)
+
+**9 janvier 2023**
+* tas max : percolation vers le haut, modification de valeur,
+  insertion de valeur, extraction du maximum, construction d'un tas
+  (avec les complexités)
+* applications des arbres binaires:
+  * minoration de la complexité dans le pire des cas d'un tri par
+    comparaisons
+  * tri par tas
+  * principe du codage de Huffman
+  
+
+**12 janvier 2023**
+* applications des arbres binaires - suite:
+  * tri rapide (correction); code : [tri_rapide.c](code/tri_rapide.c)
+  
+
+**16 janvier 2023**
+* tri rapide - suite: complexité dans le pire des cas, le
+    meilleur des cas et en moyenne, cas des doublons; code : [tri_rapide_3.c](tri_rapide_3.c)
+* parcours d'arbres binaires: en profondeur (préfixe, postfixe,
+  suffixe), en largeur
