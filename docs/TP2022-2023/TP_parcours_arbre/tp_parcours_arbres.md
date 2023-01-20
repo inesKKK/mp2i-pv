@@ -1,6 +1,7 @@
-TP15 : Affichage d'arbres binaires
+# TP15 : Affichage d'arbres binaires
 ==
 
+### Exercice 1 : parcours simple
 Le but de ce TP est d'afficher des arbres binaires de plusieurs façons.
 
 Le TP est à faire en `C`. Les types à utiliser et les en-têtes des
@@ -14,7 +15,6 @@ fonction `exemple` disponible dans les fichiers
 Pour un parcours en largeur, il faut utiliser des files, je vous
 fournis une implémentation: [files.h](code/files.h) / [files.c](code/files.c)
 
-### Exercice 1 : parcours simple
 Écrire une fonction `parcours_largeur` qui affiche par niveau, en laissant
 un espace entre les étiquettes. L'exemple fourni doit donner
 l'affichage suivant:
