@@ -232,7 +232,23 @@ cours annulé
   
 
 **16 janvier 2023**
-* tri rapide - suite: complexité dans le pire des cas, le
+* tri rapide - suite : complexité dans le pire des cas, le
     meilleur des cas et en moyenne, cas des doublons; code : [tri_rapide_3.c](tri_rapide_3.c)
 * parcours d'arbres binaires: en profondeur (préfixe, postfixe,
   suffixe), en largeur
+
+**19 janvier 2023**
+* complexité amortie : méthode du banquier
+
+**23 janvier 2023**
+* complexité amortie : suite méthode du banquier, méthode du potentiel
+* arbres d'arité quelconque: implémentation et applications; code :
+  [tableaux_arbres.h](code/tableaux_arbres.h) /
+  [tableaux_arbres.c](code/tableaux_arbres.c) / 
+* mutabilité en `ocaml`: enregistrements avec champs mutables, types référence
+
+**25 janvier 2023**
+* mutabilité en `ocaml`: suite types référence
+* type `unit` : type de retour, expressions conditionnelles, fonctions
+  sans argument; code : [pile.ml](code/pile.ml)
+* tableaux et boucles en `ocaml`
