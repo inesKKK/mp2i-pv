@@ -15,3 +15,8 @@
   [compilation `ocaml` en ligne de commande](TP_ocaml_en_ligne_de_commande/tp_compil_ocaml.md)
 * [tp14](TP14_quadtrees/tp14.md) : quadtrees
 * [tp15](TP15_parcours_arbre/tp_parcours_arbres.md) : parcours d'arbres
+
+# gdb
+une [fiche sur `gdb`](../GDB/gdb.md) pour ceux qui voudraient se
+servir d'un debugger (aucune obligation)
+
