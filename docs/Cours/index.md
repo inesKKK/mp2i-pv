@@ -252,3 +252,11 @@ cours annulé
 * type `unit` : type de retour, expressions conditionnelles, fonctions
   sans argument; code : [pile.ml](code/pile.ml)
 * tableaux et boucles en `ocaml`
+
+**30 janvier 2023**
+* exceptions en `ocaml`
+* représenter une collections de données: ABR; code : [abr.ml](code/abr.ml)
+
+**1er février 2023**
+* arbres rouge-noir (sauf suppression d'une valeur); code : [arbresRN.ml](code/arbresRN.ml)
+* dictionnaires
