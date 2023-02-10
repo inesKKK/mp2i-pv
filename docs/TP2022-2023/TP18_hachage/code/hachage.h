@@ -6,7 +6,7 @@
 struct hachage {
   int lg; // nombre d'alvéoles
   struct maillon **alveoles; // tableau de listes d'alveoles
-  int (*hacher)(int); // fonction de hachage (prend un entier en argument et renvoie un entier)
+  int (*hacher)(int, int); // fonction de hachage (prend deux entiers en argument et renvoie un entier)
 };
 
 typedef struct hachage hachage;
