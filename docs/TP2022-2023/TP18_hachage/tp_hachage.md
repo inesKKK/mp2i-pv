@@ -31,7 +31,7 @@ hachage dans la table de hachage.
 Par exemple on pourrait écrire:
 
 ```C
-int zero(int n){  // le paramètre est là pour le type de la fonction
+int zero(int n, int p){  // les paramètres sont là pour le type de la fonction
     return 0;
 } // très peu intéressant comme fonction de hachage
 
