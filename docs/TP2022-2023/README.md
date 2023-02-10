@@ -16,6 +16,7 @@
 * [tp14](TP14_quadtrees/tp14.md) : quadtrees
 * [tp15](TP15_parcours_arbre/tp_parcours_arbres.md) : parcours d'arbres
 * [tp17](TP_arbres_lexicographiques/tp17.md) : arbres lexicographiques
+* [tp18](TP18_hachage/tp_hachage.md) : tables de hachage
 
 # gdb
 une [fiche sur `gdb`](../GDB/gdb.md) pour ceux qui voudraient se
