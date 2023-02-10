@@ -15,7 +15,7 @@ typedef struct hachage hachage;
  * hacher : une fonction qui prend un entier en argument et renvoie un entier compris entre 0 et n-1
  * sortie: table de hachage avec n alvéoles
  */
-hachage init(int n, int (*hacher)(int));
+hachage init(int n, int (*hacher)(int, int));
 
 /** h : table de hachage existante
  * val : valeur à ajouter
