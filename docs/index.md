@@ -63,3 +63,4 @@ programme.
 * un [bug inattendu de programmation](https://arstechnica.com/cars/2022/02/radio-station-snafu-in-seattle-bricks-some-mazda-infotainment-systems/)
 * explication sur les [solveur SAT](https://www.youtube.com/watch?v=hegPyaLJhGM)
 * sur les [opérateurs booléens](https://twitter.com/mikeinspace/status/1503754795848450061)
+* se servir de youtube pour [stocker des données dans une vidéo](https://hackaday.com/2023/02/21/youtube-as-infinite-file-storage/)
