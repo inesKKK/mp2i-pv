@@ -260,3 +260,40 @@ cours annulé
 **1er février 2023**
 * arbres rouge-noir (sauf suppression d'une valeur); code : [arbresRN.ml](code/arbresRN.ml)
 * dictionnaires
+
+**6 février 2023**
+* retour sur la suppression d'une valeur dans un arbre rouge-noir
+* tables de hachage: définition, résolution des collisions par
+  sondage, début résolution des collisions par chaînage
+  
+**7 février 2023**
+* tables de hachage: fin résolution des collisions par chaînage
+* récursivité et induction: ensembles ordonnés, ordre bien fondé,
+  définition des ensembles inductifs par intersection
+
+**8 février 2023**
+* suite ensembles inductifs
+* preuves par induction
+* caractérisation des ensembles inductifs par union
+* principe d'induction structurelle
+* principe d'induction bien fondée
+* lien avec la correction des fonctions récursives
+* début logique propositionnelle: syntaxe, tables de vérité
+
+**13 février 2023**
+* suite logique propositionnelle
+* valuation; code : [valuation.ml](code/valuation.ml)
+* (au passage: exploration de quelques fonctions des modules `List` et
+  `Array` en `ocaml`)
+* satisfiabilité d'une formule, tautologie, antilogie, équivalence de
+  formules, lois de De Morgan, conséquence logique
+* formes normales négatives
+
+**15 février 2023**
+* équivalence logique entre une formule et sa forme normale négative
+* formes normales conjonctives
+* problème SAT
+* équivalence logique entre une formule et sa forme normale
+  conjonctive
+* formules équi-satisfiables
+
