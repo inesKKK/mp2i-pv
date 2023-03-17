@@ -1,7 +1,7 @@
 #include <assert.h>
 #include <string.h>
 #include <stdio.h>
-#include "tp21.h"
+#include "tp20.h"
 
 void test_longueur(){
   assert( longueur("") == 0 );
