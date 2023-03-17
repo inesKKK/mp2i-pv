@@ -9,7 +9,7 @@
   pointeurs et tableaux
 * [tp7](TP_structures/tp_structures.md) : structures, tableaux et pointeurs
 * [tp8](TP_encore_des_pointeurs/tp_encore_des_pointeurs.md) : encore des pointeurs
-* [tp ocaml](http://klimann.mp2ipv.learn-ocaml.org) : tp9 à tp12 + tp16
+* [tp ocaml](http://klimann.mp2ipv.learn-ocaml.org) : tp9 à tp12 + tp16 + tp19
 * tp13 : une partie sur les
   [arbres](http://klimann.mp2ipv.learn-ocaml.org) et une partie sur la
   [compilation `ocaml` en ligne de commande](TP_ocaml_en_ligne_de_commande/tp_compil_ocaml.md)
@@ -17,6 +17,7 @@
 * [tp15](TP15_parcours_arbre/tp_parcours_arbres.md) : parcours d'arbres
 * [tp17](TP_arbres_lexicographiques/tp17.md) : arbres lexicographiques
 * [tp18](TP18_hachage/tp_hachage.md) : tables de hachage
+* [tp20](TP20_chaines_de_caracteres/tp20.md) : chaîness caractères
 
 # gdb
 une [fiche sur `gdb`](../GDB/gdb.md) pour ceux qui voudraient se
