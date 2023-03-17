@@ -1,4 +1,4 @@
-TP14 : Quadtrees et Images
+# TP14 : Quadtrees et Images
 ==
 
 Le but de ce TP est d'utiliser une structure arborescente pour
@@ -9,10 +9,10 @@ en `ocaml`, ou les deux. Pour les questions en `C`, vous devez
 compiler en ligne de commande et écrire vos tests (mais je vous
 fournis un certain nombre de fonctions utiles pour cela). Pour les
 questions en `ocaml`, allez sur le [serveur de
-TP](http://klimann.mp2ipv.learn-ocaml.org) car il vous manque certaines
+TP](klimann.mp2ipv.learn-ocaml.org) car il vous manque certaines
 structures de données pour faire un programme complet.
 
-## Des couleurs
+### Exercice 99 : Des couleurs
 
 Il y a plusieurs façons de coder des couleurs. Nous considérons le
 codage RGB obtenu par mélange des trois couleurs rouge (*r*ed), vert
@@ -35,8 +35,12 @@ Les types sont fournis en `C` et en `ocaml`.
 Les signatures des fonctions à écrire dans les exercices qui suivent
 sont également fournis. À vous de les documenter.
 
-Les fichiers pour le `C` : [ppm.h](ppm.h) / [ppm.c](ppm.c) /
-[image.h](image.h) / [image.c](image.c) / [quadtree.h](quadtree.h) /
+Les fichiers pour le `C` : 
+[ppm.h](ppm.h) / 
+[ppm.c](ppm.c) /
+[image.h](image.h) / 
+[image.c](image.c) / 
+[quadtree.h](quadtree.h) /
 [quadtree.c](quadtree.c).
 
 Rappel : utilisez `gcc` avec les options `-Wall -Wno-unused
@@ -44,7 +48,7 @@ Rappel : utilisez `gcc` avec les options `-Wall -Wno-unused
 argument.
 
 Pour `ocaml`, tout est fourni dans les préludes sur le [serveur de
-TP](http://klimann.mp2ipv.learn-ocaml.org).
+TP](klimann.mp2ipv.learn-ocaml.org).
 
 ### Exercice 1 : comparer deux couleurs [ `C` et `ocaml` ]
 Écrire une fonction `meme_couleur` qui teste si les deux couleurs
@@ -114,7 +118,7 @@ quadtree fournies).
 ### Exercice 4 : nombre de nœuds internes d'un quadtree [ `ocaml` ]
 En `C` je vous ai fourni une fonction comptant le nombre de nœuds
 internes d'un quadtree. Écrivez cette fonction en `ocaml` [serveur de
-TP](http://klimann.mp2ipv.learn-ocaml.org).
+TP](klimann.mp2ipv.learn-ocaml.org).
 
 ### Exercice 5 : d'un quadtree à une image [ `C` ]
 Écrire une fonction `quadtree2image` qui prend en argument un pointeur

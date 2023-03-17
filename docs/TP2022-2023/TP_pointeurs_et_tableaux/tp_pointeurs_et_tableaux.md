@@ -33,8 +33,7 @@ programme, merci de respecter ce nom.
 
 
 ## Flocon -- pour ceux qui n'ont jamais programmé
-### Exercice 1 : 
-Échange d'entiers
+### Exercice 1 : Échange d'entiers
 La fonction suivante en `C` ne fonctionne pas :
 ```C
 void echange_errone(int a, int b){

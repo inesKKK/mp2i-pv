@@ -119,12 +119,14 @@ Dans ce TP, je vous fournis systématiquement:
 
 ## Flocon -- pour ceux qui n'ont jamais programmé
 
-Pour cette partie, les fichiers utiles:
-[tests_mandelbrot.h](tests/tests_mandelbrot.h) /
-[tests_mandelbrot.c](tests/tests_mandelbrot.c) /
-[mandelbrot.h](tests/mandelbrot.h) / [mandelbrot.c](tests/mandelbrot.c)
 
 ### Exercice 1 : Ensemble de Mandelbrot
+Pour cette partie, les fichiers utiles:
+[tests_mandelbrot.h](tests/tests_mandelbrot.h)
+[tests_mandelbrot.c](tests/tests_mandelbrot.c)
+[mandelbrot.h](tests/mandelbrot.h) 
+[mandelbrot.c](tests/mandelbrot.c) 
+
 On considère un point $C$ du plan de coordonnées $(x_c,y_c)$ et une suite de points $(P_n)_{n\geq 0}$ du plan. On note $(x_n, y_n)$ les coordonnées de $P_n$. Les coordonnées de $(P_n)_n$ sont obtenues par la relation de récurrence suivante :
 
 $$\begin{array}{lcl}
@@ -164,12 +166,14 @@ On donne la fonction `norme_carre` qui permet de calculer la norme au carré d'u
 
 ## Première étoile -- pour ceux qui sont à l'aise en programmation et ceux qui ont facilement fini le flocon
 
-Pour cette partie, les fichiers utiles:
-[tests_oiseaux.h](tests/tests_oiseaux.h) /
-[tests_oiseaux.c](tests/tests_oiseaux.c) / [oiseaux.h](tests/oiseaux.h)
-/ [oiseaux.c](tests/oiseaux.c)
 
 ### Exercice 2 : Hasard
+Pour cette partie, les fichiers utiles:
+[tests_oiseaux.h](tests/tests_oiseaux.h) 
+[tests_oiseaux.c](tests/tests_oiseaux.c) 
+[oiseaux.h](tests/oiseaux.h) 
+[oiseaux.c](tests/oiseaux.c) 
+
 Écrire et documenter une fonction `hasard` qui tire un entier positif ou nul au hasard, majoré par une borne donnée en premier paramètre, et ayant comme deuxième paramètre une valeur à éviter.  
 
 Pour rappel, la fonction `random()` (déclaré dans le fichier d'en-tête `stdlib.h`) renvoie un entier entre 0 et une constante `RAND_MAX` (également définie dans le fichier d'en-tête `stdlib.h`).
