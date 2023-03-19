@@ -278,7 +278,7 @@ cours annulé
 * principe d'induction structurelle
 * principe d'induction bien fondée
 * lien avec la correction des fonctions récursives
-* début logique propositionnelle: syntaxe, tables de vérité
+* début logique propositionnelle : syntaxe, tables de vérité
 
 **13 février 2023**
 * suite logique propositionnelle
@@ -297,3 +297,33 @@ cours annulé
   conjonctive
 * formules équi-satisfiables
 
+**6 mars 2023**
+* substitution de formules
+* algorithme de Quine
+* formes normales disjonctives
+* type caractère en `C` et en `ocaml`
+* chaînes de caractères en `C`; code :
+  [chaines_memoire.c](code/chaines_memoire.c) / [erreur_caractere.c](code/erreur_caractere.c)
+
+**8 mars 2023**
+* chaînes de caractères en `ocaml`
+* début stratégies algorithmiques
+* force brut; code : [cherche.c](code/cherche.c) /
+  [cherche.ml](code/cherche.ml)
+* backtracing (retour sur trace); code : [reines.c](code/reines.c) /
+  [espaces.ml](code/espaces.ml)
+* début algorithmes gloutons
+
+**13 mars 2023**
+* suite algorithmes gloutons; code : [egypte.ml](code/egypte.ml)
+* début programmation dynamique; code : [fibonacci.c](code/fibonacci2.c) /
+  [fibonacci_dynamique.c](code/fibonacci_dynamique.c) /
+  [fibonacci_dynamique2.c](code/fibonacci_dynamique2.c) /
+  [monnaie_naive.ml](code/monnaie_naive.ml) / [monnaie.ml](code/monnaie.ml)
+
+**15 mars 2023**
+* fin programmation dynamique; code :
+  [levenshtein_naif.c](code/levenshtein_naif.c) /
+  [levenshtein.c](code/levenshtein.c) /
+  [typographie.c](code/typographie.c)
+* début diviser pour régner
