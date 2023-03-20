@@ -310,7 +310,7 @@ cours annulé
 * début stratégies algorithmiques
 * force brut; code : [cherche.c](code/cherche.c) /
   [cherche.ml](code/cherche.ml)
-* backtracing (retour sur trace); code : [reines.c](code/reines.c) /
+* backtracking (retour sur trace); code : [reines.c](code/reines.c) /
   [espaces.ml](code/espaces.ml)
 * début algorithmes gloutons
 
