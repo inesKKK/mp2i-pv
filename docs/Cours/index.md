@@ -326,4 +326,34 @@ cours annulé
   [levenshtein_naif.c](code/levenshtein_naif.c) /
   [levenshtein.c](code/levenshtein.c) /
   [typographie.c](code/typographie.c)
-* début diviser pour régner
+* début diviser pour régner : couvertures de *n* points de la droite
+  par *k* segments de plus petite longueur
+
+**20 mars 2023**
+* fin diviser pour régner : ligne d'horizon
+* rencontre au milieu; code : [subsum.c](code/subsum.c)
+* entrées / sorties : flux standard, shell et `C`; code :
+  [bufferisation.c](code/bufferisation.c) /
+  [bufferisation2.c](code/bufferisation2.c) /
+  [lecture_entree_standard.c](code/lecture_entree_standard.c) / [lecture_chaine.c](code/lecture_chaine.c)
+
+**22 mars 2023**
+* entrées / sorties : flux standard, `ocaml`
+* fichiers textuels; code :
+  [trop_d_ouvertures.c](code/trop_d_ouvertures.c) /
+  [pas_d_ecriture.c](code/pas_d_ecriture.c) / [cat.ml](code/cat.ml)
+* Algorithmique du texte : recherche de motifs (algorithmes de
+  Rabin-Karp et de Boyer-Moore_Horspool); compression de données
+  (algorithmes de Huffman, et Lempel-Ziv-Welsh)
+
+**27 mars 2023**
+* fin algorithme Lempel-Ziv-Welsh
+* sérialisation; code :
+  [serialisation_tableau_bidim.c](code/serialisation_tableau_bidim.c)
+  /
+  [serialisation_tableau_bidim.ml](code/serialisation_tableau_bidim.ml)
+  / [arbres.h](code/arbres.h) / [arbres.c](code/arbres.c) /
+  [arbres.ml](code/arbres.ml) / [serialisation_arbre_binaire.c](code/serialisation_arbre_binaire.c)
+* `fwrite` / `fread` / `fseek`; code :
+  [exemple_fwrite.c](code/exemple_fwrite.c) / [exemple_fread.c](code/exemple_fread.c)
+* introduction bases de données
