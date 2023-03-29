@@ -18,6 +18,7 @@
 * [tp17](TP_arbres_lexicographiques/tp17.md) : arbres lexicographiques
 * [tp18](TP18_hachage/tp_hachage.md) : tables de hachage
 * [tp20](TP20_chaines_de_caracteres/tp20.md) : chaîness caractères
+* [tp21](TP_Steganographie/tp20.md) : entrées / sorties
 
 # gdb
 une [fiche sur `gdb`](../GDB/gdb.md) pour ceux qui voudraient se
