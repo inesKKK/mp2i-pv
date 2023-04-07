@@ -19,6 +19,7 @@
 * [tp18](TP18_hachage/tp_hachage.md) : tables de hachage
 * [tp20](TP20_chaines_de_caracteres/tp20.md) : chaîness caractères
 * [tp21](TP_Steganographie/tp21.md) : entrées / sorties
+* [tp22](TP_bd1/tp_bd1.md) : bases de données -- première partie
 
 # gdb
 une [fiche sur `gdb`](../GDB/gdb.md) pour ceux qui voudraient se
