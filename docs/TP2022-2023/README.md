@@ -20,6 +20,7 @@
 * [tp20](TP20_chaines_de_caracteres/tp20.md) : chaîness caractères
 * [tp21](TP_Steganographie/tp21.md) : entrées / sorties
 * [tp22](TP_bd1/tp_bd1.md) : bases de données -- première partie
+* [tp23](TP_bd2/tp_bd2.md) : bases de données -- deuxième partie
 
 # gdb
 une [fiche sur `gdb`](../GDB/gdb.md) pour ceux qui voudraient se
