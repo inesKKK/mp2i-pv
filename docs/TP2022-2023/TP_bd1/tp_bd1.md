@@ -34,12 +34,12 @@ Les données proviennent du site de l'INSEE :
   [https://statistiques-locales.insee.fr](https://statistiques-locales.insee.fr).
 
 
-La base de données `communes` regroupe les informations
+La base de données `communes2` regroupe les informations
 nécessaires. Vous pouvez lancer `postgres` sur cette base sur les
 machines de la salle TP avec la commande
 
 ```
-psql communes -U utilisateur
+psql communes2 -U utilisateur
 ```
 
 (attention: c'est bien `utilisateur` qu'il faut mettre, pour tout le
