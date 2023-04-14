@@ -39,7 +39,7 @@ nécessaires. Vous pouvez lancer `postgres` sur cette base sur les
 machines de la salle TP avec la commande
 
 ```
-psql communes2 -U utilisateur
+psql communes -U utilisateur
 ```
 
 (attention: c'est bien `utilisateur` qu'il faut mettre, pour tout le
@@ -158,10 +158,13 @@ Dans cette section, nous utilisons en plus la table `demographie`.
 Enfin, dans cette section, nous utilisons également la table
 `equipements`
 
-27. Combien y a-t-il de boulangeries en France ?
-28. Combien y a-t-il, en moyenne, de pharmacies par commune ?
-29. Dans combien de communes y-a-t-il strictement plus de poissonneries que de crèches ?
+27. Combien y a-t-il de boulangeries en France ? [48568]
+28. Combien y a-t-il, en moyenne, de pharmacies par commune ? [entre
+    69% et 70%]
+29. Dans combien de communes y-a-t-il strictement plus de
+    poissonneries que de crèches ? [572]
 31. Quel est le nom de la commune avec le plus faible nombre
   d'habitants (connu) par boulangerie ? On donnera le nom de la
-  commune avec le nombre d'habitants par boulangerie (partie entière).
+  commune avec le nombre d'habitants par boulangerie (partie
+  entière). [15 habitants]
 
