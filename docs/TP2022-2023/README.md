@@ -21,8 +21,7 @@
 * [tp21](TP_Steganographie/tp21.md) : entrées / sorties
 * [tp22](TP_bd1/tp_bd1.md) : bases de données -- première partie
 * [tp23](TP_bd2/tp_bd2.md) : bases de données -- deuxième partie
-* tp24 : recherche de motifs dans un texte, [version
-  facile](TP_Boyer_Moore/tp_sans_fichier.md) / [version difficile](TP_Boyer_Moore/tp_avec_fichier.md)
+* tp24 : recherche de motifs dans un texte, [version facile](TP_Boyer_Moore/tp_sans_fichier.md) / [version difficile](TP_Boyer_Moore/tp_avec_fichier.md)
 
 # gdb
 une [fiche sur `gdb`](../GDB/gdb.md) pour ceux qui voudraient se
