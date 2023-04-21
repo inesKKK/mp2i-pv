@@ -34,7 +34,7 @@ int *occ_droite(const char *motif);
 ```
 
 qui prend une chaîne de caractères en argument et renvoie un tableau
-de la taille de le nombre de valeurs du type `char`, qui contient la
+de la taille le nombre de valeurs du type `char`, qui contient la
 dernière occurence de `(char) i` dans la case d'indice `i`, et -1 si
 `(char) i` n'apparaît pas dans le motif.
 
