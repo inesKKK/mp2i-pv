@@ -57,8 +57,8 @@ struct liste_occ *boyer_moore(const char *texte, const char *motif, int debut, i
 ```
 
 qui prend en argument un texte et un motif sous forme de chaînes de
-caractères, une indice `debut` à partir duquel il faut regarder le
-texte et le tableau des dernières occurences droites dans le motif, et
+caractères, un indice `debut` à partir duquel il faut regarder le
+texte, et le tableau des dernières occurences droites dans le motif, et
 renvoie la liste des indices de début d'occurences du motif dans le
 texte, en utilisant l'algorithme de Boyer-Moore.
 
