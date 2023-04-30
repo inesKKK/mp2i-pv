@@ -357,3 +357,33 @@ cours annulé
 * `fwrite` / `fread` / `fseek`; code :
   [exemple_fwrite.c](code/exemple_fwrite.c) / [exemple_fread.c](code/exemple_fread.c)
 * introduction bases de données
+
+**29 mars 2023**
+* vocabulaire des bases de données
+* requêtes simples sur une seule table : `SELECT ... FROM ... WHERE ...`
+* organisation du résultat d'une requête : `AS`, `ORDER BY`,
+  `DISTINCT`
+* opérations ensemblistes : `INTERSECT`, `EXCEPT`, `UNION`
+* jointures "à la main",
+
+**3 avril 2023**
+* jointures internes avec `JOIN`, jointures externes avec `LEFT JOIN`
+* contraintes d'intégrité : clefs primaires, clefs étrangères
+* modèle entités / associations
+
+**05 avril 2023**
+* contraintes de cardinalité
+* requêtes complexes : requêtes imbriquées
+* fonctions d'agrégation : `MIN`, `MAX`, `SUM`, `AVG`, `COUNT`
+
+**12 avril 2023**
+* agrégats : `GROUP BY`, `HAVING`
+* début graphes : vocabulaire, un peu de combinatoire
+
+**17 avril 2023**
+* connexité et forte connexité, composantes connexes et fortement
+  connexes
+
+**19 avril 2023**
+* cycles et graphes acycliques
+* différentes caractérisations des arbres
