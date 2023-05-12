@@ -5,6 +5,42 @@ Rappel: compilez avec le plus d'options possibles, par exemple `-Wall
 -Wno-unused -pedantic -Werror -Wextra`.
 
 
+## Révisions sur les tableaux et les pointeurs
+On sait qu'en `C` les tableaux statiques et les pointeurs alloués par `malloc`
+ne se trouvent pas dans la même zone mémoire. Ainsi l'exécution du
+programme [dim1a.c](dim1a.c) suivant:
+
+```C
+int main(void){
+  int *t0 = (int *)malloc(3*sizeof(int));
+  int t1[] = {1,2,3};
+  int t2[3];
+  int *t3 = (int *)malloc(3*sizeof(int));
+
+  t0[0] = 4;
+  t1[0] = 5;
+  t2[0] = 6;
+  t3[0] = 7;
+
+  printf("t0 : %p\nt1 : %p\nt2 : %p\nt3 : %p\n", (void *)t0, (void *)t1, (void *)t2, (void *)t3);
+  
+  return 0;
+}
+```
+
+permet de constater ce phénomène. Vous pouvez aussi exécuter le
+programme sur [C tutor](https://pythontutor.com/c.html#code=%23include%20%3Cstdlib.h%3E%0A%23include%20%3Cstdio.h%3E%0A%0Aint%20main%28void%29%7B%0A%20%20int%20*t0%20%3D%20%28int%20*%29malloc%283*sizeof%28int%29%29%3B%0A%20%20int%20t1%5B%5D%20%3D%20%7B1,2,3%7D%3B%0A%20%20int%20t2%5B3%5D%3B%0A%20%20int%20*t3%20%3D%20%28int%20*%29malloc%283*sizeof%28int%29%29%3B%0A%0A%20%20t0%5B0%5D%20%3D%204%3B%0A%20%20t1%5B0%5D%20%3D%205%3B%0A%20%20t2%5B0%5D%20%3D%206%3B%0A%20%20t3%5B0%5D%20%3D%207%3B%0A%0A%20%20printf%28%22t0%20%3A%20%25p%5Cnt1%20%3A%20%25p%5Cnt2%20%3A%20%25p%5Cnt3%20%3A%20%25p%5Cn%22,%20%28void%20*%29t0,%20%28void%20*%29t1,%20%28void%20*%29t2,%20%28void%20*%29t3%29%3B%0A%20%20%0A%20%20return%200%3B%0A%7D&mode=edit&origin=opt-frontend.js&py=c_gcc9.3.0&rawInputLstJSON=%5B%5D).
+
+On a vu que les en-têtes suivantes de fonctions sont complètement
+équivalentes:
+
+```C
+void fp(int *t);
+void ft(int t[]);
+```
+et qu'on peut donner `t0`, `t1`, `t2` ou `t3` en argument à ces deux
+fonctions sans problème.
+
 
 
 En adaptant `dim1a.c`, affichez les adresses de `tt0`, `tt1`, `tt2`, puis
