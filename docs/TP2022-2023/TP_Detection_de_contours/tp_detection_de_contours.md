@@ -156,44 +156,26 @@ comme longueurs de tableaux statiques au lieu de macro définies avec
 qui sont donc explicitement hors programme. Mais un
 des concours a utilisé ça dans un énoncé. Au moins vous l'aurez vu une fois.
 
-### Par dérivée
-
-Le but ici est de partir d'une image au format pgm ascii de taille
-400x600 et d'en extraire le contour (sous forme d'une image de
-même dimension et au même format, ne contenant que du noir et du
-blanc).
-
-Par exemple l'image
-
-![](img/paul_valery.png)
-
-permet d'obtenir le contour
-
-![](img/contours_paul_valery.png)
-
-Le principe pour trouver le contour d'une image, est de repérer les
-points dont la couleur varie particulièrement par rapport aux couleurs
-des voisins.
-
-Pour cela, on regarde la variation par rapport au voisin du dessous
-et au voisin de droite (en fait par rapport au voisin obtenu en
-décrémentant l'abscisse et au voisin obtenu en décrémentant
-l'ordonnée, peu importe l'orientation de l'image).
-
-Le but est d'écrire les fonctions `derive` et `seuil` déclarées dans
-le fichier [contours.h](contours.h) de façon à pouvoir exécuter la
-fonction principale contenue dans [main.c](main.c).
-
-Pour `derive`: la valeur obtenue pour le pixel
- ![](https://latex.codecogs.com/svg.image?(x,y)&space;) est
- ![](https://latex.codecogs.com/svg.image?\sqrt{\bigl(I(x,y)-I(x-1,y)\bigr)^2&plus;\bigl(I(x,y)-I(x,y-1)\bigr)^2}&space;)
- (quand cela a un sens).
-
-La fonction `seuil` permet ensuite de modifier l'image transmise en
-mettant 0 pour les valeurs inférieures au seuil et 1 pour les autres
-(dans l'exemple j'ai pris un seuil de 4000).
 
 
+### Par filtres plus perfectionnés
+
+Il existe des opérateurs permettant de détecter les contours de façon
+un peu plus fine, en variant les directions considérées. Ils s'écrivent tous sous forme de matrice 3x3
+noté  ![](https://latex.codecogs.com/svg.image?f) et
+s'appliquent sous forme de produit de convolution:
+
+![](https://latex.codecogs.com/svg.image?\sum_{u=-1}^{1}&space;\sum_{v=-1}^{1}&space;f(u,v)\times&space;I\bigl(x-u,y-v\bigr)&space;)
+
+(Il faut bien entendu faire attention aux bords.)
+
+Écrire une fonction qui prend pour paramètre une image source sous la
+forme d'un tableau d'entiers de taille `haut`x`larg`, un filtre de
+taille 3x3, et une image destination sous la
+forme d'un tableau d'entiers de taille `haut`x`larg` et remplit
+l'image destination avec le produit de convolution.
+
+Vous pouvez faire des tentatives avec les filtres suivants:
 
 * opérateurs de Prewitt:
 
