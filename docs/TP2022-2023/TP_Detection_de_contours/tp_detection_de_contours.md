@@ -148,14 +148,43 @@ l'appel cet adresse n'a plus de sens. En revanche, rien n'interdit de
 transmettre à un appel de fonction une adresse locale, l'appel ayant
 alors la possibilité de modifier le contenu à cette adresse.
 
-## Contour d'image
 
-Dans ce qui suit, je vais utiliser des variables déclarées `const`
-comme longueurs de tableaux statiques au lieu de macro définies avec
-`#define`. En fait ce sont du coup des VLA - *variable length array*,
-qui sont donc explicitement hors programme. Mais un
-des concours a utilisé ça dans un énoncé. Au moins vous l'aurez vu une fois.
+### Par dérivée
 
+Le but ici est de partir d'une image au format pgm ascii de taille
+400x600 et d'en extraire le contour (sous forme d'une image de
+même dimension et au même format, ne contenant que du noir et du
+blanc).
+
+Par exemple l'image
+
+![](img/paul_valery.png)
+
+permet d'obtenir le contour
+
+![](img/contours_paul_valery.png)
+
+Le principe pour trouver le contour d'une image, est de repérer les
+points dont la couleur varie particulièrement par rapport aux couleurs
+des voisins.
+
+Pour cela, on regarde la variation par rapport au voisin du dessous
+et au voisin de droite (en fait par rapport au voisin obtenu en
+décrémentant l'abscisse et au voisin obtenu en décrémentant
+l'ordonnée, peu importe l'orientation de l'image).
+
+Le but est d'écrire les fonctions `derive` et `seuil` déclarées dans
+le fichier [contours.h](contours.h) de façon à pouvoir exécuter la
+fonction principale contenue dans [main.c](main.c).
+
+Pour `derive`: la valeur obtenue pour le pixel
+ ![](https://latex.codecogs.com/svg.image?(x,y)&space;) est
+ ![](https://latex.codecogs.com/svg.image?\sqrt{\bigl(I(x,y)-I(x-1,y)\bigr)^2&plus;\bigl(I(x,y)-I(x,y-1)\bigr)^2}&space;)
+ (quand cela a un sens).
+
+La fonction `seuil` permet ensuite de modifier l'image transmise en
+mettant 0 pour les valeurs inférieures au seuil et 1 pour les autres
+(dans l'exemple j'ai pris un seuil de 4000).
 
 
 ### Par filtres plus perfectionnés
