@@ -41,6 +41,50 @@ void ft(int t[]);
 et qu'on peut donner `t0`, `t1`, `t2` ou `t3` en argument à ces deux
 fonctions sans problème.
 
+On a aussi évoqué le fait que les adresses des cases d'un tableau
+(statique ou alloué avec `malloc`) sont consécutives (en laissant la
+place pour les données bien sûr), ce qu'on peut constater avec le
+programme [dim1b.c](dim1b.c):
+
+```C
+/* dans la vraie vie il faudrait faire un tableau avec toutes les
+adresses et une fonction intermédiaire, mais le but de ce TP étant
+de mieux comprendre les tableaux 2D, je m'abstiens.
+*/
+int main(void){
+  int *t0 = (int *)malloc(3*sizeof(int));
+  int t1[] = {1,2,3};
+  int t2[3];
+  int *t3 = (int *)malloc(3*sizeof(int));
+
+  printf("t0 :  ");
+  for(int i=0; i<3; i=i+1){
+    printf("%p  ", (void *)&t0[i]);
+  }
+  printf("\n\n");
+
+  printf("t1 :  ");
+  for(int i=0; i<3; i=i+1){
+    printf("%p  ", (void *)&t1[i]);
+  }
+  printf("\n\n");
+
+  printf("t2 :  ");
+  for(int i=0; i<3; i=i+1){
+    printf("%p  ", (void *)&t2[i]);
+  }
+  printf("\n\n");
+
+  printf("t3 :  ");
+  for(int i=0; i<3; i=i+1){
+    printf("%p  ", (void *)&t3[i]);
+  }
+  printf("\n\n");
+
+  return 0;
+}
+```
+
 
 
 En adaptant `dim1a.c`, affichez les adresses de `tt0`, `tt1`, `tt2`, puis
