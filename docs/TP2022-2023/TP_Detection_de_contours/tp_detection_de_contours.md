@@ -194,22 +194,39 @@ mettant 0 pour les valeurs inférieures au seuil et 1 pour les autres
 (dans l'exemple j'ai pris un seuil de 4000).
 
 
-### Par filtres plus perfectionnés
 
-Il existe des opérateurs permettant de détecter les contours de façon
-un peu plus fine, en variant les directions considérées. Ils s'écrivent tous sous forme de matrice 3x3
-noté  ![](https://latex.codecogs.com/svg.image?f) et
-s'appliquent sous forme de produit de convolution:
+* opérateurs de Prewitt:
 
-![](https://latex.codecogs.com/svg.image?\sum_{u=-1}^{1}&space;\sum_{v=-1}^{1}&space;f(u,v)\times&space;I\bigl(x-u,y-v\bigr)&space;)
+![](https://latex.codecogs.com/svg.image?\frac{1}{3}\begin{pmatrix}-1&space;&&space;0&space;&&space;1%5C%5C-1&space;&&space;0&space;&&space;1%5C%5C-1&space;&&space;0&space;&&space;1\end{pmatrix}&space;)
 
-(Il faut bien entendu faire attention aux bords.)
+![](https://latex.codecogs.com/svg.image?\frac{1}{3}\begin{pmatrix}-1&space;&&space;-1&space;&&space;-1%5C%5C0&space;&&space;0&space;&&space;0%5C%5C1&space;&&space;1&space;&&space;1\end{pmatrix}&space;)
 
-Écrire une fonction qui prend pour paramètre une image source sous la
-forme d'un tableau d'entiers de taille `haut`x`larg`, un filtre de
-taille 3x3, et une image destination sous la
-forme d'un tableau d'entiers de taille `haut`x`larg` et remplit
-l'image destination avec le produit de convolution.
+* opérateurs de Sobel:
 
-Vous pouvez faire des tentatives avec les filtres suivants:
+![](https://latex.codecogs.com/svg.image?\frac{1}{4}\begin{pmatrix}-1&space;&&space;0&space;&&space;1%5C%5C-2&space;&&space;0&space;&&space;2%5C%5C-1&space;&&space;0&space;&&space;1\end{pmatrix}&space;)
 
+![](https://latex.codecogs.com/svg.image?\frac{1}{4}\begin{pmatrix}-1&space;&&space;-2&space;&&space;-1%5C%5C0&space;&&space;0&space;&&space;0%5C%5C-1&space;&&space;-2&space;&&space;-1\end{pmatrix}&space;)
+
+* opérateurs de Kirch
+
+![](https://latex.codecogs.com/svg.image?\frac{1}{15}\begin{pmatrix}-3&space;&&space;-3&space;&&space;-5%5C%5C-3&space;&&space;0&space;&&space;5%5C%5C-3&space;&&space;-3&space;&&space;5\end{pmatrix}&space;)
+
+![](https://latex.codecogs.com/svg.image?\frac{1}{15}\begin{pmatrix}-3&space;&&space;-3&space;&&space;-3%5C%5C-3&space;&&space;0&space;&&space;-3%5C%5C5&space;&&space;5&space;&&space;5\end{pmatrix}&space;)
+
+![](https://latex.codecogs.com/svg.image?\frac{1}{15}\begin{pmatrix}-3&space;&&space;-3&space;&&space;-3%5C%5C5&space;&&space;0&space;&&space;-3%5C%5C5&space;&&space;5&space;&&space;-3\end{pmatrix}&space;)
+
+![](https://latex.codecogs.com/svg.image?\frac{1}{15}\begin{pmatrix}5&space;&&space;5&space;&&space;-3%5C%5C5&space;&&space;0&space;&&space;-3%5C%5C-3&space;&&space;-3&space;&&space;-3\end{pmatrix}&space;)
+
+* opérateurs de Robinson
+
+![](https://latex.codecogs.com/svg.image?\frac{1}{5}\begin{pmatrix}-1&space;&&space;1&space;&&space;1%5C%5C-1&space;&&space;-2&space;&&space;1%5C%5C-1&space;&&space;1&space;&&space;1\end{pmatrix}&space;)
+
+![](https://latex.codecogs.com/svg.image?\frac{1}{5}\begin{pmatrix}-1&space;&&space;-1&space;&&space;-1%5C%5C1&space;&&space;-2&space;&&space;1%5C%5C1&space;&&space;1&space;&&space;1\end{pmatrix}&space;)
+
+![](https://latex.codecogs.com/svg.image?\frac{1}{5}\begin{pmatrix}-1&space;&&space;1&space;&&space;1%5C%5C-1&space;&&space;-2&space;&&space;1%5C%5C-1&space;&&space;11&space;&&space;1\end{pmatrix}&space;)
+
+![](https://latex.codecogs.com/svg.image?\frac{1}{5}\begin{pmatrix}-1&space;&&space;-1&space;&&space;1%5C%5C-1&space;&&space;-2&space;&&space;1%5C%5C1&space;&&space;1&space;&&space;1\end{pmatrix}&space;)
+
+* laplacien
+
+![](https://latex.codecogs.com/svg.image?\begin{pmatrix}0&space;&&space;-1&space;&&space;0%5C%5C-1&space;&&space;4&space;&&space;-1%5C%5C0&space;&&space;-1&space;&&space;0\end{pmatrix}&space;)
