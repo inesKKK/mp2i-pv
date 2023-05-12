@@ -159,7 +159,7 @@ des concours a utilisé ça dans un énoncé. Au moins vous l'aurez vu une fois.
 ### Par dérivée
 
 Le but ici est de partir d'une image au format pgm ascii de taille
-400x600 et d'en extraire le contour (sous forme d'une image de
+400x600 ([cette image](paul_valery.pgm)) et d'en extraire le contour (sous forme d'une image de
 même dimension et au même format, ne contenant que du noir et du
 blanc).
 
