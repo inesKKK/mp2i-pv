@@ -101,53 +101,14 @@ déclarations suivantes sont-elles fondamentatement différentes ?
 ```
 
 
-En adaptant `dim1a.c`, affichez les adresses de `tt0`, `tt1`, `tt2`, puis
-les adresses des trois sous-tableaux de chacun.
 
-Exécutez votre programme sur [C tutor](https://pythontutor.com/c.html#mode=edit) pour comprendre comment sont réparties les données.
+## Contour d'image
 
-Affichez les adresses des deux cases de chacun des trois sous-tableaux
-de `tt0`, puis de ceux de `tt1`, puis de ceux de `tt2`.
-
-Regardez de plus près les adresses de `t[0][1]` et `t[1][0]` (pour `t`
-prenant les valeurs `tt0`, `tt1`, `tt2`et `tt3`). Que remarquez-vous ? Que
-pouvez-vous conclure sur la façon dont les tableaux `tt2` et `tt3`
-sont rangés en mémoire ?
-
-Regardons maintenant ce qui se passe avec les fonctions.
-
-On considère les quatre fonctions suivantes disponibles dans le fichier
-[dim2b.c](dim2b.c):
-
-```C
-void fpp(int **t){
-  printf("fpp\n");
-}
-
-void fpt(int *t[]){
-  printf("fpt\n");
-}
-
-void ftt1(int t[3][2]){
-  printf("ftt1\n");
-}
-
-void ftt2(int t[][2]){
-  printf("ftt2\n");
-}
-```
-
-Essayez d'invoquer ces fonctions avec `tt0`, `tt1`, `tt2` et `tt3`
-comme argument. Faites le bilan de ce qui est possible et de ce qui ne
-l'est pas.
-
-
-Bien sûr, il faut garder en tête qu'une fonction ne ne peut pas
-renvoyer une adresse dans sa pile d'appel, puisqu' à la sortie de
-l'appel cet adresse n'a plus de sens. En revanche, rien n'interdit de
-transmettre à un appel de fonction une adresse locale, l'appel ayant
-alors la possibilité de modifier le contenu à cette adresse.
-
+Dans ce qui suit, je vais utiliser des variables déclarées `const`
+comme longueurs de tableaux statiques au lieu de macro définies avec
+`#define`. En fait ce sont du coup des VLA - *variable length array*,
+qui sont donc explicitement hors programme. Mais un
+des concours a utilisé ça dans un énoncé. Au moins vous l'aurez vu une fois.
 
 ### Par dérivée
 
