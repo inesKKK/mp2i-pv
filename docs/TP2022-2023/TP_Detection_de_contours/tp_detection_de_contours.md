@@ -85,6 +85,20 @@ int main(void){
 }
 ```
 
+Que se passe-t-il en dimension 2 ? Les effets en mémoire des
+déclarations suivantes sont-elles fondamentatement différentes ?
+
+```C
+  int **tt0 = (int **)malloc(3*sizeof(int *));
+  int *tt1[3];
+  int tt2[3][2];
+  int tt3[][2] = { {1,2},{3,4},{5,6} };
+
+  for(int i=0; i<3; i=i+1){
+    tt0[i] = (int *)malloc(2*sizeof(int));
+    tt1[i] = (int *)malloc(2*sizeof(int));
+  }
+```
 
 
 En adaptant `dim1a.c`, affichez les adresses de `tt0`, `tt1`, `tt2`, puis
