@@ -213,38 +213,3 @@ l'image destination avec le produit de convolution.
 
 Vous pouvez faire des tentatives avec les filtres suivants:
 
-* opérateurs de Prewitt:
-
-![](https://latex.codecogs.com/svg.image?\frac{1}{3}\begin{pmatrix}-1&space;&&space;0&space;&&space;1%5C%5C-1&space;&&space;0&space;&&space;1%5C%5C-1&space;&&space;0&space;&&space;1\end{pmatrix}&space;)
-
-![](https://latex.codecogs.com/svg.image?\frac{1}{3}\begin{pmatrix}-1&space;&&space;-1&space;&&space;-1%5C%5C0&space;&&space;0&space;&&space;0%5C%5C1&space;&&space;1&space;&&space;1\end{pmatrix}&space;)
-
-* opérateurs de Sobel:
-
-![](https://latex.codecogs.com/svg.image?\frac{1}{4}\begin{pmatrix}-1&space;&&space;0&space;&&space;1%5C%5C-2&space;&&space;0&space;&&space;2%5C%5C-1&space;&&space;0&space;&&space;1\end{pmatrix}&space;)
-
-![](https://latex.codecogs.com/svg.image?\frac{1}{4}\begin{pmatrix}-1&space;&&space;-2&space;&&space;-1%5C%5C0&space;&&space;0&space;&&space;0%5C%5C-1&space;&&space;-2&space;&&space;-1\end{pmatrix}&space;)
-
-* opérateurs de Kirch
-
-![](https://latex.codecogs.com/svg.image?\frac{1}{15}\begin{pmatrix}-3&space;&&space;-3&space;&&space;-5%5C%5C-3&space;&&space;0&space;&&space;5%5C%5C-3&space;&&space;-3&space;&&space;5\end{pmatrix}&space;)
-
-![](https://latex.codecogs.com/svg.image?\frac{1}{15}\begin{pmatrix}-3&space;&&space;-3&space;&&space;-3%5C%5C-3&space;&&space;0&space;&&space;-3%5C%5C5&space;&&space;5&space;&&space;5\end{pmatrix}&space;)
-
-![](https://latex.codecogs.com/svg.image?\frac{1}{15}\begin{pmatrix}-3&space;&&space;-3&space;&&space;-3%5C%5C5&space;&&space;0&space;&&space;-3%5C%5C5&space;&&space;5&space;&&space;-3\end{pmatrix}&space;)
-
-![](https://latex.codecogs.com/svg.image?\frac{1}{15}\begin{pmatrix}5&space;&&space;5&space;&&space;-3%5C%5C5&space;&&space;0&space;&&space;-3%5C%5C-3&space;&&space;-3&space;&&space;-3\end{pmatrix}&space;)
-
-* opérateurs de Robinson
-
-![](https://latex.codecogs.com/svg.image?\frac{1}{5}\begin{pmatrix}-1&space;&&space;1&space;&&space;1%5C%5C-1&space;&&space;-2&space;&&space;1%5C%5C-1&space;&&space;1&space;&&space;1\end{pmatrix}&space;)
-
-![](https://latex.codecogs.com/svg.image?\frac{1}{5}\begin{pmatrix}-1&space;&&space;-1&space;&&space;-1%5C%5C1&space;&&space;-2&space;&&space;1%5C%5C1&space;&&space;1&space;&&space;1\end{pmatrix}&space;)
-
-![](https://latex.codecogs.com/svg.image?\frac{1}{5}\begin{pmatrix}-1&space;&&space;1&space;&&space;1%5C%5C-1&space;&&space;-2&space;&&space;1%5C%5C-1&space;&&space;11&space;&&space;1\end{pmatrix}&space;)
-
-![](https://latex.codecogs.com/svg.image?\frac{1}{5}\begin{pmatrix}-1&space;&&space;-1&space;&&space;1%5C%5C-1&space;&&space;-2&space;&&space;1%5C%5C1&space;&&space;1&space;&&space;1\end{pmatrix}&space;)
-
-* laplacien
-
-![](https://latex.codecogs.com/svg.image?\begin{pmatrix}0&space;&&space;-1&space;&&space;0%5C%5C-1&space;&&space;4&space;&&space;-1%5C%5C0&space;&&space;-1&space;&&space;0\end{pmatrix}&space;)
