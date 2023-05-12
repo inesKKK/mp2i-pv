@@ -22,7 +22,7 @@
 * [tp22](TP_bd1/tp_bd1.md) : bases de données -- première partie
 * [tp23](TP_bd2/tp_bd2.md) : bases de données -- deuxième partie
 * tp24 : recherche de motifs dans un texte, [version facile](TP_Boyer_Moore/tp_sans_fichier.md) / [version difficile](TP_Boyer_Moore/tp_avec_fichier.md)
-* [tp24](TP_Detection_de_contours/tp_detection_de_contours.md) : détection de contours
+* [tp25](TP_Detection_de_contours/tp_detection_de_contours.md) : détection de contours
 
 # gdb
 une [fiche sur `gdb`](../GDB/gdb.md) pour ceux qui voudraient se
