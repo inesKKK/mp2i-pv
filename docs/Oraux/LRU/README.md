@@ -1,4 +1,4 @@
-Oral blanc -- Implémantation d'un cache LRU
+Oral blanc -- Implémentation d'un cache LRU
 ---
 
 Fichiers contenant le code de l'énoncé:
