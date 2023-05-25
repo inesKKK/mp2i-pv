@@ -9,5 +9,9 @@ Fichiers contenant le code de l'énoncé:
 * type table : [table.h](table.h)
 
 
+[documentation `C`/`OCaml`](https://devdocs.io/)
+
+
+
 Outil pour aller au-delà du sujet si `gnuplot` n'est pas disponible (m'appeler pour savoir quoi en faire):
 [https://hostcat.fhsu.edu/cdclark/static/apps/gnuplot/](https://hostcat.fhsu.edu/cdclark/static/apps/gnuplot/)
