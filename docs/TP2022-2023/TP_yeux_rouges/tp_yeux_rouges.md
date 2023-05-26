@@ -98,7 +98,7 @@ deux autres composantes.
 2. Écrire une fonction
 `enlever_yeux_rouges : Images.image -> bool array -> unit` qui
 parcourt le tableaux de booléens (qui correspond au tableau renvoyé
-par la foncction `composante_connexe`) et pour les pixels concernés
+par la fonction `composante_connexe`) et pour les pixels concernés
 modifie la couleur par un appel à `modif_coul`.
 
 
