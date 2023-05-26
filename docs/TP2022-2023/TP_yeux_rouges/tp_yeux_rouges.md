@@ -13,7 +13,7 @@ https://www.futura-sciences.com/tech/questions-reponses/photo-t-on-yeux-rouges-p
 ![](photos/photo1.jpg)
 
 Vous pouvez récupérer une version ppm P3 de cette photo:
-[photo1.ppm](photos/photo.ppm). Un des yeux contient le point (427,672) et
+[photo1.ppm](photos/photo1.ppm). Un des yeux contient le point (427,672) et
 l'autre le point (1548,648).
 
 Voici ce que j'obtiens en appliquant ma solution de ce TP :
