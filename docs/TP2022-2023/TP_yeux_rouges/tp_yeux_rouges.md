@@ -49,7 +49,7 @@ sommets sont les pixels de l'image et il y a une arête entre deux
 sommets si les pixels correspondants se touchent et sont tous les deux rouges.
 
 Vous trouverez dans le fichier [yeux_rouges.ml](src/yeux_rouges.ml)
-une fonction `rouge : int array -> bool` qui teste si un pixel donné
+une fonction `rouge : couleur -> bool` qui teste si un pixel donné
 sous la forme d'un tableau contenant les composantes RGB
 correspondantes est rouge ou non.
 
