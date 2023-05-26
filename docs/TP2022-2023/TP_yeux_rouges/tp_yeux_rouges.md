@@ -54,7 +54,7 @@ sous la forme d'un tableau contenant les composantes RGB
 correspondantes est rouge ou non.
 
 Écrire une fonction
-`voisins : Images.image -> int * int -> (int * int) list` qui renvoie
+`voisins : image -> int * int -> (int * int) list` qui renvoie
 la liste des voisins du pixel dont les coordonnées sont données en
 argument (attention à ne pas sortir des limites de l'image).
 
@@ -75,7 +75,7 @@ qui prend en argument une file et une liste de coordonnées de pixel et
 ajoute les éléments de la liste à la file.
 
 2. Écrire une fonction
-`composante_connexe : Images.image -> int * int -> bool array`
+`composante_connexe : image -> int * int -> bool array`
 qui calcule la composante connexe d'un pixel. Le résultat est renvoyé
 sous forme d'un tableau linéarisé de booléens représentant l'image, tel que la
 case correspondant au pixel `(x, y)` contient `true` si et seulement si
@@ -90,13 +90,13 @@ composante rouge, car on modifierait la luminosité et les reflets, ce
 qui rendrait les yeux moins réalistes.
 
 1. Écrire une fonction
-`modif_coul : Images.image -> int * int -> unit` qui modifie la
+`modif_coul : image -> int * int -> unit` qui modifie la
 couleur du pixel dont les coordonnées sont fournies en argument, en
 remplaçant la composante rouge par la moyenne arithmétique entre les
 deux autres composantes.
 
 2. Écrire une fonction
-`enlever_yeux_rouges : Images.image -> bool array -> unit` qui
+`enlever_yeux_rouges : image -> bool array -> unit` qui
 parcourt le tableaux de booléens (qui correspond au tableau renvoyé
 par la fonction `composante_connexe`) et pour les pixels concernés
 modifie la couleur par un appel à `modif_coul`.
