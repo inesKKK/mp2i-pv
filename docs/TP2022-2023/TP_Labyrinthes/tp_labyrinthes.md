@@ -124,6 +124,7 @@ demandés dans l'énoncé) et [qui est fournie](src/labyrinthe.ml).
 
 Pour info, voici :
 * mon chemin pour laby0 :
+
 ```
 +-------------+
 |     | | |* *|
@@ -134,6 +135,7 @@ Pour info, voici :
 +-------------+
 ```
 * mon chemin pour laby1 :
+
 ```
 +---------------------------------------------------------------------+
 |                 |   |           |               |                   |
