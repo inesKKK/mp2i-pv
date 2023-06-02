@@ -24,6 +24,7 @@
 * tp24 : recherche de motifs dans un texte, [version facile](TP_Boyer_Moore/tp_sans_fichier.md) / [version difficile](TP_Boyer_Moore/tp_avec_fichier.md)
 * [tp25](TP_Detection_de_contours/tp_detection_de_contours.md) : détection de contours
 * [tp26](TP_yeux_rouges/tp_yeux_rouges.md) : suppression des yeux rouges
+* [tp27](TP_Labyrinthes/tp_labyrinthes.md) : Génération et résolution de labyrinthes
 
 # gdb
 une [fiche sur `gdb`](../GDB/gdb.md) pour ceux qui voudraient se
