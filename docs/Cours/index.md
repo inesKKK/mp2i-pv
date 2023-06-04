@@ -387,3 +387,33 @@ cours annulé
 **19 avril 2023**
 * cycles et graphes acycliques
 * différentes caractérisations des arbres
+
+**15 mai 2023**
+* caractérisation d'un arbre en terme de graphe
+* ordre topologique, algorithme de Kahn
+* représesentations d'un graphe : matrices d'adjacence; code :
+  [chemin.c](code/chemin.c) / [chemin.ml](code/chemin.ml)
+  
+**17 mai 2023**
+* complexité des fonctions `chemin`
+* représesentations d'un graphe : listes d'adjacence, avec listes ou
+  avec tableaux statiques rectangulaires ou linéaires; code :
+  [liste_adj.c](code/liste_adj.c) / [liste_adj.ml](code/liste_adj.ml)
+  /  [liste_adj2.c](code/liste_adj2.c) /
+  [liste_adj2.ml](code/liste_adj2.ml) 
+* parcours générique d'un graphe
+
+**22 mai 2023**
+* preuve de la correction du parcours générique
+* arbres couvrants
+* parcours en profondeur
+
+
+**24 mai 2023**
+* parcours en largeur + exos
+
+**31 mai 2023**
+* reprise du parcours en largeur
+* graphes non connexes : parcours du graphe entier, comptage du nombre
+  de composantes connexes
+* graphes bipartis
