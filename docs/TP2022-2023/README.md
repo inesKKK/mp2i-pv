@@ -25,6 +25,7 @@
 * [tp25](TP_Detection_de_contours/tp_detection_de_contours.md) : détection de contours
 * [tp26](TP_yeux_rouges/tp_yeux_rouges.md) : suppression des yeux rouges
 * [tp27](TP_Labyrinthes/tp_labyrinthes.md) : Génération et résolution de labyrinthes
+* [tp28](TP_lire_article/tp_contours_images.md) : Apprendre à lire un article (et implémenter l'algorithme de Dijkstra)
 
 # gdb
 une [fiche sur `gdb`](../GDB/gdb.md) pour ceux qui voudraient se
