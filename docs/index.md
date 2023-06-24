@@ -51,7 +51,7 @@ programme.
   [classes de complexité](https://interstices.info/la-theorie-de-la-complexite-algorithmique/)
 * Sur l'indécidabilité du problème de l'arrêt: [vidéo du Professeur Karré](https://www.youtube.com/watch?v=13O1qhX4Bqo)
 * Sur les codages de nombres en machine : [exemples de catastrophes
-  dûes à des erreurs de conversion](https://www.iro.umontreal.ca/~mignotte/IFT2425/Disasters.html)
+  dues à des erreurs de conversion](https://www.iro.umontreal.ca/~mignotte/IFT2425/Disasters.html)
 * [intérêt des comportements indéfinis pour les compilateurs](https://www.youtube.com/watch?app=desktop&v=yG1OZ69H_-o)
 * Une explication de la [pile
   d'appel](https://www.youtube.com/watch?v=-PX0BV9hGZY) en musique
