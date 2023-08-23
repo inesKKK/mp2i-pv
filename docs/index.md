@@ -10,8 +10,8 @@
 ### Documents
 
 * La [chronologie](Cours) du cours.
-* Les [énoncés de TP](TP2022-2023).
-* Les [énoncés de TD](TD2022-2023).
+* Les [énoncés de TP](TP2023-2024).
+* Les [énoncés de TD](TD2023-2024).
 
 
 <!-- La base utilisée pour illustrer les cours est empruntée à -->
