@@ -37,7 +37,7 @@ int main(void){
   complement_a_deux(10, r10);
 
   bool repm10[8] = {1,1,1,1,0,1,1,0}, repm10[8];
-  complement_a_deux(-10, rm10);
+  complement_a_deux(-10, repm10);
 
   assert(assert_identiques(r0, rep0));
   assert(assert_identiques(r1, rep1));
