@@ -177,7 +177,7 @@ taille et renvoie le plus petit entier `p`tel que le tableau est
 
 ### Exercice 12 : Permutation
 Si $n$ est un entier, on peut donner une application $\{ 0,\dots,
-n\} \to \{ 0, \dots,n\} sous la forme d'un tableau
+n\} \to \{ 0, \dots,n\}$ sous la forme d'un tableau
 à $n+1$ cases dont la case $i$ contient l'image de l'entier $i$.
 
 Écrire une fonction `inverse` qui prend en argument un tableau
