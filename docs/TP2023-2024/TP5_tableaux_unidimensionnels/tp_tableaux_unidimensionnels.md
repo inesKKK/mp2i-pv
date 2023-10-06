@@ -176,13 +176,13 @@ taille et renvoie le plus petit entier `p`tel que le tableau est
 
 
 ### Exercice 12 : Permutation
-Si $n$ est un entier, on peut donner une application $\llbracket 0,
-n\rrbracket \to \llbracket 0, n\rrbracket$ sous la forme d'un tableau
+Si $n$ est un entier, on peut donner une application $\{ 0,\dots,
+n\} \to \{ 0, \dots,n\} sous la forme d'un tableau
 à $n+1$ cases dont la case $i$ contient l'image de l'entier $i$.
 
 Écrire une fonction `inverse` qui prend en argument un tableau
-représentant une fonction $f : \llbracket 0, n\rrbracket \to \llbracket 0,
-n\rrbracket$, un entier donnant $n$ et un tableau $t$ de taille $n+1$ dont
+représentant une fonction $f : \{ 0, \dots, n\} \to \{ 0,\dots
+n\}$, un entier donnant $n$ et un tableau $t$ de taille $n+1$ dont
 le comportement est le suivant:
 * si $f$ est une bijection, alors le contenu de $t$ est modifié pour
   que $t$ représente l'inverse de la fonction $f$, et la valeur `true`
