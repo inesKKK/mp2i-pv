@@ -47,13 +47,5 @@ int main(void){
   assert(assert_identiques(r10, rep10));
   assert(assert_identiques(rm10, repm10));
   
-  free(r0);
-  free(r1);
-  free(rm1);
-  free(r4);
-  free(rm4);
-  free(r10);
-  free(rm10);
-  
   return 0;
 }
