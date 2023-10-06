@@ -1,8 +1,9 @@
 #include <assert.h>
 
-/** t : tableau
+/** k : valeur a trouver 
+ * t : tableau
  * n : nombre de cases du tableau */
-bool trouve(int *t, int n){
+bool trouve(int k, int *t, int n){
   // TODO
 }
 
