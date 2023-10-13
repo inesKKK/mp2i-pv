@@ -77,7 +77,7 @@ Compléter le code de la fonction `compose`,
 L'image du point de coordonnées $(x,y)$ par une isométrie donnée par
 la matrice $M$ est obtenu en conservant les deux premières coordonnées
 du produit de $M$ et du vecteur
-$\begin{pmatrix}x\\y\\1\end{pmatrix}$.
+$$\begin{pmatrix}x\\y\\1\end{pmatrix}$$
 
 Pour simplifier le propos, à
 partir de maintenant le point de coordonnées $(x, y)$ sera donc
