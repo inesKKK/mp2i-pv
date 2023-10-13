@@ -5,4 +5,6 @@
   processus et redirections
 * [tp3](TP3_premieres_fonctions/tp_premieres_fonctions.md) : premières fonctions
 * [tp4](TP4_boucles/tp_boucles.md) : boucles
-* [tp5](TP5_tableaux_unidimensionnels/tp_tableaux_unidimensionnels.md) : tableaux unidimensionnels
+* [tp5](TP5_tableaux_unidimensionnels/tp_tableaux_unidimensionnels.md) :
+  tableaux unidimensionnels
+* [tp6](TP6_tableaux_multidimensionnels/tp_tableaux_multidimensionnels.md)
