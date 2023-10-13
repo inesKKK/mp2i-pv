@@ -98,7 +98,7 @@ Compléter le code de la fonction `dessin`.
 Notre affichage se faisant en noir et blanc (sans niveau de gris),
 nous allons représenter notre fenêtre d'affichage par un tableau
 bidimensionnel de taille 600x400 de booléens : un pixel vaudra alors
-vrai s'il doit être affiché en noir et faux s'il doit être affiché en
+vrai s'il doit être affiché en noir, et faux s'il doit être affiché en
 blanc.
 
 ### Exercice 4 : 
@@ -138,3 +138,9 @@ Compléter le code de la fonction `generation`.
 ### Exercice 7 :
 Le traçage de segment de l'exercice 5 n'est pas très
 propre. Implémenter l'[algorithme de Bresenham](https://fr.wikipedia.org/wiki/Algorithme_de_trac%C3%A9_de_segment_de_Bresenham).
+
+### Exercice 8 :
+Créer d'autres pavages vous aidant de
+[http://carmetal2.free.fr/articles/pavages.php](http://carmetal2.free.fr/articles/pavages.php). (Ne
+pas oublier
+pas que nous avons fait l'hypothèse que les polygones ont 20 sommets.)
