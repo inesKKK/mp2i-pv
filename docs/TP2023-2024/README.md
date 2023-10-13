@@ -7,4 +7,5 @@
 * [tp4](TP4_boucles/tp_boucles.md) : boucles
 * [tp5](TP5_tableaux_unidimensionnels/tp_tableaux_unidimensionnels.md) :
   tableaux unidimensionnels
-* [tp6](TP6_tableaux_multidimensionnels/tp_tableaux_multidimensionnels.md)
+* [tp6](TP6_tableaux_multidimensionnels/tp_tableaux_multidimensionnels.md) :
+  tableaux multidimensionnels
