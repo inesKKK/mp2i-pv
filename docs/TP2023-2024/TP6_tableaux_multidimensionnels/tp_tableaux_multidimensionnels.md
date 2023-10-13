@@ -9,8 +9,7 @@ identifiant de manière claire les numéros d'exercices et de
 questions.
 
 
-Cette semaine, un seul énoncé qui est accompagné d'un code dont il
-faut écrire le code de certaines fonctions.
+Cette semaine, un seul énoncé qui est accompagné d'un code qu'il faut compléter.
 
 **Comme on n'a pas vu comment fournir un tableau en argument à une
 fonction, je vous donne les en-têtes de fonctions. Vous ne pouvez pas
@@ -27,12 +26,21 @@ polygones. Un pavage est dit *régulier* s'il y a moyen de le déplacer
 et de superposer le nouveau pavage obtenu avec le pavage d'origine (je
 ne prétends pas que c'est une définition mathématique).
 
+exemples (que vous obtiendrez à la fin de ce TP) :
+
+![](p1.jpeg)
+
+![](p2.jpeg)
+
+
+
 Un moyen de spécifier un pavage régulier, est de donner un polygone et
 un groupe d'isométries (oui, vous ne savez pas ce qu'est un groupe,
-disons pour simplifier un ensemble d'isométries; et au cas où : une
-isométrie est une bijection du plan qui conserve les longueurs, vous
-en connaissez : translations, rotations, symétries) et d'appliquer ces
-isométries au polygone, puis aux nouveaux polygones ainsi obtenus, etc.
+disons pour simplifier un ensemble d'isométries et toutes les
+isométries qu'on peut obtenir en les composant autant de fois qu'on
+veut; et au cas où : une isométrie est une bijection du plan qui
+conserve les longueurs, vous en connaissez : translations, rotations,
+symétries) et d'appliquer ces isométries au polygone de départ.
 
 Il se trouve qu'il y a exactement 17 groupes d'isométries qui
 permettent d'obtenir un pavage régulier. Si vous êtes curieux, vous
@@ -46,7 +54,7 @@ au polygone de départ.
 
 Nous faisons les hypothèses suivantes:
 
-* les points sont des pixels, ce sont donc deux entiers,
+* les points sont des pixels, on les représentera par un tableau de deux entiers,
 * tous les polygones manipulés possèdent 20 sommets,
 * nous cherchons à construire 50 isométries (y compris celles données
   au départ),
@@ -69,10 +77,12 @@ Compléter le code de la fonction `compose`,
 L'image du point de coordonnées $(x,y)$ par une isométrie donnée par
 la matrice $M$ est obtenu en conservant les deux premières coordonnées
 du produit de $M$ et du vecteur
-$$\begin{pmatrix}x\\y\\1\end{pmatrix}\:.$$ Pour simplifier le propos, à
+$\begin{pmatrix}x\\y\\1\end{pmatrix}$.
+
+Pour simplifier le propos, à
 partir de maintenant le point de coordonnées $(x, y)$ sera donc
-représenté par un tableau de trois entiers $\begin{array}{|c|}\hline
-x\\y\\1\\ \hline\end{array}$.
+représenté par un tableau de trois entiers contenant dans l'ordre les
+entiers $x$, $y$ et $1$.
 
 Compléter le code de la fonction `bouge_polygone`.
   
