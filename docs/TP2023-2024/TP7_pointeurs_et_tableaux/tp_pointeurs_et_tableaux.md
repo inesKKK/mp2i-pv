@@ -1,4 +1,4 @@
-# TP6 : pointeurs et tableaux
+# TP7 : pointeurs et tableaux
 Toutes les semaines, les TP sont à rendre pour le mercredi soir
 suivant au plus tard, sur cahier-de-prepa. 
 
@@ -86,9 +86,9 @@ Le crible d'Eratosthene est un algorithme pour trouver les nombres premiers parm
 ### Exercice 6 :  Triangle de Pascal
 Le triangle de pascal est une technique qui permet d'obtenir une généralisation de l'identité remarquable $(a+b)^2 = a^2 + 2ab + b^2$, en donnant les coefficients de $(a+b)^n$. Pour rappel, ces coefficients sont les coefficients binomiaux :
 
-```math
-(a+b)^n = \sum\limits_{k=0}^{n} \begin{pmatrix}n\\k\end{pmatrix} a^kb^{n-k}\:.
-```
+<center>
+$(a+b)^n = \sum\limits_{k=0}^{n} \begin{pmatrix}n\\k\end{pmatrix} a^kb^{n-k}\:.$
+</center>
 
 Le principe est le suivant : on part du tableau 
 $t_0=$ |1| et on crée un nouveau tableau $t_1$ contenant une case de plus que $t_0$ tel que la première et la dernière case de ce tableau valent toutes les deux 1, et la $i^e$ case de $t_1$ , pour toute autre valeur de $i$, vaut $t_0[i-1]+t_0[i]$. Et ainsi de suite.
