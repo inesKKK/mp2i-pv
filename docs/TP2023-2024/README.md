@@ -9,3 +9,4 @@
   tableaux unidimensionnels
 * [tp6](TP6_tableaux_multidimensionnels/tp_tableaux_multidimensionnels.md) :
   tableaux multidimensionnels
+* [tp7](TP7_pointeurs_et_tableaux/tp_pointeurs_et_tableaux.md) : pointeurs et tableaux
