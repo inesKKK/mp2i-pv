@@ -178,7 +178,11 @@ Soit un point $C$ du plan, l'ensemble de Julia de $C$ est l'ensemble des points 
 
 À vous de jouer ! 
 
-## Première étoile -- pour ceux qui sont à l'aise en programmation et ceux qui ont facilement fini le flocon
+## Première étoile -- pour ceux qui sont à l'aise en programmation et
+ceux qui ont facilement fini le flocon
+
+Commencer par faire un des exercices du niveau flocon.
+
 ### Exercice 3 : fractale de Pythagore
 Le but de cet exercice est de dessiner la fractale appelée arbre de
 Pythagore :
