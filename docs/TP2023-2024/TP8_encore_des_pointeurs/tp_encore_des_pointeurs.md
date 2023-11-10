@@ -176,12 +176,15 @@ On donne la fonction `norme_carre` qui permet de calculer la norme au carré d'u
 ### Exercice 2 : Ensemble de Julia
 Soit un point $C$ du plan, l'ensemble de Julia de $C$ est l'ensemble des points $(x_0, y_0)$ pour lesquels la suite $(P_n)_{n\geq 0}$ telle que définie à l'exercice précédent est bornée.
 
-À vous de jouer ! 
+Écrire un programme permettant de donner en ligne de commande les
+valeurs de $x_0$ et $y_0$ (la fonction `atof` permet d'obtenir un
+`double` à partir d'une chaîne de caractères) et qui crée un fichier
+image contenant l'ensemble de Julia correspondant. (À vous d'écrire le
+fichier d'en-tête et le fichier de code séparement.)
 
-## Première étoile -- pour ceux qui sont à l'aise en programmation et
-ceux qui ont facilement fini le flocon
+## Première étoile -- pour ceux qui sont à l'aise en programmation et ceux qui ont facilement fini le flocon
 
-Commencer par faire un des exercices du niveau flocon.
+Commencer par faire l'exercice 2 du niveau flocon.
 
 ### Exercice 3 : fractale de Pythagore
 Le but de cet exercice est de dessiner la fractale appelée arbre de
