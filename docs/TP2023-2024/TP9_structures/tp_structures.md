@@ -126,9 +126,10 @@ struct nuee {
 ```
 
 À chaque étape de vol, chaque oiseau se déplace selon le vecteur
-<br />
+
+
 $0.01 * \vec{u} + 0.05*\vec{v} -0.03*\vec{w}\:,$
-<br />
+
 où $\vec{u}$ est le vecteur unitaire de l'oiseau vers le point $(0.5, 0.5)$, $\vec{v}$ est le vecteur unitaire de l'oiseau vers son ami et $\vec{w}$ est le vecteur unitaire de l'oiseau vers son ennemi.
 
 Question 3. Écrire et documenter une fonction `deplacement_oiseau` qui prend en paramètre (dans cet ordre) un pointeur sur nuée et deux pointeurs sur oiseau : le premier donne l'oiseau au temps $t$, le deuxième l'oiseau au temps $t+1$ (même ami et même ennemi, mais coordonnées mises à jour selon les règles établies ci-dessus ---si elles dépassent les limites pour être visible ce n'est pas grave).
