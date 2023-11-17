@@ -128,7 +128,7 @@ struct nuee {
 À chaque étape de vol, chaque oiseau se déplace selon le vecteur
 
 
-$0.01 * \vec{u} + 0.05*\vec{v} -0.03*\vec{w}\:,$
+$ 0.01 \vec{u} + 0.05 \vec{v} -0.03 \vec{w} $
 
 où $\vec{u}$ est le vecteur unitaire de l'oiseau vers le point $(0.5, 0.5)$, $\vec{v}$ est le vecteur unitaire de l'oiseau vers son ami et $\vec{w}$ est le vecteur unitaire de l'oiseau vers son ennemi.
 
