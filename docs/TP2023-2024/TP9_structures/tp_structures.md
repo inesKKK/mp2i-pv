@@ -18,7 +18,7 @@ Je vous fournis les fichiers suivants :
 * [fichiers.h](tests/fichiers.h) et [fichiers.c](tests/fichiers.c) qui
   permettent de transformer des tableaux représentant des images en
   fichiers contenant des images au format `ppm`;
-* [tests_serpent.c](tests/tests_serpents.c) qui contient des tests
+* [tests_serpent.c](tests/tests_serpent.c) qui contient des tests
   pour votre code (certaines parties sont commentées, il faudra
   décommenter au fur et à mesure de votre implémentation);
 * [serpent.h](tests/serpent.h) qui contient la définition de `struct
