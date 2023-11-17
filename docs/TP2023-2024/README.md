@@ -11,3 +11,4 @@
   tableaux multidimensionnels
 * [tp7](TP7_pointeurs_et_tableaux/tp_pointeurs_et_tableaux.md) : pointeurs et tableaux
 * [tp8](TP8_encore_des_pointeurs/tp_encore_des_pointeurs.md) : encore des pointeurs, et de la compilation sur plusieurs fichiers
+* [tp9](TP9_structures/tp_structures.md) : structures
