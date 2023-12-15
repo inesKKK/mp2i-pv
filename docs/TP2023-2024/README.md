@@ -19,7 +19,7 @@
 # Trop rapide ?
 Allez chercher du travail sur
 [http://informatique.ens-lyon.fr/concours-info/](http://informatique.ens-lyon.fr/concours-info/). Suggestion :
-Mikado (2021)
+Mikado (2011)
 
 
 # gdb
