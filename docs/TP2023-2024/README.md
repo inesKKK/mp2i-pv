@@ -13,3 +13,16 @@
 * [tp8](TP8_encore_des_pointeurs/tp_encore_des_pointeurs.md) : encore des pointeurs, et de la compilation sur plusieurs fichiers
 * [tp9](TP9_structures/tp_structures.md) : structures
 * [tp ocaml](http://mp2ipv-klimann.learn-ocaml.org/)
+
+
+
+# Trop rapide ?
+Allez chercher du travail sur
+[http://informatique.ens-lyon.fr/concours-info/](http://informatique.ens-lyon.fr/concours-info/). Suggestion :
+Mikado (2021)
+
+
+# gdb
+une [fiche sur `gdb`](../GDB/gdb.md) pour ceux qui voudraient se
+servir d'un debugger (aucune obligation)
+
