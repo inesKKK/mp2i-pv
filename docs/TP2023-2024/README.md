@@ -12,7 +12,10 @@
 * [tp7](TP7_pointeurs_et_tableaux/tp_pointeurs_et_tableaux.md) : pointeurs et tableaux
 * [tp8](TP8_encore_des_pointeurs/tp_encore_des_pointeurs.md) : encore des pointeurs, et de la compilation sur plusieurs fichiers
 * [tp9](TP9_structures/tp_structures.md) : structures
-* [tp ocaml](http://mp2ipv-klimann.learn-ocaml.org/)
+* ~~[tp ocaml](http://mp2ipv-klimann.learn-ocaml.org/)~~ [tp ocaml
+  22/12](http://mp2ipvc-klimann.learn-ocaml.org/) : il faut recréer un
+  compte (je ferai le ménage pendant les vacances, je ne comprends pas
+  le problème pour l'instant)
 
 
 
