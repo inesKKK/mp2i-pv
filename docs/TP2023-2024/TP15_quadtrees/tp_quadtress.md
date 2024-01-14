@@ -9,7 +9,7 @@ en `ocaml`, ou les deux. Pour les questions en `C`, vous devez
 compiler en ligne de commande et écrire vos tests (mais je vous
 fournis un certain nombre de fonctions utiles pour cela). Pour les
 questions en `ocaml`, allez sur le [serveur de
-TP](http://146.59.237.76:8080) car il vous manque certaines
+TP](http://vps-ff29e1ab.vps.ovh.net:8080/) car il vous manque certaines
 structures de données pour faire un programme complet.
 
 ## Des couleurs
@@ -44,7 +44,7 @@ Rappel : utilisez `gcc` avec les options `-Wall -Wno-unused
 argument.
 
 Pour `ocaml`, tout est fourni dans les préludes sur le [serveur de
-TP](http://146.59.237.76:8080).
+TP](http://vps-ff29e1ab.vps.ovh.net:8080/).
 
 ### Exercice 1 : comparer deux couleurs [ `C` et `ocaml` ]
 Écrire une fonction `meme_couleur` qui teste si les deux couleurs
@@ -114,7 +114,7 @@ quadtree fournies).
 ### Exercice 4 : nombre de nœuds internes d'un quadtree [ `ocaml` ]
 En `C` je vous ai fourni une fonction comptant le nombre de nœuds
 internes d'un quadtree. Écrivez cette fonction en `ocaml` [serveur de
-TP](http://146.59.237.76:8080).
+TP](http://vps-ff29e1ab.vps.ovh.net:8080/).
 
 ### Exercice 5 : d'un quadtree à une image [ `C` ]
 Écrire une fonction `quadtree2image` qui prend en argument un pointeur
