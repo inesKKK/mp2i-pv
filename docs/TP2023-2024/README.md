@@ -17,7 +17,8 @@
   compte (je ferai le ménage pendant les vacances, je ne comprends pas
   le problème pour l'instant)
 * [tp15](TP15_quadtrees/tp_quadtress.md) : Quadtrees
-
+* [tp16](TP16_Tableaux_avec_arbres_C/tp_arbres_arite_quelconque.md) :
+  Implémentation des tableaux dynamiques à la `scala`
 
 
 # Trop rapide ?
