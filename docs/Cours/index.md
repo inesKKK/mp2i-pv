@@ -249,12 +249,12 @@
 **17 janvier 2024**
 * tests fonctionnels
 * tests structurels: couverture des sommets, couverture des arcs,
-  tests exhaustifs de condition
-* documentation et programmation défensive; code :
-  [assert1.c](code/assert1.c) / [assert2.c](code/assert2.c)
 
   
 **22 janvier 2024**
+* tests structurels: tests exhaustifs de condition
+* documentation et programmation défensive; code :
+  [assert1.c](code/assert1.c) / [assert2.c](code/assert2.c)
 * applications des arbres binaires (suite) :
   * principe du codage de Huffman
 
