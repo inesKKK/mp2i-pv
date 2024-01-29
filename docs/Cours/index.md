@@ -261,3 +261,7 @@
 **24 janvier 2024**
 * mutabilité en `ocaml`: enregistrements avec champs mutables, types référence
 
+**29 janvier 2024**
+* tri rapide : déroulement sur un exemple, correction totale, analyse
+  de complexité dans le pire des cas, dans le meilleur des cas et en
+  moyenne sous l'hypothèse de l'absence de doublons; code : [tri_rapide.c](code/tri_rapide.c)
