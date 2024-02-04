@@ -268,7 +268,7 @@
 
 **30 janvier 2024**
 * tri rapide : cas des doublons; code :
-  [tri_rapide_3.c](tri_rapide_3.c)
+  [tri_rapide_3.c](code/tri_rapide_3.c)
 * parcours d'arbres binaires: en profondeur (préfixe, postfixe,
   suffixe), en largeur (dont l'algorithme de Cheney en applicaction)
 
