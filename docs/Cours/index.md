@@ -265,3 +265,15 @@
 * tri rapide : déroulement sur un exemple, correction totale, analyse
   de complexité dans le pire des cas, dans le meilleur des cas et en
   moyenne sous l'hypothèse de l'absence de doublons; code : [tri_rapide.c](code/tri_rapide.c)
+
+**30 janvier 2024**
+* tri rapide : cas des doublons; code :
+  [tri_rapide_3.c](tri_rapide_3.c)
+* parcours d'arbres binaires: en profondeur (préfixe, postfixe,
+  suffixe), en largeur (dont l'algorithme de Cheney en applicaction)
+
+**31 janvier 2024**
+* type `unit` : type de retour, expressions conditionnelles, fonctions
+  sans argument; code : [pile.ml](code/pile.ml)
+* tableaux et boucles en `ocaml`
+* exceptions en `ocaml`
