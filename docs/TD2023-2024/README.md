@@ -19,7 +19,11 @@
 * [td12](https://cahier-de-prepa.fr/mp2i-pv/download?id=1465) : Piles et files
 * [td13](https://cahier-de-prepa.fr/mp2i-pv/download?id=1466) :
   Dénombrement dans les arbres binaires
-* [td14](https://cahier-de-prepa.fr/mp2i-pv/download?id=1468) : Tests
-* [td15](https://cahier-de-prepa.fr/mp2i-pv/download?id=1469) : Files de
+* [td14](https://cahier-de-prepa.fr/mp2i-pv/download?id=1468) : Arbres binaires
+* [td15](https://cahier-de-prepa.fr/mp2i-pv/download?id=1469) : Tests
+* [td16](https://cahier-de-prepa.fr/mp2i-pv/download?id=1470) : Files de
   priorité et algorithme de Graham
-* [td16](https://cahier-de-prepa.fr/mp2i-pv/download?id=1470) :
+* [td17](https://cahier-de-prepa.fr/mp2i-pv/download?id=1513) :
+  Complexité en moyenne
+* [td18](https://cahier-de-prepa.fr/mp2i-pv/download?id=1514) :
+  Parcours d'arbres
