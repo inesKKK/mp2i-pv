@@ -277,3 +277,13 @@
   sans argument; code : [pile.ml](code/pile.ml)
 * tableaux et boucles en `ocaml`
 * exceptions en `ocaml`
+
+**5 février 2024**
+* représentation d'un ensemble de données
+* arbres binaires de recherche:
+  * construction naïve; code : [abr.ml](code/abr.ml)
+  * recherche d'élément
+  * parcours infixe
+  * ajout d'un élément
+  * suppression d'un élément
+* arbres rouge et noir, définition
