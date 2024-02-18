@@ -287,3 +287,14 @@
   * ajout d'un élément
   * suppression d'un élément
 * arbres rouge et noir, définition
+
+**7 février 2024**
+* arbres rouge-noir:
+  * lien entre taille et hauteur
+  * rotations
+  * insertion d'un nouvel élément; code : [arbresRN.ml](code/arbresRN.ml)
+  * suppression d'un élément (début de preuve)
+  
+**9 février 2024** [en TP]
+* arbres rouge-noir:
+  * suppression d'un élément (fin de preuve)
