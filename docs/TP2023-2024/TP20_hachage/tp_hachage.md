@@ -67,7 +67,7 @@ Pour les tracés, on utilisera `gnuplot` (essayez de le lancer en ligne
 de commande dans un terminal, si ce n'est pas installé, appelez-moi).
 
 Un tutoriel pour utiliser gnuplot avec des données dans un fichier:
-[https://sodocumentation.net/gnuplot/topic/3591/basic-plotting-of-data-files](https://sodocumentation.net/gnuplot/topic/3591/basic-plotting-of-data-files).
+[https://riptutorial.com/gnuplot/example/12382/plot-a-single-data-file](https://sodocumentation.net/gnuplot/topic/3591/basic-plotting-of-data-files).
 
 On suppose qu'on a une table de hachage de `N` alvéoles. On veut
  connaître le temps mis pour `M` insertions prises au hasard, le temps
