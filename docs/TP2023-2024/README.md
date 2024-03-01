@@ -23,6 +23,7 @@
 * [tp18](http://vps-ff29e1ab.vps.ovh.net:8080/) : Tableaux dynamiques
   à la scala en `OCaml`
 * [tp19](TP19_parcours_arbre/tp_parcours_arbres.md) : Parcours d'arbres
+* [tp20](TP20_hachage/tp_hachage.md) : Hachage
 
 # Trop rapide ?
 Allez chercher du travail sur
