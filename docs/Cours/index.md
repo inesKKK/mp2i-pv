@@ -298,3 +298,22 @@
 **9 février 2024** [en TP]
 * arbres rouge-noir:
   * suppression d'un élément (fin de preuve)
+
+**26 février 2024**
+* tables de hachage: définition, résolution des collisions par
+  sondage, début résolution des collisions par chaînage
+  
+**27 février 2024** [séance hors programme]
+* arbres 2-3 et 2-3-4
+  
+**28 février 2023**
+* tables de hachage: fin résolution des collisions par chaînage
+* type caractère en `C` et en `ocaml`
+* chaînes de caractères en `C`; code :
+  [chaines_memoire.c](code/chaines_memoire.c) / [erreur_caractere.c](code/erreur_caractere.c)
+* chaînes de caractères en `ocaml`
+* entrées / sorties : flux standard, shell, `C` et `ocaml`; code :
+  [bufferisation.c](code/bufferisation.c) /
+  [bufferisation2.c](code/bufferisation2.c) /
+  [lecture_entree_standard.c](code/lecture_entree_standard.c) / [lecture_chaine.c](code/lecture_chaine.c)
+
