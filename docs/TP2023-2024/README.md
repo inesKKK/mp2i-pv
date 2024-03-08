@@ -24,6 +24,7 @@
   à la scala en `OCaml`
 * [tp19](TP19_parcours_arbre/tp_parcours_arbres.md) : Parcours d'arbres
 * [tp20](TP20_hachage/tp_hachage.md) : Hachage
+* [tp21](TP21_chaines_de_caracteres/tp_chaines_de_caracteres.md) : Chaînes de caractères
 
 # Trop rapide ?
 Allez chercher du travail sur
