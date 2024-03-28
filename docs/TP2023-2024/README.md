@@ -27,6 +27,7 @@
 * [tp21](TP21_chaines_de_caracteres/tp_chaines_de_caracteres.md) : Chaînes de caractères
 * [tp22](TP22_Steganographie/tp_steganographie.md) : Stéganographie
 * [tp23](TP23_Logique/tp_logique_et_serialisation.md) : Logique et sérialisation
+* [tp24](TP24_Sudoku/tp_sudoku.md) : Sudoku
 
 # Trop rapide ?
 Allez chercher du travail sur
