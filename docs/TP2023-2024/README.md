@@ -28,6 +28,7 @@
 * [tp22](TP22_Steganographie/tp_steganographie.md) : Stéganographie
 * [tp23](TP23_Logique/tp_logique_et_serialisation.md) : Logique et sérialisation
 * [tp24](TP24_Sudoku/tp_sudoku.md) : Sudoku
+* [tp25](TP25_BD1/tp_bd1.md) : Bases de données - requêtes simples
 
 # Trop rapide ?
 Allez chercher du travail sur
