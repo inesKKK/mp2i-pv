@@ -24,8 +24,8 @@ la grille. Pour rappel, le format dimacs est décrit dans le [tp23](https://ines
 Les variables propositionnelles utilisées sont des entiers positifs
 composés de la manière suivante:
 * chacun de ces entiers s'écrit sur 3 chiffres;
-* l'entier $ijk$ signifie que le prédicat "La case $ij$ contient
-  l'entier $k$" est vrai.
+* l'entier ijk signifie que le prédicat "La case ij contient
+  l'entier k" est vrai.
 
 
 On peut imaginer que l'utilisateur donnera l'état initiale de la
