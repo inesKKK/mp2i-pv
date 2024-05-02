@@ -30,6 +30,7 @@
 * [tp24](TP24_Sudoku/tp_sudoku.md) : Sudoku
 * [tp25](TP25_BD1/tp_bd1.md) : Bases de données - requêtes simples
 * [tp26](TP26_BD2/tp_bd2.md) : Bases de données - requêtes complexes
+* [tp27](https://vjudge.net/contest/626261) : Concours de programmation
 
 # Trop rapide ?
 Allez chercher du travail sur
