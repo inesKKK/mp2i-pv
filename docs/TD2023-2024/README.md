@@ -27,3 +27,11 @@
   Complexité en moyenne
 * [td18](https://cahier-de-prepa.fr/mp2i-pv/download?id=1514) :
   Parcours d'arbres
+* [td19](https://cahier-de-prepa.fr/mp2i-pv/download?id=1760) :
+  Arbres rouge et noir
+* [td20](https://cahier-de-prepa.fr/mp2i-pv/download?id=1761) :
+  Induction
+* [td21](https://cahier-de-prepa.fr/mp2i-pv/download?id=1762) :
+  Algorithmique
+* [td22](https://cahier-de-prepa.fr/mp2i-pv/download?id=1763) :
+  Programmation dynamique
