@@ -31,6 +31,8 @@
 * [tp25](TP25_BD1/tp_bd1.md) : Bases de données - requêtes simples
 * [tp26](TP26_BD2/tp_bd2.md) : Bases de données - requêtes complexes
 * [tp27](https://vjudge.net/contest/626261) : Concours de programmation
+* tp28 : Algorithme de Boyer-Moore [version
+  facile](TP28_Boyer_moore/tp_sans_fichier.md), [version difficile](TP28_Boyer_moore/tp_avec_fichier.md)
 
 # Trop rapide ?
 Allez chercher du travail sur
