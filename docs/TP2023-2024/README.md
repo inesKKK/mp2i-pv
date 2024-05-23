@@ -13,14 +13,14 @@
 * [tp8](TP8_encore_des_pointeurs/tp_encore_des_pointeurs.md) : encore des pointeurs, et de la compilation sur plusieurs fichiers
 * [tp9](TP9_structures/tp_structures.md) : structures
 * tp10 à tp14 : ~~[tp ocaml](http://mp2ipv-klimann.learn-ocaml.org/)~~ [tp ocaml
-  22/12](http://vps-ff29e1ab.vps.ovh.net:8080/) : il faut recréer un
+  22/12](http://vps-ff29e1ab.vps.ovh.net:49300/) : il faut recréer un
   compte (je ferai le ménage pendant les vacances, je ne comprends pas
   le problème pour l'instant)
 * [tp15](TP15_quadtrees/tp_quadtress.md) : Quadtrees
 * [tp16](TP16_Tableaux_avec_arbres_C/tp_arbres_arite_quelconque.md) :
   Implémentation des tableaux dynamiques à la `scala`
-* [tp17](http://vps-ff29e1ab.vps.ovh.net:8080/) : Algorithme de Huffman
-* [tp18](http://vps-ff29e1ab.vps.ovh.net:8080/) : Tableaux dynamiques
+* [tp17](http://vps-ff29e1ab.vps.ovh.net:49300/) : Algorithme de Huffman
+* [tp18](http://vps-ff29e1ab.vps.ovh.net:49300/) : Tableaux dynamiques
   à la scala en `OCaml`
 * [tp19](TP19_parcours_arbre/tp_parcours_arbres.md) : Parcours d'arbres
 * [tp20](TP20_hachage/tp_hachage.md) : Hachage
