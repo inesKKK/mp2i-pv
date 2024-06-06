@@ -33,6 +33,7 @@
 * [tp27](https://vjudge.net/contest/626261) : Concours de programmation
 * tp28 : Algorithme de Boyer-Moore [version facile](TP28_Boyer_Moore/tp_sans_fichier.md) / [version difficile](TP28_Boyer_Moore/tp_avec_fichier.md)
 * [tp29](TP29_yeux_rouges/tp_yeux_rouges.md) : Suppression des yeux rouges
+* [tp30](TP30_Contours_images/tp_contours_images.md) : Algorithme de Dijkstra et détection de contours
 
 # Trop rapide ?
 Allez chercher du travail sur
