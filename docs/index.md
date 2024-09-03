@@ -9,7 +9,7 @@
 
 ### Documents
 
-* La [chronologie](Cours) du cours.
+* La [chronologie](Cours) du cours, les [notions à retenir absolument](Cours/indispensable.md).
 * Les [énoncés de TP](TP2024-2025).
 * Les [énoncés de TD](TD2024-2025).
 
