@@ -11,4 +11,7 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
     tels chemins
 * savoir utiliser les commandes de base : `pwd`, `cd`, `ls`,
   `mkdir`, `rmdir`, `cp`, `mv`, `rm`
-
+* ce qu'est un lien physique, ce qu'est un lien symbolique, comment
+  les créer
+* connaître les droits : groupes d'utilisateurs, types de droits,
+  savoir les lire, les interpréter et les modifier
