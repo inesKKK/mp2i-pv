@@ -15,3 +15,14 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
   les créer
 * connaître les droits : groupes d'utilisateurs, types de droits,
   savoir les lire, les interpréter et les modifier
+
+### Langages de programmation
+
+* être capable de dessiner un graphe de flot de contrôle d
+un programme qu'on comprend
+* connaître la différence entre typage fort et typage faible, et entre
+  typage statique et typage dynamique
+
+### Langage C
+
+* savoir compiler un programme en langage `C`
