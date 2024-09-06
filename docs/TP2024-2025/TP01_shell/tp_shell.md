@@ -26,10 +26,10 @@ clef usb, soit en ligne, soit en vous envoyant un mail à vous même.
    `MP2I`.
 3. Trouvez (grâce à la page de manuel de `mkdir`) quelle option permet
    de créer tout un chemin de nouveaux répertoires, et utilisez-la
-   pour créer le répertoire `~/Documents/MP2I/Informatique/TP/TP1` en une seule
+   pour créer le répertoire `~/MP2I/Informatique/TP/TP1` en une seule
    ligne de commande (rappel : dans le shell `~` désigne le répertoire
    personnel de l'utilisateur).
-4. Faites de `~/Documents/MP2I/Informatique/TP/TP1` votre répertoire
+4. Faites de `~/MP2I/Informatique/TP/TP1` votre répertoire
    courant avec la commande `cd`.
 5. Créez un répertoire `SI` dans votre répertoire courant, puis
    supprimez-le.
