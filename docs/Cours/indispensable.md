@@ -16,6 +16,14 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * connaître les droits : groupes d'utilisateurs, types de droits,
   savoir les lire, les interpréter et les modifier
 
+### Processus
+
+* connaître différence entre premier plan et arrière plan
+* savoir utiliser `&`, `Ctrl-z` et `bg`
+* savoir arrêter un processus en premier plan avec `Ctrl-c`
+* savoir faire des redirections d'entrée, de sortie et de sortie
+  erreur sur la ligne de commande
+
 ### Langages de programmation
 
 * être capable de dessiner un graphe de flot de contrôle d
