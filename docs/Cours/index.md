@@ -8,7 +8,7 @@
 * commandes liées au SGF : `pwd`, `cd`, `ls`, `mkdir`, `rmdir`, `cp`,
   `mv`, `rm`
 
-** 4 septembre 2024** :
+**4 septembre 2024** :
 
 * i-nœuds, commande `ls -i`
 * répertoires comme entité structurante pour le passage du tableau
@@ -18,7 +18,7 @@
 * espace d'adressage
 * droits sur les fichiers : consultation, signification et modification
 
-** 5 septembre 2024** :
+**5 septembre 2024** :
 
 * caractérisation d'un langage de programmation: paradigmes
   (POO/impératif/fonctionnel)
