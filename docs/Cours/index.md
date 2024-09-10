@@ -28,3 +28,15 @@
 * typage statique vs. typage dynamique
 * identifiants dans les langages de programmation
 * bases de `C` : compilation
+
+**9 septembre 2024** :
+* bases de `C` : flot d'un programme `C` et rôle de la fonction `main`
+* identifiants en `C` : règles
+* variables en `C` : déclaration, affectation
+* variables en `C` : portée
+
+**10 septembre 2024** :
+* variables en `C` : portée; code :
+  [reutilisation_identifiant.c](code/reutilisation_identifiant.c)
+* constantes en `C` (littérales et symboliques)
+* fonctions en `C`: invocation/appel, syntaxe

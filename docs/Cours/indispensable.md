@@ -34,3 +34,9 @@ un programme qu'on comprend
 ### Langage C
 
 * savoir compiler un programme en langage `C`
+* savoir que l'exécution d'un programme `C` est l'exécution de son
+  `main`
+* connaître les règles de construction des identifiants en `C`
+* savoir déclarer et affecter des variables et des constantes
+* savoir déterminer la portée d'une variable
+* connaître la syntaxe d'une fonction
