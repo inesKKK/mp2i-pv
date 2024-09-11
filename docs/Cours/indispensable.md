@@ -40,3 +40,7 @@ un programme qu'on comprend
 * savoir déclarer et affecter des variables et des constantes
 * savoir déterminer la portée d'une variable
 * connaître la syntaxe d'une fonction
+* savoir que les passages de paramètres se font **par valeur** en `C`
+* connaître les divers types d'entiers qui sont au programme, leur
+  taille et leurs valeurs extrêmes
+* savoir représenter un entier en complément à 2

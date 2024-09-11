@@ -30,13 +30,24 @@
 * bases de `C` : compilation
 
 **9 septembre 2024** :
+
 * bases de `C` : flot d'un programme `C` et rôle de la fonction `main`
 * identifiants en `C` : règles
 * variables en `C` : déclaration, affectation
 * variables en `C` : portée
 
 **10 septembre 2024** :
+
 * variables en `C` : portée; code :
   [reutilisation_identifiant.c](code/reutilisation_identifiant.c)
 * constantes en `C` (littérales et symboliques)
 * fonctions en `C`: invocation/appel, syntaxe
+
+**11 septembre 2024** :
+
+* fonctions en `C`: passage par valeurs, variables locales, valeur de
+  retour; code : [passage_par_valeurs.c](code/passage_par_valeurs.c)
+* types en `C`: `int`, `unsigned int`, `int8_t`, `int32_t`, `int64_t`,
+  `uint8_t`, `uint32_t`, `uint64_t`
+* bit de poids fort / bit de poids faible
+* complément à 2
