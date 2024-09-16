@@ -45,4 +45,12 @@ un programme qu'on comprend
 * savoir que les passages de paramètres se font **par valeur** en `C`
 * connaître les divers types d'entiers qui sont au programme, leur
   taille et leurs valeurs extrêmes
+* connaître les opérations sur les valeurs numériques et les booléens
+  en `C`
+* connaître la syntaxe des structures de contrôle en `C`
+
+### Représentation des nombres en machine
+
 * savoir représenter un entier en complément à 2
+* connaître la représentation des flottants normalisés et des
+  flottants dénormalisés

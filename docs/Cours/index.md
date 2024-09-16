@@ -55,3 +55,14 @@
   `uint8_t`, `uint32_t`, `uint64_t`
 * bit de poids fort / bit de poids faible
 * complément à 2
+
+#### 16 septembre 2024
+
+* opérations sur les entiers
+* norme IEEE 754 pour les nombres à virgule flottante en double
+  précision
+* opérations sur les doubles, problèmes de précision et erreurs d'arrondi
+* opérations entre doubles et entiers
+* booléens
+* structures de contrôle de `C`: conditionnelles, boucles
+  conditionnelles, boucles inconditionnelles
