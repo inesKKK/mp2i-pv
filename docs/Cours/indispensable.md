@@ -54,3 +54,10 @@ un programme qu'on comprend
 * savoir représenter un entier en complément à 2
 * connaître la représentation des flottants normalisés et des
   flottants dénormalisés
+
+### Algorithmique
+* savoir ce qu'est une entrée et une sortie d'un algorithme
+* savoir ce que signifie terminaison, correction partielle et
+  correction totale d'un algorithme
+* savoir ce que signifie complexité temporelle et complexité spatiale
+  d'un algorithme

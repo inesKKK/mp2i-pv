@@ -66,3 +66,12 @@
 * booléens
 * structures de contrôle de `C`: conditionnelles, boucles
   conditionnelles, boucles inconditionnelles
+
+#### 18 septembre 2024
+
+* introduction à l'algorithmique
+* conception d'un algorithme: entrée, sortie, problème de décision
+* correction: terminaison, correction partielle et totale; code :
+  [plus_grande_puissance_de_2.c](code/plus_grande_puissance_de_2.c) /
+  [plus_grande_puissance_de_2.ml](code/plus_grande_puissance_de_2.ml)
+* efficacité: complexité temporelle, complexité spatiale
