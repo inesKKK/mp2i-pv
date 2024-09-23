@@ -61,3 +61,6 @@ un programme qu'on comprend
   correction totale d'un algorithme
 * savoir ce que signifie complexité temporelle et complexité spatiale
   d'un algorithme
+* savoir définir un variant de boucle et un variant d'appel et savoir
+  ce que leur exsitence permet de conclure
+* savoir définir un invariant de boucle

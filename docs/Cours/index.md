@@ -75,3 +75,16 @@
   [plus_grande_puissance_de_2.c](code/plus_grande_puissance_de_2.c) /
   [plus_grande_puissance_de_2.ml](code/plus_grande_puissance_de_2.ml)
 * efficacité: complexité temporelle, complexité spatiale
+
+#### 23 septembre 2024
+
+* indécidabilité du problème de l'arrêt
+* terminaison : définition des variants de boucle et des variants
+  d'appels
+* preuve de terminaison par variant de boucle et par variant d'appel; 
+  code : [factorielle.c](code/factorielle.c) /
+  [factorielle.ml](code/factorielle.ml) /
+  [nb_chiffres_base10.c](code/nb_chiffres_base10.c) /
+  [nb_chiffres_base10.ml](nb_chiffres_base10.ml) / [dichotomie.c](code/dichotomie.c)
+* correction : définition des invariants de boucle
+* preuve de correction par invariant de boucle
