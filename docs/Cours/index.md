@@ -88,3 +88,7 @@
   [nb_chiffres_base10.ml](nb_chiffres_base10.ml) / [dichotomie.c](code/dichotomie.c)
 * correction : définition des invariants de boucle
 * preuve de correction par invariant de boucle
+
+#### 25 septembre 2024
+
+* gestion de la mémoire en `C`: tableaux (déclaration, initialisation)

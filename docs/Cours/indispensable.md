@@ -48,6 +48,8 @@ un programme qu'on comprend
 * connaître les opérations sur les valeurs numériques et les booléens
   en `C`
 * connaître la syntaxe des structures de contrôle en `C`
+* savoir déclarer un tableau et l'initialiser
+* savoir accéder aux cases d'un tableau
 
 ### Représentation des nombres en machine
 
