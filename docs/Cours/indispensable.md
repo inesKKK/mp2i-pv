@@ -50,6 +50,10 @@ un programme qu'on comprend
 * connaître la syntaxe des structures de contrôle en `C`
 * savoir déclarer un tableau et l'initialiser
 * savoir accéder aux cases d'un tableau
+* savoir déclarer un pointeur, et le déréférencer
+* connaître la valeur `NULL`
+* savoir récupérer l'adresse d'une variable
+* savoir utiliser `malloc`
 
 ### Représentation des nombres en machine
 
@@ -64,5 +68,9 @@ un programme qu'on comprend
 * savoir ce que signifie complexité temporelle et complexité spatiale
   d'un algorithme
 * savoir définir un variant de boucle et un variant d'appel et savoir
-  ce que leur exsitence permet de conclure
+  ce que leur existence permet de conclure
 * savoir définir un invariant de boucle
+* savoir prouver une correction par récurrence pour une fonction
+  récursive
+* savoir compter un nombre d'opérations en itératif et en récursif
+* connaître les définitions de grand O, $\Theta$, $\Omega$

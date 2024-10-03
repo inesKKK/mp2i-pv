@@ -92,3 +92,17 @@
 #### 25 septembre 2024
 
 * gestion de la mémoire en `C`: tableaux (déclaration, initialisation)
+
+#### 30 septembre 2024
+
+* preuve de correction par récurrence
+* compter des opérations en itératif et en récursif
+* ordres de grandeurs : grand O, $\Theta$, $\Omega$
+
+
+### octobre
+#### 2 octobre 2024
+* définition des pointeurs
+* valeur, contenu et déréférencement d'un pointeur
+* obtenir une valeur de type pointeur: `NULL`, adresse d'une variable,
+  allocation mémoire avec `malloc`
