@@ -8,3 +8,5 @@
 * [tp3](TP03_boucles/tp_boucles.md) : boucles
 * [tp4](TP04_tableaux_unidimensionnels/tp_tableaux_unidimensionnels.md) :
   tableaux unidimensionnels
+* [tp5](TP05_tableaux_multidimensionnels/tp_tableaux_multidimensionnels.md) :
+  tableaux multidimensionnels
