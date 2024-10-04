@@ -61,7 +61,7 @@ Nous faisons les hypothèses suivantes:
 * la fenêtre d'affichage a pour dimension 600x400.
   
   
-Je vous fournis un code [pavage.c](pavage.c) qui contient du code et
+Je vous fournis un code [pavage.c](code/pavage.c) qui contient du code et
 des fonctions à compléter.
   
 ## Appliquer les isométries
