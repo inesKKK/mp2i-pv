@@ -136,17 +136,18 @@ Il s'agit maintenant de suivre l'algorithme suivant :
   obtenues en composant les isométries de $G_0$ et celles de
   $G_{n-1}$, sans dépasser 50 isométries.
 
+### Exercice 7 :
 Compléter le code de la fonction `generation`.
 
 Vous pouvez maintenant lancer votre programme !
 
 ## Pour ceux qui ont fini et veulent aller plus loin
 
-### Exercice 7 :
+### Exercice 8 :
 Le traçage de segment de l'exercice 5 n'est pas très
 propre. Implémenter l'[algorithme de Bresenham](https://fr.wikipedia.org/wiki/Algorithme_de_trac%C3%A9_de_segment_de_Bresenham).
 
-### Exercice 8 :
+### Exercice 9 :
 Créer d'autres pavages vous aidant de
 [http://carmetal2.free.fr/articles/pavages.php](http://carmetal2.free.fr/articles/pavages.php). (Ne
 pas oublier
