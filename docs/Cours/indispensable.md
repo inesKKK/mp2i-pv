@@ -53,7 +53,11 @@ un programme qu'on comprend
 * savoir déclarer un pointeur, et le déréférencer
 * connaître la valeur `NULL`
 * savoir récupérer l'adresse d'une variable
-* savoir utiliser `malloc`
+* savoir utiliser `malloc` et `free`
+* savoir que ce qu'est un bloc d'activation d'appel
+* savoir que les blocs d'activation d'appel se trouvent sur la pile
+* savoir que les emplacements mémoire alloués avec `malloc` se
+  trouvent dans le tas
 
 ### Représentation des nombres en machine
 
@@ -74,3 +78,6 @@ un programme qu'on comprend
   récursive
 * savoir compter un nombre d'opérations en itératif et en récursif
 * connaître les définitions de grand O, $\Theta$, $\Omega$
+* savoir comparer rapidement des ordres de grandeur de fonctions
+  correspondant à des complexités classiques
+* connaître les schémas généraux de calcul de complexité

@@ -102,7 +102,24 @@
 
 ### octobre
 #### 2 octobre 2024
+
 * définition des pointeurs
 * valeur, contenu et déréférencement d'un pointeur
 * obtenir une valeur de type pointeur: `NULL`, adresse d'une variable,
   allocation mémoire avec `malloc`
+
+#### 7 octobre 2024
+
+* comparaisons et calculs des ordres de grandeurs habituels
+* comment définir les tailles des entrées; code : [tri_bulle.c](code/tri_bulle.c)
+* complexités dans le pire et le meilleur des cas (définition)
+* Schéma général de calcul d'une complexité
+* étude de la complexité temporelle du tri bulle: meilleur des cas et
+  pire des cas; code : [tri_bulle.c](code/tri_bulle.c)
+
+#### 9 octobre 2024
+
+* libération mémoire avec `free`
+* pile d'appel d'un processus; code :
+  [pile_tas1.c](code/pile_tas1.c) / [pile_tas2.c](code/pile_tas2.c) [pile_tas3.c](code/pile_tas3.c)
+* bloc d'activation d'un appel
