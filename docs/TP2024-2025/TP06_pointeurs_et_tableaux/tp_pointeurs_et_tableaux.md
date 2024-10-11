@@ -71,9 +71,7 @@ Le crible d'Eratosthene est un algorithme pour trouver les nombres premiers parm
 ### Exercice 5 :  Triangle de Pascal
 Le triangle de pascal est une technique qui permet d'obtenir une généralisation de l'identité remarquable $(a+b)^2 = a^2 + 2ab + b^2$, en donnant les coefficients de $(a+b)^n$. Pour rappel, ces coefficients sont les coefficients binomiaux :
 
-```math
-(a+b)^n = \sum\limits_{k=0}^{n} \begin{pmatrix}n\\k\end{pmatrix} a^kb^{n-k}\:.
-```
+$$(a+b)^n = \sum\limits_{k=0}^{n} \begin{pmatrix}n\\k\end{pmatrix} a^kb^{n-k}\:.$$
 
 Le principe est le suivant : on part du tableau 
 $t_0=$ |1| et on crée un nouveau tableau $t_1$ contenant une case de plus que $t_0$ tel que la première et la dernière case de ce tableau valent toutes les deux 1, et la $i^e$ case de $t_1$ , pour toute autre valeur de $i$, vaut $t_0[i-1]+t_0[i]$. Et ainsi de suite.
@@ -96,7 +94,7 @@ $t_3 =$
 
 1. Écrire une fonction `ligne_suivante` qui prend en argument un tableau d'entiers `uint8_t` supposé être une ligne dans le triangle de Pascal et sa longueur (sans avoir à le vérifier) et renvoie la ligne suivante sous la forme d'un tableau.
 
-[pascal.c](tests/pascal.c)
+[Pascal.c](tests/Pascal.c)
 
 2. Écrire et documenter une fonction `triangle_de_Pascal` qui prend en argument un entier $n$ et affiche les $n+1$ premiers niveaux du triangle de Pascal. Si $n$ vaut 4, on s'attend à l'affichage
 ```bash
