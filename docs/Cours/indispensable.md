@@ -58,6 +58,12 @@ un programme qu'on comprend
 * savoir que les blocs d'activation d'appel se trouvent sur la pile
 * savoir que les emplacements mémoire alloués avec `malloc` se
   trouvent dans le tas
+* savoir qu'on ne peut pas renvoyer une adresse qui se trouve dans le
+  bloc d'activation de l'appel courant
+* comprendre la différence de forme en mémoire entre les tableaux
+  statiques et les tableaux alloués avec `malloc` en
+  multi-dimensionnel
+* savoir utiliser les arguments du `main` (y compris avec `atoi`)
 
 ### Représentation des nombres en machine
 
@@ -81,3 +87,4 @@ un programme qu'on comprend
 * savoir comparer rapidement des ordres de grandeur de fonctions
   correspondant à des complexités classiques
 * connaître les schémas généraux de calcul de complexité
+* savoir résoudre une relation de récurrence par somme télescopique
