@@ -10,7 +10,10 @@
   tableaux unidimensionnels
 * [tp5](TP05_tableaux_multidimensionnels/tp_tableaux_multidimensionnels.md) :
   tableaux multidimensionnels
-* [tp6](TP06_pointeurs_et_tableaux/tp_pointeurs_et_tableaux.md) : pointeurs et tableaux
+* [tp6](TP06_pointeurs_et_tableaux/tp_pointeurs_et_tableaux.md) :
+  pointeurs et tableaux
+* [tp7](TP07_compilation_sur_plusieurs_fichiers/tp_compilation_separee.md) :
+  compilation séparée
 
 
 
