@@ -86,5 +86,7 @@ un programme qu'on comprend
 * connaître les définitions de grand O, $\Theta$, $\Omega$
 * savoir comparer rapidement des ordres de grandeur de fonctions
   correspondant à des complexités classiques
+* savoir définir complexité dans le meilleur des cas et complexité
+  dans le pire des cas
 * connaître les schémas généraux de calcul de complexité
 * savoir résoudre une relation de récurrence par somme télescopique
