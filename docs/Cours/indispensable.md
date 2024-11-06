@@ -64,6 +64,9 @@ un programme qu'on comprend
   statiques et les tableaux alloués avec `malloc` en
   multi-dimensionnel
 * savoir utiliser les arguments du `main` (y compris avec `atoi`)
+* savoir déclarer et utiliser un type structuré, y compris pour les
+  types auto-référencés
+* savoir utiliser `->`
 
 ### Représentation des nombres en machine
 
@@ -82,6 +85,8 @@ un programme qu'on comprend
 * savoir définir un invariant de boucle
 * savoir prouver une correction par récurrence pour une fonction
   récursive
+  
+### Complexité
 * savoir compter un nombre d'opérations en itératif et en récursif
 * connaître les définitions de grand O, $\Theta$, $\Omega$
 * savoir comparer rapidement des ordres de grandeur de fonctions

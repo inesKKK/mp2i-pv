@@ -141,3 +141,18 @@
 
 * étude de la complexité temporelle de la recherche dichotomique: meilleur des
   cas et pire des cas; code : [dichotomie.c](code/dichotomie.c)
+
+### novembre
+#### 4 novembre 2024
+* types structurés en `C` : définition (`struct`), déclaration,
+  initialisateur; accès aux champs
+* types structurés et fonctions; code :
+  [quadrilatere.c](code/quadrilatere.c)
+* types structurés et tableaux, types structurés et pointeurs
+* structures auto-référencées : listes chaînées; code :
+  [liste_chainee1.h](code/liste_chainee1.h) / [liste_chainee1.c](code/liste_chainee1.c)
+* listes chaînées en `C` avec une tête; code :
+  [liste_chainee2.h](code/liste_chainee2.h) / [liste_chainee2.c](code/liste_chainee2.c)
+
+#### 6 novembre 2024
+* étude de la complexité temporelle du tri fusion; code : [tri_fusion.c](code/tri_fusion.c)
