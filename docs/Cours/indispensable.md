@@ -95,3 +95,12 @@ un programme qu'on comprend
   dans le pire des cas
 * connaître les schémas généraux de calcul de complexité
 * savoir résoudre une relation de récurrence par somme télescopique
+
+### `OCaml`
+* savoir utiliser `utop`
+* savoir compiler un programme en `OCaml`
+* connaître les types primitifs et les opérations associées
+* savoir définir une variable
+* être capable d'écrire une expression conditionnelle et une
+  expression let
+* savoir définir une fonction

@@ -156,3 +156,13 @@
 
 #### 6 novembre 2024
 * étude de la complexité temporelle du tri fusion; code : [tri_fusion.c](code/tri_fusion.c)
+
+#### 13 novembre 2024
+* introduction à `ocaml` : immuabilité, expressions
+* compilation et exécution `ocaml` : `ocamlc`, `ocamlopt`, REPL
+* types primitifs `ocaml`
+* définitions de variables
+* expressions conditionnelles, expressions `let` et portée
+* annotation de types
+* fonctions anonymes
+* définition d'une fonction
