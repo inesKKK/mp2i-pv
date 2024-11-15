@@ -57,7 +57,7 @@ Question 4. En vue de pouvoir faire un affichage, on a besoin de transformer des
 
 Pour obtenir un gif animé du mouvement du serpent, nous allons fabriquer un certain nombre de fichiers images au format `ppm`, et nous demanderons ensuite à `Imagemagick` de fabriquer le gif animé.
 
-La fonction `ecrire_image` fournie dans le fichier `serpent.c` permet
+La fonction `ecrire_image` fournie dans le fichier `fichiers.c` permet
 d'écrire un fichier au format `ppm` à partir d'un tableau
 bidimensionnel comme celui renvoyé par la fonction `image`.
 
