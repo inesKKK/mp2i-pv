@@ -14,6 +14,7 @@
   pointeurs et tableaux
 * [tp7](TP07_compilation_sur_plusieurs_fichiers/tp_compilation_separee.md) :
   compilation séparée
+* [tp8](TP08_structures/tp_structures.md) : tableaux, pointeurs et structures
 
 
 
