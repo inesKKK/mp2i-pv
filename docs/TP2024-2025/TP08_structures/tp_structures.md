@@ -122,7 +122,7 @@ Une nuée d'oiseaux est un ensemble d'oiseaux. On définit le type structuré:
 struct nuee {
     int taille; // nombre d'oiseaux
     struct oiseau *cui;
-}
+};
 ```
 
 À chaque étape de vol, chaque oiseau se déplace selon le vecteur
