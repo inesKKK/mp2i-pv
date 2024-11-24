@@ -104,3 +104,5 @@ un programme qu'on comprend
 * être capable d'écrire une expression conditionnelle et une
   expression let
 * savoir définir une fonction
+* savoir définir une fonction récursive
+* savoir utiliser des fonctions partielles

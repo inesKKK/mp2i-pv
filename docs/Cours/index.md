@@ -166,3 +166,12 @@
 * annotation de types
 * fonctions anonymes
 * définition d'une fonction
+
+#### 18 novembre 2024
+* sémantiques dynamique et statique des fonctions
+* curryfication
+
+#### 20 novembre 2024
+* fonctions récursives; code : [factorielle.ml](code/factorielle.ml) /
+  [pair_impair.ml](code/pair_impair.ml) / [compte.ml](code/compte.ml)
+  / [compte_rt.ml](code/compte_rt.ml)
