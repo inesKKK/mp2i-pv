@@ -106,3 +106,5 @@ un programme qu'on comprend
 * savoir définir une fonction
 * savoir définir une fonction récursive
 * savoir utiliser des fonctions partielles
+* savoir manipuler des listes
+* savoir utiliser un filtrage par motifs

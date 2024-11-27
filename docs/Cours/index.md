@@ -175,3 +175,14 @@
 * fonctions récursives; code : [factorielle.ml](code/factorielle.ml) /
   [pair_impair.ml](code/pair_impair.ml) / [compte.ml](code/compte.ml)
   / [compte_rt.ml](code/compte_rt.ml)
+
+#### 25 novembre 2024
+* polymorphisme
+* listes littérales, sémantiques des listes, constructeur de liste (`::`); code : [longue_liste.ml](code/longue_liste.ml)
+* filtrage par motifs de listes
+* fonctionnement du filtrage
+
+#### 27 novembre 2024
+* filtrage profond, disjonction de motifs
+* exemples filtrage par motifs de listes; code :
+  [pattern_matching.ml](code/pattern_matching.ml)
