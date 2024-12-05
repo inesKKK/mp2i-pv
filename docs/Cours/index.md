@@ -186,3 +186,17 @@
 * filtrage profond, disjonction de motifs
 * exemples filtrage par motifs de listes; code :
   [pattern_matching.ml](code/pattern_matching.ml)
+
+### décembre
+
+#### 2 décembre 2024
+* types algébriques: types énumérés sans valeur; code : [mois.ml](code/mois.ml)
+* portée des constructeurs des types énumérés
+* motifs de filtrage pour les types énumérés
+* enregistrements et leurs motifs
+* $n$-uplets et leurs motifs
+
+#### 4 décembre 2024
+* types énumérés embarquant des données
+* motifs de filtrage des types énumérés embarquant des données;
+  code : [figure.ml](code/figure.ml) / [liste_entiers_flottants.ml](code/liste_entiers_flottants.ml)

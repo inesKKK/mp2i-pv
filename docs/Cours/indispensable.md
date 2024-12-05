@@ -108,3 +108,5 @@ un programme qu'on comprend
 * savoir utiliser des fonctions partielles
 * savoir manipuler des listes
 * savoir utiliser un filtrage par motifs
+* savoir fabriquer de nouveaux typee algébriques et les utiliser
+  (union sans ou avec données, enregistrements, $n$-uplets)
