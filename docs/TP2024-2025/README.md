@@ -18,6 +18,7 @@
 * [tp ocaml](http://vps-ff29e1ab.vps.ovh.net:49300) : 
   * tp9 : expressions, types et fonctions non récursives
   * tp10 : fonctions et listes
+  * tp11 : énumérations, n-uplets et enregistrements
 
 
 # Trop rapide ?
