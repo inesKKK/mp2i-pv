@@ -109,4 +109,11 @@ un programme qu'on comprend
 * savoir manipuler des listes
 * savoir utiliser un filtrage par motifs
 * savoir fabriquer de nouveaux typee algébriques et les utiliser
-  (union sans ou avec données, enregistrements, $n$-uplets)
+  (union sans ou avec données, enregistrements, $n$-uplets, types
+  paramétrés, types récursifs)
+* connaître l'existence du type `option` et savoir l'utiliser
+
+### Structures de données
+* connaître l'interface et savoir implémenter en `C` et en `OCaml` :
+  des tableaux de taille variable (seulement en `C` pour l'instant),
+  des piles et des files
