@@ -19,6 +19,7 @@
   * tp9 : expressions, types et fonctions non récursives
   * tp10 : fonctions et listes
   * tp11 : énumérations, n-uplets et enregistrements
+  * tp12 : structures de données linéaires
 
 
 # Trop rapide ?
