@@ -20,6 +20,7 @@
   * tp10 : fonctions et listes
   * tp11 : énumérations, n-uplets et enregistrements
   * tp12 : structures de données linéaires
+  * tp13 : arbres binaires
 
 
 # Trop rapide ?
