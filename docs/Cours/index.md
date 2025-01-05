@@ -226,3 +226,16 @@
 * options
 * parenthésage `(`/`)` et `begin`/`end`
 * files en `OCaml`; code : [queue.ml](code/queue.ml)
+
+#### 16 décembre 2024
+* arbres binaires : définitions de base (père, frère, sous-arbre,
+  feuille, nœud interne, branche, arbre binaire strict, arbre binaire
+  complet)
+* lien taille / hauteur dans les divers types d'arbres binaires
+* implémentation des arbres binaires en `C` avec des pointeurs et en `ocaml` avec un type somme
+* implémentation des arbres binaires complets sous forme de tableau
+* files de priorité
+
+#### 18 décembre 2024
+* implémentation des files par tas max : percolation vers le bas (correction et
+  complexité)

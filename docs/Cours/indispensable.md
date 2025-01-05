@@ -117,3 +117,8 @@ un programme qu'on comprend
 * connaître l'interface et savoir implémenter en `C` et en `OCaml` :
   des tableaux de taille variable (seulement en `C` pour l'instant),
   des piles et des files
+* savoir définir des arbres binaires et connaître le vocabulaire
+  associé
+* connaître les implémentations des arbres binaires (y compris
+  l'implémentation par tableau des arbres binaires complets)
+* savoir ce que sont une file de priorité et un tas max
