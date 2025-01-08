@@ -95,6 +95,9 @@ un programme qu'on comprend
   dans le pire des cas
 * connaître les schémas généraux de calcul de complexité
 * savoir résoudre une relation de récurrence par somme télescopique
+* savoir définir complexité en moyenne et complexité amortie
+* connaître la méthode du banquier et la méthode du potentiel pour la
+  complexité amortie
 
 ### `OCaml`
 * savoir utiliser `utop`
@@ -122,3 +125,4 @@ un programme qu'on comprend
 * connaître les implémentations des arbres binaires (y compris
   l'implémentation par tableau des arbres binaires complets)
 * savoir ce que sont une file de priorité et un tas max
+* connaître les algorithmes de manipulation des tas max

@@ -239,3 +239,22 @@
 #### 18 décembre 2024
 * implémentation des files par tas max : percolation vers le bas (correction et
   complexité)
+
+### janvier
+
+#### 6 janvier 2025
+* implémentation des files par tas max (suite) : percolation vers le
+  haut, modification de valeur, insertion de valeur, extraction du
+  maximum, construction d'un tas (avec les complexités)
+
+#### 7 janvier 2025
+* complexité en moyenne
+* étude de la complexité en moyenne du tri bulle; code :
+  [tri_bulle.c](code/tri_bulle.c)
+* complexité amortie : méthode du banquier, exemple des tableaux de
+  taille variable
+
+#### 8 janvier 2025
+* complexité amortie (suite) : méthode du banquier, exemple des
+  tableaux defils implémentées par deux piles; méthode des potentiels,
+  exemple des tableaux de taille variable
