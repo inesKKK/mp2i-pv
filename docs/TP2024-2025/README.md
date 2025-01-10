@@ -21,7 +21,7 @@
   * tp11 : énumérations, n-uplets et enregistrements
   * tp12 : structures de données linéaires
   * tp13 : arbres binaires
-
+* [tp14](TP14_quadtrees/tp_quadtrees.md) : quadtrees
 
 # Trop rapide ?
 Allez chercher du travail sur
