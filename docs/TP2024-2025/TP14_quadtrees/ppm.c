@@ -40,7 +40,8 @@ image *lecture(const char *fichier){
     free(ligne);
     return NULL;
   }
-  
+
+  free(ligne);  
   img = (image *)malloc(sizeof(image));
   fscanf(file, "%d %d\n", &img->larg, &img->haut);
   fscanf(file, "%d\n", &max);
