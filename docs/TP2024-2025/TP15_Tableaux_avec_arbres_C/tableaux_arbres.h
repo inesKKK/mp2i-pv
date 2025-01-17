@@ -13,24 +13,24 @@ struct arbre {
 
 typedef struct arbre arbre;
 
-struct tableau {
+struct dynarray {
   int len;                 // nombre d'éléments du tableau
   int echelle;          // plus grande puissance de NODE_SIZE telle que echelle < len
   struct arbre *racine;
 };
 
-typedef struct tableau tableau;
+typedef struct dynarray dynarray;
 
 /** cree un tableau vide de capacite NODE_SIZE */
-tableau init();
+dynarray init();
 
 /** tableau existant
  * indice < longueur du tableau 
  * renvoie le contenu de la case indice */
-int get(struct tableau tab, int indice);
+int get(struct dynarray tab, int indice);
 
 /** tab non NULL 
  * ajoute une nouvelle case à la fin de tab, avec la valeur val */
-void add(struct tableau *tab, int val);
+void add(struct dynarray *tab, int val);
 
 #endif
