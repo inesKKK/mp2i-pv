@@ -85,6 +85,10 @@ un programme qu'on comprend
 * savoir définir un invariant de boucle
 * savoir prouver une correction par récurrence pour une fonction
   récursive
+* connaître le tri par tas (en particulier pouvoit l'appliquer sur un
+  exemple) et pouvoir prouver sa complexité
+* connaître le tri rapide (en particulier pouvoit l'appliquer sur un
+  exemple)
   
 ### Complexité
 * savoir compter un nombre d'opérations en itératif et en récursif
@@ -115,6 +119,8 @@ un programme qu'on comprend
   (union sans ou avec données, enregistrements, $n$-uplets, types
   paramétrés, types récursifs)
 * connaître l'existence du type `option` et savoir l'utiliser
+* connaître le type `unit` et son unique valeur `()`
+* savoir utiliser l'opérateur `;`
 
 ### Structures de données
 * connaître l'interface et savoir implémenter en `C` et en `OCaml` :
@@ -126,3 +132,6 @@ un programme qu'on comprend
   l'implémentation par tableau des arbres binaires complets)
 * savoir ce que sont une file de priorité et un tas max
 * connaître les algorithmes de manipulation des tas max
+
+### Compression de texte
+* connaître la méthode de Huffman

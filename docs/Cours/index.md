@@ -255,6 +255,23 @@
   taille variable
 
 #### 8 janvier 2025
-* complexité amortie (suite) : méthode du banquier, exemple des
-  tableaux defils implémentées par deux piles; méthode des potentiels,
-  exemple des tableaux de taille variable
+* complexité amortie (suite) : méthode du banquier, exemples des 
+  tableaux de taille variable et des files implémentées par deux
+  piles; méthode des potentiels, exemple des tableaux de taille
+  variable
+
+#### 13 janvier 2025
+* complexité amortie (fin) : exemple des files implémentées par deux
+  piles avec la méthode des potentiels
+* applications des arbres binaires :
+  * minoration de la complexité dans le pire des cas d'un tri par
+    comparaisons
+  * tri par tas
+  * principe du codage de Huffman
+  * tri rapide : déroulement sur un exemple
+
+#### 20 janvier 2025
+* mutabilité en `ocaml`: enregistrements avec champs mutables, types référence
+  (y compris les tests d'égalité et de différence, `==` et `!=`)
+* `unit` comme type de retour d'une fonction
+* opérateur `;`
