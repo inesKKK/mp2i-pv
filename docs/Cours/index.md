@@ -270,7 +270,7 @@
   * principe du codage de Huffman
   * tri rapide : déroulement sur un exemple
 
-#### 20 janvier 2025
+#### 15 janvier 2025
 * mutabilité en `ocaml`: enregistrements avec champs mutables, types référence
   (y compris les tests d'égalité et de différence, `==` et `!=`)
 * `unit` comme type de retour d'une fonction
