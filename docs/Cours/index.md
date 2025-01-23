@@ -158,9 +158,9 @@
 * étude de la complexité temporelle du tri fusion; code : [tri_fusion.c](code/tri_fusion.c)
 
 #### 13 novembre 2024
-* introduction à `ocaml` : immuabilité, expressions
-* compilation et exécution `ocaml` : `ocamlc`, `ocamlopt`, REPL
-* types primitifs `ocaml`
+* introduction à `OCaml` : immuabilité, expressions
+* compilation et exécution `OCaml` : `OCamlc`, `OCamlopt`, REPL
+* types primitifs `OCaml`
 * définitions de variables
 * expressions conditionnelles, expressions `let` et portée
 * annotation de types
@@ -221,7 +221,7 @@
 #### 11 décembre 2024
 * types récursifs et polymorphes; code : [liste.ml](code/liset.ml) /
   [liste_parametree.ml](code/liste_parametree.ml)
-* mot-clef `and` en `ocaml` pour définir des types mutuellement
+* mot-clef `and` en `OCaml` pour définir des types mutuellement
   récursifs
 * options
 * parenthésage `(`/`)` et `begin`/`end`
@@ -232,7 +232,7 @@
   feuille, nœud interne, branche, arbre binaire strict, arbre binaire
   complet)
 * lien taille / hauteur dans les divers types d'arbres binaires
-* implémentation des arbres binaires en `C` avec des pointeurs et en `ocaml` avec un type somme
+* implémentation des arbres binaires en `C` avec des pointeurs et en `OCaml` avec un type somme
 * implémentation des arbres binaires complets sous forme de tableau
 * files de priorité
 
@@ -271,7 +271,20 @@
   * tri rapide : déroulement sur un exemple
 
 #### 15 janvier 2025
-* mutabilité en `ocaml`: enregistrements avec champs mutables, types référence
+* mutabilité en `OCaml`: enregistrements avec champs mutables, types référence
   (y compris les tests d'égalité et de différence, `==` et `!=`)
 * `unit` comme type de retour d'une fonction
 * opérateur `;`
+
+#### 20 janvier 2025
+* tri rapide : correction totale, analyse
+  de complexité dans le pire des cas, dans le meilleur des cas et en
+  moyenne sous l'hypothèse de l'absence de doublons; code :
+  [tri_rapide.c](code/tri_rapide.c)
+* tri rapide : sensibilisation au cas des doublons
+  
+#### 22 janvier 2025
+* type `unit` : type de retour, expressions conditionnelles, fonctions
+  sans argument; code : [pile.ml](code/pile.ml)
+* tableaux en `OCaml`
+* boucles `for` en `OCaml`
