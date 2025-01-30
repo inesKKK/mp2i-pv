@@ -67,6 +67,7 @@ un programme qu'on comprend
 * savoir déclarer et utiliser un type structuré, y compris pour les
   types auto-référencés
 * savoir utiliser `->`
+* savoir manipuler des chaînes de caractères
 
 ### Représentation des nombres en machine
 
@@ -125,7 +126,9 @@ un programme qu'on comprend
 * savoir créer un tableau in extenso et accéder à une de ses cases
   (lecture et écriture)
 * savoir écrire une fonction sans argument
-* savoir écrire une boucle `for`
+* savoir écrire des boucles `for` et while
+* savoir manipuler une chaîne de caractères
+* savoir manipuler des exceptions : créer, lever, attraper 
 
 ### Structures de données
 * connaître l'interface et savoir implémenter en `C` et en `OCaml` :
@@ -137,6 +140,8 @@ un programme qu'on comprend
   l'implémentation par tableau des arbres binaires complets)
 * savoir ce que sont une file de priorité et un tas max
 * connaître les algorithmes de manipulation des tas max
+* connaître les divers parcours d'arbres (savoir les appliquer et
+  savoir écrire les algorithmes)
 
 ### Compression de texte
 * connaître la méthode de Huffman

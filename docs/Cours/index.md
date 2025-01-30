@@ -288,3 +288,16 @@
   sans argument; code : [pile.ml](code/pile.ml)
 * tableaux en `OCaml`
 * boucles `for` en `OCaml`
+
+#### 27 janvier 2025
+* tri rapide : variante pour tenir compte des doublons; code :
+  [tri_rapide_3.c](code/tri_rapide_3.c)
+* parcours d'arbres binaires: en profondeur (préfixe, postfixe,
+  suffixe), en largeur
+* boucles `while` en `OCaml`
+
+#### 29 janvier 2025
+* exceptions en `OCaml`
+* type caractère en `C` et en `OCaml`
+* chaînes de caractères en `C` et en `OCaml`
+* Rappels sur les flux standards des processus
