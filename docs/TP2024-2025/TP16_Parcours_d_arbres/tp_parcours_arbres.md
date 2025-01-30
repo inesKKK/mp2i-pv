@@ -164,9 +164,9 @@ du type
 ```Caml
 type lexi = Vide | Noeud of noeud
 and noeud = { car : char;
-              fg : mutable lexi;
-              fd : mutable lexi;
-              fin : mutable bool
+              mutable fg : lexi;
+              mutable fd : lexi;
+              mutable fin : bool
             }
 ```
 
