@@ -1,4 +1,4 @@
-TP16 : Parcours d'arbres
+TP17 : Parcours d'arbres
 ==
 
 ## Arbres binaires
