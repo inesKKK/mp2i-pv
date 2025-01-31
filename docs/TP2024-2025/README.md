@@ -25,7 +25,7 @@
 * [tp15](TP15_Tableaux_avec_arbres_C/tp_arbres_arite_quelconque.md) : implémentation alternative de tableaux dynamiques
 * [tp ocaml](http://vps-ff29e1ab.vps.ovh.net:49300) : 
   * tp16 : algorithme de Huffman
-* [tp17](TP17_Parcours_d_arbres/tp_parcours_arbres.md)
+* [tp17](TP17_Parcours_d_arbres/tp_parcours_arbres.md) : parcours d'arbres
 
 # Trop rapide ?
 Allez chercher du travail sur
