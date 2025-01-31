@@ -41,7 +41,7 @@ chaque niveau qui n'est pas le dernier niveau. L'extraction d'un tel
 pointeur de la file vous permettra de savoir que vous avez fini
 d'afficher un niveau.
 
-#### Exercice 3 : joli affichage d'un arbre parfait
+#### Exercice 3 [difficile] : joli affichage d'un arbre parfait
 Pour cet exercice, vous trouverez la fonction `exemple_parfait` dans
 le fichier [exemple.c](code/exemple.c) qui vous permet de récupérer un
 arbre parfait en spécifiant sa hauteur.
@@ -102,7 +102,7 @@ h
 i
 ```
 
-#### Exercice 5 : décalages
+#### Exercice 5  [difficile] : décalages
 Écrire une fonction `parcours_decale` qui prend en argument un
 pointeur sur arbre et permet un affichage décalé. Sur l'exemple de
 l'énoncé, on doit obtenir:
@@ -119,7 +119,7 @@ a
 ------i
 ```
 
-#### Exercice 6 : sans retours à la ligne inutiles
+#### Exercice 6  [challenge] : sans retours à la ligne inutiles
 Écrire une fonction `joli_parcours_decale` qui prend en argument un
 pointeur sur arbre et permet un affichage décalé sans retours à la
 ligne inutiles. Sur l'exemple de
