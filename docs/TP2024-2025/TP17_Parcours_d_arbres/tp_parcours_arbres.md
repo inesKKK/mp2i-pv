@@ -192,12 +192,12 @@ caractère en `OCaml`, vous pouvez utiliser la fonction `String.make :
 int -> char -> string`.
 
 #### Exercice 9 [difficile] : supprimer un mot du lexique
-Écrire une fonction `supprimer : : lexi -> string -> unit` permettant
+Écrire une fonction `supprimer : lexi -> string -> unit` permettant
 de supprimer un mot d'un arbre lexicographique. On ne demande pas de
 supprimer les branches de l'arbre devenues inutiles, uniquement de
 modifier le drapeau `fin`.
 
 #### Exercice 10 [challenge] : insérer un mot dans un lexique
-Écrire une fonction `ajouter : : lexi -> string -> lexi` permettant
+Écrire une fonction `ajouter : lexi -> string -> lexi` permettant
 d'ajouter un mot dans un arbre lexicographique.
 
