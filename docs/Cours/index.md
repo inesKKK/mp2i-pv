@@ -296,8 +296,28 @@
   suffixe), en largeur
 * boucles `while` en `OCaml`
 
-#### 29 janvier 2025
+#### 28 janvier 2025
 * exceptions en `OCaml`
 * type caractère en `C` et en `OCaml`
 * chaînes de caractères en `C` et en `OCaml`
 * Rappels sur les flux standards des processus
+
+### février
+
+#### 3 février 2025
+* représentation d'un ensemble de données
+* arbres binaires de recherche:
+  * construction naïve; code : [abr.ml](code/abr.ml)
+  * recherche d'élément
+  * parcours infixe
+  * ajout d'un élément
+  * suppression d'un élément
+* arbres rouge et noir: définition, lien entre taille et hauteur
+
+
+#### 4 février 2025
+* entrées / sorties : flux standard, shell, `C` et `ocaml`; code :
+  [bufferisation.c](code/bufferisation.c) /
+  [bufferisation2.c](code/bufferisation2.c) /
+  [lecture_entree_standard.c](code/lecture_entree_standard.c) / [lecture_chaine.c](code/lecture_chaine.c)
+* arbres rouge et noir: rotations

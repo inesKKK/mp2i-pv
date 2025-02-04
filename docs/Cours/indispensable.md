@@ -17,6 +17,8 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
   les créer
 * connaître les droits : groupes d'utilisateurs, types de droits,
   savoir les lire, les interpréter et les modifier
+* savoir rediriger l'entrée standard, la sortie standard et la sortie
+  erreur
 
 ### Processus
 
@@ -68,6 +70,8 @@ un programme qu'on comprend
   types auto-référencés
 * savoir utiliser `->`
 * savoir manipuler des chaînes de caractères
+* utilisation de `printf`, `fprintf` et `scanf`
+* lecture et écriture dans un fichier
 
 ### Représentation des nombres en machine
 
@@ -129,6 +133,7 @@ un programme qu'on comprend
 * savoir écrire des boucles `for` et while
 * savoir manipuler une chaîne de caractères
 * savoir manipuler des exceptions : créer, lever, attraper 
+* lecture et écriture dans un fichier
 
 ### Structures de données
 * connaître l'interface et savoir implémenter en `C` et en `OCaml` :
@@ -142,6 +147,8 @@ un programme qu'on comprend
 * connaître les algorithmes de manipulation des tas max
 * connaître les divers parcours d'arbres (savoir les appliquer et
   savoir écrire les algorithmes)
+* ABR : définition, opérations de base
+* arbres rouge-noir : définition, lien entre taille et hauteur
 
 ### Compression de texte
 * connaître la méthode de Huffman
