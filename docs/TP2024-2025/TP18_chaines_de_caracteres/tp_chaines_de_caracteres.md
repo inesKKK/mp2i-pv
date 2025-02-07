@@ -7,7 +7,7 @@ commande. Je fournis des fonctions de test pour les deux langages,
 elles peuvent aussi vous aider à comprendre ce qui est
 attendu. Écrivez votre code dans d'autres fichiers.
 
-[tests.c](tests.c) / [tests.ml](tests.ml)
+[tests.c](C/tests.c) / [tests.ml](ocaml/tests.ml)
 
 Pour que les tests fonctionnent, vous devez impérativement :
 
