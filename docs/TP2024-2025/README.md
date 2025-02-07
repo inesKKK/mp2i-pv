@@ -26,6 +26,7 @@
 * [tp ocaml](http://vps-ff29e1ab.vps.ovh.net:49300) : 
   * tp16 : algorithme de Huffman
 * [tp17](TP17_Parcours_d_arbres/tp_parcours_arbres.md) : parcours d'arbres
+* [tp18](TP18_chaines_de_caracteres/tp_chaines_de_caracteres.md) : chaînes de caractères
 
 # Trop rapide ?
 Allez chercher du travail sur
