@@ -38,7 +38,7 @@ L'image fournie contient un message caché de la manière suivante :
 * ces bits sont rangés du bit de poids fort au bit de poids faible du
   caractère caché.
 
-Ainsi une image qui contiendrait dans la première colonne les niveaux
+Ainsi une image qui contiendrait dans la première ligne les niveaux
 de gris suivant pour ses pixels:
 
 
@@ -53,7 +53,7 @@ de gris suivant pour ses pixels:
 | 89 | 1 |
 | 80 | 0 |
 
-cacherait sur cette colonne le caractère `'z'` qui est le caractère de
+cacherait sur cette ligne le caractère `'z'` qui est le caractère de
 code ascii 122 qui s'écrit `01111010` en binaire.
 
 1. Comment obtient-on le bit de poids faible d'un entier?
