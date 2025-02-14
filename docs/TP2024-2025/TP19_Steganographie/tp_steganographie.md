@@ -22,14 +22,15 @@ Le TP est à faire en `C`. Pour qu'il n'y ait pas d'ambiguïté sur ce
 que je demande, voici le fichier d'en-tête correspondant à votre
 programme: [steganographie.h](steganographie.h).
 
-## Exercice 1 : Mettre une image en mémoire.
+## Lire un message caché
+### Exercice 1 : Mettre une image en mémoire.
 Écrire une fonction `charger_image` qui prend en argument le nom d'un
 fichier et renvoie un pointeur sur image qui pointe sur une zone mémoire
 contenant les données de l'image.
 
 
 
-## Exercice 2 : Lire une lettre cachée.
+### Exercice 2 : Lire une lettre cachée.
 L'image fournie contient un message caché de la manière suivante :
 * chaque ligne de l'image permet de cacher un caractère,
 * dans une ligne donnée, chacun des 8 premiers pixels permet de
@@ -61,19 +62,26 @@ code ascii 122 qui s'écrit `01111010` en binaire.
    d'au moins 8 entiers et renvoie le caractère caché (avec la méthode
    décrite précédemment).
    
-## Exercice 3 : Lire le message secret.
+### Exercice 3 : Lire le message secret.
 Écrire une fonction `message` qui prend en argument une
 image en mémoire et un nom de fichier et écrit le message caché dans
 l'image dans le fichier correspondant. Le message se termine quand on
 rencontre le caractère `'\0'` de code ascii 0.
 
 
-## Exercice 4 : Cacher un caractère.
+### Exercice 4 : Écrire une commande
+Écrire un programme qui prend en argument un nom de fichier et affiche
+le message secret contenu dans le fichier avec la méthode décrite
+ci-dessus.
+
+
+## Cacher un message
+### Exercice 5 : Cacher un caractère.
 Écrire une fonction `inserer_caractere` qui prend en argument un
 tableau d'entiers d'au moins 8 cases et un caractère, et insère le
 caractère dans le tableau en suivant les règles décrites ci-dessus.
 
-## Exercice 5 : Coder ses propres messages.
+### Exercice 6 : Coder ses propres messages.
 Écrire une fonction `cacher` qui prend en argument une image en
 mémoire et une chaîne de caractères, cache le message dans l'image
 (sans oublier le caractère `'\0'` final) et
@@ -81,17 +89,15 @@ renvoie l'adresse de l'image si l'image était assez grande pour
 contenir le message ou `NULL` si ce n'est pas le cas.
 
 
-## Exercice 6 : Sauvegarder une image.
+### Exercice 7 : Sauvegarder une image.
 Écrire une fonction `sauvegarder_image` qui prend en argument un nom
 de fichier (qui n'existe pas forcément) et une image en mémoire et
 sauvegarde l'image au format PGM ascii dans ce fichier.
 
-## Exercice 7 : Fabriquer ses commandes.
+### Exercice 8 : Fabriquer ses commandes.
 Écrire un programme qui prend en argument un nom de fichier et une
 chaîne de caractères et fabrique un fichier `secret.pgm` contenant
 l'image avec le message caché. Si l'image n'est pas assez grande pour
 cacher le message (avec la méthode décrite; il est clair qu'on peut
 faire mieux), alors le programme doit afficher un message d'erreur.
 
-Écrire un programme qui prend en argument un nom de fichier et affiche
-le message secret contenu dans le fichier.
