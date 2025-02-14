@@ -94,7 +94,7 @@ contenir le message ou `NULL` si ce n'est pas le cas.
 de fichier (qui n'existe pas forcément) et une image en mémoire et
 sauvegarde l'image au format PGM ascii dans ce fichier.
 
-### Exercice 8 : Fabriquer ses commandes.
+### Exercice 8 : Écrire une commande
 Écrire un programme qui prend en argument un nom de fichier et une
 chaîne de caractères et fabrique un fichier `secret.pgm` contenant
 l'image avec le message caché. Si l'image n'est pas assez grande pour
