@@ -7,7 +7,7 @@ commande. Je fournis des fonctions de test pour les deux langages,
 elles peuvent aussi vous aider à comprendre ce qui est
 attendu. Écrivez votre code dans d'autres fichiers.
 
-[tests.c](tests.c) / [tests.ml](tests.ml)
+[tests.c](C/tests.c) / [tests.ml](ocaml/tests.ml)
 
 Pour que les tests fonctionnent, vous devez impérativement :
 
@@ -73,9 +73,9 @@ une fonction `ascii_art` qui prend en argument une chaîne de
 cacractères et l'affiche en grand, mot par mot (c'est-à-dire avec un
 retour à la ligne après chaque mot).
 
-[grandes_lettres.h](grandes_lettres.h) / [grandes_lettres.c](grandes_lettres.c)
+[grandes_lettres.h](C/grandes_lettres.h) / [grandes_lettres.c](C/grandes_lettres.c)
 
-[grandes_lettres.ml](grandes_lettres.ml)
+[grandes_lettres.ml](ocaml/grandes_lettres.ml)
 
 
 ## Comparaisons
