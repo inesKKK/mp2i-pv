@@ -134,6 +134,7 @@ un programme qu'on comprend
 * savoir manipuler une chaîne de caractères
 * savoir manipuler des exceptions : créer, lever, attraper 
 * lecture et écriture dans un fichier
+* savoir utiliser `Hashtbl` pour implémenter une table de hachage
 
 ### Structures de données
 * connaître l'interface et savoir implémenter en `C` et en `OCaml` :
@@ -148,7 +149,10 @@ un programme qu'on comprend
 * connaître les divers parcours d'arbres (savoir les appliquer et
   savoir écrire les algorithmes)
 * ABR : définition, opérations de base
-* arbres rouge-noir : définition, lien entre taille et hauteur
+* arbres rouge-noir : définition, lien entre taille et hauteur,
+  algorithme d'ajout d'un nouvel élément
+* tables de hachage : définition, résolution des collisions par sondage et par
+  chaînage
 
 ### Compression de texte
 * connaître la méthode de Huffman

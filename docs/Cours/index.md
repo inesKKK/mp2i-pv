@@ -321,3 +321,13 @@
   [bufferisation2.c](code/bufferisation2.c) /
   [lecture_entree_standard.c](code/lecture_entree_standard.c) / [lecture_chaine.c](code/lecture_chaine.c)
 * arbres rouge et noir: rotations
+
+#### 10 février 2025
+* arbres rouge et noir : insertion et suppression d'un élément; code :
+  [arbresRN.ml](code/arbresRN.ml)
+* tables de hachage: définition
+
+#### 11 février 2025
+* tables de hachage: résolution des collisions par sondage et par
+  chaînage; module `Hashtbl` en `OCaml`
+* tests fonctionnels ou "boîtes noires"
