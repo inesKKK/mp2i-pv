@@ -34,6 +34,8 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 un programme qu'on comprend
 * connaître la différence entre typage fort et typage faible, et entre
   typage statique et typage dynamique
+* savoir écrire des tests fonctionnels et des tests structurels
+* documenter son code à bon escient
 
 ### Langage C
 
@@ -153,6 +155,12 @@ un programme qu'on comprend
   algorithme d'ajout d'un nouvel élément
 * tables de hachage : définition, résolution des collisions par sondage et par
   chaînage
+
+### Induction
+* savoir ce qu'est un ordre bien fondé
+* savoir définit inductivement un ensemble
+* connaître et savoir appliquer le théorème d'induction structurelle
+
 
 ### Compression de texte
 * connaître la méthode de Huffman

@@ -331,3 +331,18 @@
 * tables de hachage: résolution des collisions par sondage et par
   chaînage; module `Hashtbl` en `OCaml`
 * tests fonctionnels ou "boîtes noires"
+
+### mars
+
+#### 3 mars 2025
+* tests structurels ou "boîtes blanches"
+* documentation du code
+* `assert`
+* récursivité et induction : preuve du principe de récurrence,
+  vocabulaire lié aux ordres
+  
+#### 4 mars 2025
+* ordres bien fondés
+* ordres sur les ensembles produits
+* définitions par induction
+* théorème d'induction structurelle
