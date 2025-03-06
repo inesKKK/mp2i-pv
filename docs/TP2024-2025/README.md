@@ -28,6 +28,7 @@
 * [tp17](TP17_Parcours_d_arbres/tp_parcours_arbres.md) : parcours d'arbres
 * [tp18](TP18_chaines_de_caracteres/tp_chaines_de_caracteres.md) : chaînes de caractères
 * [tp19](TP19_Steganographie/tp_steganographie.md) : stéganographie
+* [tp20](TP20_hachage/tp_hachage.md)
 
 # Trop rapide ?
 Allez chercher du travail sur
