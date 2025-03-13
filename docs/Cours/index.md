@@ -358,6 +358,12 @@
 * valuations et extension inductive aux formules
 
 
+#### 11 mars 2025
+* nouveaux connecteurs : $\to$, $\leftrightarrow$, $\top$, $\bot$
+* satisfiabilité d'une formule, modèle (notation $\models$)
+* tautologie, antilogie; principe du tiers exclu
+* équivalence logique; contraposée, lois de De Morgan
+* conséquence logique (notation $\models$)
 
 #### 12 mars 2025
 * vocabulaire : littéraux positifs et négatifs, clauses

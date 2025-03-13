@@ -173,7 +173,8 @@ un programme qu'on comprend
 * savoir ce que sont des tautologies et des antilogies
 * savoir ce que sont une équivalence logique et une conséquence
   logique
-* connaître la contraposée et les lois de De Morgan
+* connaître la contraposée, les lois de De Morgan et le principe du
+  tiers exclu
 * savoir ce que sont des littéraux et des clause
 * savoir énoncer les problèmes SAT et n-SAT
 * savoir mettre une formule sous forme normale négative et sous forme
