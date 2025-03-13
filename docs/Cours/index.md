@@ -358,16 +358,10 @@
 * valuations et extension inductive aux formules
 
 
-#### 11 mars 2025
-* nouveaux connecteurs : $\to$, $\leftrightarrow$, $\top$, $\bot$
-* satisfiabilité d'une formule, modèle (notation $\models$)
-* tautologie, antilogie
-* équivalence logique; contraposée, lois de De Morgan
-* conséquence logique (notation $\models$)
 
 #### 12 mars 2025
 * vocabulaire : littéraux positifs et négatifs, clauses
-* problèmes SAT et n-SAT
+* problèmes SAT et $n$-SAT
 * formes normales négatives : constructions et preuves
 * formes normales conjonctives : construction, preuve, exemple de
   formule dont la FNC a une taille exponentielle
