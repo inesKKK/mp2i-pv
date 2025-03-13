@@ -158,9 +158,28 @@ un programme qu'on comprend
 
 ### Induction
 * savoir ce qu'est un ordre bien fondé
-* savoir définit inductivement un ensemble
+* savoir définir inductivement un ensemble
 * connaître et savoir appliquer le théorème d'induction structurelle
+* connaître et savoir prouver la caractérisation d'un ensemble défini
+  par induction comme union infinie
 
+### Logique
+* savoir construire inductivement les formules de la logique
+  propositionnelle
+* savoir ce qu'est une valuation, pouvoir l'étendre à des formules
+* savoir ce qu'est un modèle et ce que signifie la satisfiabilité
+* connaître les connecteurs classiques et leurs tables de vérité
+* savoir écrire la table de vérité d'une formule
+* savoir ce que sont des tautologies et des antilogies
+* savoir ce que sont une équivalence logique et une conséquence
+  logique
+* connaître la contraposée et les lois de De Morgan
+* savoir ce que sont des littéraux et des clause
+* savoir énoncer les problèmes SAT et n-SAT
+* savoir mettre une formule sous forme normale négative et sous forme
+  normale conjonctive
+* connaître un exemple de formule pour laquelle la mise sous FNC donne
+  une formule exponentiellement plus grande
 
 ### Compression de texte
 * connaître la méthode de Huffman

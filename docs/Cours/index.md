@@ -346,3 +346,29 @@
 * ordres sur les ensembles produits
 * définitions par induction
 * théorème d'induction structurelle
+
+#### 10 mars 2025
+* caractérisation d'un ensemble défini par induction comme union
+  infinie
+* théorème d'induction bien fondée
+* construction inductive des formules de logique propositionnelle,
+  représentation par arbre d'une formule, notions de taille et de
+  hauteur
+* ensemble des valeurs de vérité
+* valuations et extension inductive aux formules
+
+
+#### 11 mars 2025
+* nouveaux connecteurs : $\to$, $\leftrightarrow$, $\top$, $\bot$
+* satisfiabilité d'une formule, modèle (notation $\models$)
+* tautologie, antilogie
+* équivalence logique; contraposée, lois de De Morgan
+* conséquence logique (notation $\models$)
+
+#### 12 mars 2025
+* vocabulaire : littéraux positifs et négatifs, clauses
+* problèmes SAT et n-SAT
+* formes normales négatives : constructions et preuves
+* formes normales conjonctives : construction, preuve, exemple de
+  formule dont la FNC a une taille exponentielle
+* description du format DIMACS et exemple de minisat comme SAT-solveur
