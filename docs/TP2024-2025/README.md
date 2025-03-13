@@ -29,6 +29,7 @@
 * [tp18](TP18_chaines_de_caracteres/tp_chaines_de_caracteres.md) : chaînes de caractères
 * [tp19](TP19_Steganographie/tp_steganographie.md) : stéganographie
 * [tp20](TP20_hachage/tp_hachage.md) : tables de hachage
+* [tp21](TP21_logique/tp_logique_et_serialisation.md) : logique
 
 # Trop rapide ?
 Allez chercher du travail sur
