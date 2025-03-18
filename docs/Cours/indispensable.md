@@ -97,6 +97,9 @@ un programme qu'on comprend
 * connaître le tri rapide (en particulier pouvoit l'appliquer sur un
   exemple) et pouvoir prouver sa terminaison, sa vorrection, sa
   complexité dans le pire des cas et en moyenne
+* connaître les stratégies suivantes : diviser pour régner, force
+  brute, backtracking, glouton
+* savoir programmer un backtracking
 
 ### Complexité
 * savoir compter un nombre d'opérations en itératif et en récursif
@@ -177,10 +180,14 @@ un programme qu'on comprend
   tiers exclu
 * savoir ce que sont des littéraux et des clause
 * savoir énoncer les problèmes SAT et n-SAT
-* savoir mettre une formule sous forme normale négative et sous forme
-  normale conjonctive
+* savoir mettre une formule sous forme normale négative, sous forme
+  normale conjonctive et sous forme normale disjonctive
 * connaître un exemple de formule pour laquelle la mise sous FNC donne
-  une formule exponentiellement plus grande
+  une formule exponentiellement plus grande, et une formule pour
+  laquelle la mise sous FND donne une formule exponentiellement plus
+  grande
+* savoir substituer une formule à une variable
+* connaître l'algorithme de Quine et savoir l'appliquer
 
 ### Compression de texte
 * connaître la méthode de Huffman

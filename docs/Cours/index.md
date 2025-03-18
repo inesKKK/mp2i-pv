@@ -372,3 +372,18 @@
 * formes normales conjonctives : construction, preuve, exemple de
   formule dont la FNC a une taille exponentielle
 * description du format DIMACS et exemple de minisat comme SAT-solveur
+
+#### 17 mars 2025
+* substitution dans un formule logique : définition, une substitution
+  dans une tautologie est une tautologie
+* algorithme de Quine
+* formules normales disjonctives, FND complètes
+
+#### 18 mars 2025
+* début stratégies algorithmiques
+* force brute; code : [cherche.c](code/cherche.c);
+  [cherche.ml](code/cherche.ml)
+* backtracking (retour sur trace); code : [reines.c](code/reines.c) /
+  [espaces.ml](code/espaces.ml)
+* début algorithmes gloutons; code : [egypte.ml](code/egypte.ml)
+
