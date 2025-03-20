@@ -45,7 +45,7 @@ concernée.
 Dans la suite, on aura à un moment donné besoin de compter le nombre
 de lignes d'un fichier et de recopier un fichier dans un autre. On
 vous fournit les fonctions `nb_de_lignes` et `recopie` à cette fin
-dans le fichier [sudoku.c](sec/sudoku.c) que vous pouvez compléter.
+dans le fichier [sudoku.c](src/sudoku.c) que vous pouvez compléter.
 
 **Question 1.** Écrire une fonction `void affiche_grille(char
 *fichier)` qui prend en argument un nom de fichier au format décrit
