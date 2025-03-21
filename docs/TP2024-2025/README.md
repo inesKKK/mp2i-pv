@@ -30,6 +30,7 @@
 * [tp19](TP19_Steganographie/tp_steganographie.md) : stéganographie
 * [tp20](TP20_hachage/tp_hachage.md) : tables de hachage
 * [tp21](TP21_logique/tp_logique_et_serialisation.md) : logique
+* [tp22](TP22_sudoku/tp_sudoku.md) : résolution de sudoku
 
 # Trop rapide ?
 Allez chercher du travail sur
