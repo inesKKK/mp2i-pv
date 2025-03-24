@@ -98,8 +98,12 @@ un programme qu'on comprend
   exemple) et pouvoir prouver sa terminaison, sa vorrection, sa
   complexité dans le pire des cas et en moyenne
 * connaître les stratégies suivantes : diviser pour régner, force
-  brute, backtracking, glouton
+  brute, backtracking, glouton, programmation dynamique (du bas vers
+  le haut et mémoïsation)
 * savoir programmer un backtracking
+* savoir identifier la propriété des sous-problèmes optimaux et le
+  chevauchement de sous-problèmes (en vue d'appliquer une stratégie de
+  programmation dynamique)
 
 ### Complexité
 * savoir compter un nombre d'opérations en itératif et en récursif
