@@ -384,7 +384,7 @@
 * force brute; code : [cherche.c](code/cherche.c);
   [cherche.ml](code/cherche.ml)
 * backtracking (retour sur trace); code : [reines.c](code/reines.c) /
-  [espaces.ml](code/espaces.ml)
+  [decoupage.ml](code/decoupage.ml)
 * début algorithmes gloutons; code : [egypte.ml](code/egypte.ml)
 
 #### 24 mars 2025
