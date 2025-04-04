@@ -97,13 +97,15 @@ un programme qu'on comprend
 * connaître le tri rapide (en particulier pouvoit l'appliquer sur un
   exemple) et pouvoir prouver sa terminaison, sa vorrection, sa
   complexité dans le pire des cas et en moyenne
-* connaître les stratégies suivantes : diviser pour régner, force
-  brute, backtracking, glouton, programmation dynamique (de bas en
-  haut et mémoïsation)
-* savoir programmer un backtracking
+* connaître les stratégies suivantes et savoir les mettre en œuvre :
+  diviser pour régner, force brute, backtracking, glouton,
+  programmation dynamique (de bas en haut et mémoïsation), diviser
+  pour  régner, meet in the middle
 * savoir identifier la propriété des sous-problèmes optimaux et le
   chevauchement de sous-problèmes (en vue d'appliquer une stratégie de
   programmation dynamique)
+* algorithmique du texte : connaître les algorithmes de Rabin-Karp, de
+  Boyer-Moore, de Huffman
 
 ### Complexité
 * savoir compter un nombre d'opérations en itératif et en récursif
@@ -193,5 +195,5 @@ un programme qu'on comprend
 * savoir substituer une formule à une variable
 * connaître l'algorithme de Quine et savoir l'appliquer
 
-### Compression de texte
-* connaître la méthode de Huffman
+### Bases de données
+* connaître le vocabulaire de base

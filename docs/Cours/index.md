@@ -401,3 +401,16 @@
   [levenshtein_naif.c](code/levenshtein_naif.c) /
   [levenshtein.c](code/levenshtein.c) /
   [typographie.c](code/typographie.c)
+
+#### 31 mars 2025
+* diviser pour régner : couverture de $n$ points par $k$ segments
+  égaux de plus petite longueur; ligne d'horizon
+* meet in the middle : somme de sous-ensembles
+* algorithmique du texte : recherche de motif (algorithme naïf)
+
+### avril
+
+#### 1er avril 2025
+* algorithmique du texte : recherche de motif (algorithme de
+  Rabin-Karp + algorithme de Boyer-Moore-Horspool)
+* début bases de données : vocabulaire sur les tables
