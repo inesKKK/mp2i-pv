@@ -414,3 +414,20 @@
 * algorithmique du texte : recherche de motif (algorithme de
   Rabin-Karp + algorithme de Boyer-Moore-Horspool)
 * début bases de données : vocabulaire sur les tables
+
+#### 7 avril 2025
+* requêtes simples sur une seule table : `SELECT ... FROM ... WHERE ...`
+* organisation du résultat d'une requête : `AS`, `ORDER BY`,
+  `DISTINCT`
+* opérations ensemblistes : `INTERSECT`, `EXCEPT`, `UNION`
+* jointures "à la main"
+* jointures internes avec `JOIN`
+
+#### 8 avril 2025
+* jointures externes avec `LEFT JOIN`
+* requêtes complexes : requêtes imbriquées
+* modèle entités / associations
+* contraintes de cardinalité
+* contraintes d'intégrité : clefs primaires, clefs étrangères
+* fonctions d'agrégation : `MIN`, `MAX`, `SUM`, `AVG`, `COUNT`
+* agrégats : `GROUP BY`, `HAVING`

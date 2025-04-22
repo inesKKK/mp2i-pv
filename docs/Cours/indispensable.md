@@ -197,3 +197,8 @@ un programme qu'on comprend
 
 ### Bases de données
 * connaître le vocabulaire de base
+* savoir établir un schéma entité/association à partir d'une
+  description concrète
+* savoir passer d'un schéma entité/association à une liste de tables
+* savoir faire des requêtes, y compris avoir jointures, y compris avec
+  agrégats
