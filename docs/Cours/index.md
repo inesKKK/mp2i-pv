@@ -431,3 +431,13 @@
 * contraintes d'intégrité : clefs primaires, clefs étrangères
 * fonctions d'agrégation : `MIN`, `MAX`, `SUM`, `AVG`, `COUNT`
 * agrégats : `GROUP BY`, `HAVING`
+
+#### 28 avril 2025
+* fin algorithmique du texte : compression de données
+  (algorithme de Lempel-Ziv-Welsh)
+* début graphes : vocabulaire
+
+### 29 avril 2025
+* un peu de combinatoire sur les graphes
+* connexité et forte connexité, composantes connexes et fortement
+  connexes

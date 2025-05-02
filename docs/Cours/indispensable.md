@@ -105,7 +105,8 @@ un programme qu'on comprend
   chevauchement de sous-problèmes (en vue d'appliquer une stratégie de
   programmation dynamique)
 * algorithmique du texte : connaître les algorithmes de Rabin-Karp, de
-  Boyer-Moore, de Huffman
+  Boyer-Moore, de Huffman, LZW (les connaître = savoir les appliquer
+  sur des exemples, et savoir les écrire)
 
 ### Complexité
 * savoir compter un nombre d'opérations en itératif et en récursif
@@ -202,3 +203,7 @@ un programme qu'on comprend
 * savoir passer d'un schéma entité/association à une liste de tables
 * savoir faire des requêtes, y compris avoir jointures, y compris avec
   agrégats
+
+### Graphes
+* connaître le vocabulaire associé, entre autre : composantes connexes
+  et fortement connexes
