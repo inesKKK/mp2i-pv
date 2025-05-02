@@ -34,7 +34,7 @@
 * [tp23](https://vjudge.net/contest/705193) : concours de programmation
 * tp24 : algorithme de Boyer-Moore [version facile](TP24_Boyer_Moore/tp_sans_fichier.md) / [version difficile](TP24_Boyer_Moore/tp_avec_fichier.md) / [supplément](https://informatique.ens-lyon.fr/concours-info/2022/sujet2.pdf) pour les courageux qui auraient terminé
 * [tp25](TP25_BD/tp_bd1.md) : bases de données 1
-* [tp26](TP26_BD/tp_bd2.md) : bases de données 2
+* [tp26](TP26_BD2/tp_bd2.md) : bases de données 2
 
 
 # Trop rapide ?
