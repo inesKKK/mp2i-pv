@@ -67,7 +67,7 @@ Pour trouver la zone dont on doit modifier la couleur, on doit
 déterminer la composante connexe associée à un point (dont on sait
 qu'il est dans cette zone). Pour cela vous allez implémenter
 l'algorithme de parcours, en utilisant une file comme sac (nous
-verrons bientôt que dans ce cas la parcours s'appelle *parcours en
+verrons bientôt que dans ce cas le parcours s'appelle *parcours en
 largeur*).
 
 On va utiliser les files fournies par
