@@ -437,7 +437,30 @@
   (algorithme de Lempel-Ziv-Welsh)
 * début graphes : vocabulaire
 
-### 29 avril 2025
+#### 29 avril 2025
 * un peu de combinatoire sur les graphes
 * connexité et forte connexité, composantes connexes et fortement
   connexes
+
+### mai
+
+#### 5 mai 2025
+* cycles et graphes acycliques
+* différentes caractérisations des arbres
+
+#### 6 mai 2026
+* caractérisation d'un arbre en terme de graphe
+* ordre topologique, algorithme de Kahn
+
+#### 12 mai 2025
+* représesentations d'un graphe : matrices d'adjacence; code :
+  [chemin.c](code/chemin.c) / [chemin.ml](code/chemin.ml)
+
+#### 13 mai 2025
+* complexité des fonctions `chemin`
+* représesentations d'un graphe : listes d'adjacence, avec listes ou
+  avec tableaux statiques rectangulaires ou linéaires; code :
+  [liste_adj.c](code/liste_adj.c) / [liste_adj.ml](code/liste_adj.ml)
+  /  [liste_adj2.c](code/liste_adj2.c) /
+  [liste_adj2.ml](code/liste_adj2.ml) 
+* parcours générique d'un graphe

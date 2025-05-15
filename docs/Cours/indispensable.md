@@ -206,4 +206,8 @@ un programme qu'on comprend
 
 ### Graphes
 * connaître le vocabulaire associé, entre autre : composantes connexes
-  et fortement connexes
+  et fortement connexes, cycles, graphes acycliques
+* savoir montrer les diverses caractérisations de connexe+acyclique
+* savoir représenter un graphe par matrice d'adjacence et par listes
+  d'adjacence
+* connaître les divers parcours des graphes et savoir les implémenter
