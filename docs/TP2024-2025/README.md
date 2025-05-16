@@ -36,6 +36,7 @@
 * [tp25](TP25_BD/tp_bd1.md) : bases de données 1
 * [tp26](TP26_BD2/tp_bd2.md) : bases de données 2
 * [tp27](TP27_Logo/tp27_logo.md) : mini-langage graphique
+* [tp28](TP28_yeux_rouges/tp_yeux_rouges.md) : suppression des yeux rouges
 
 # Trop rapide ?
 Allez chercher du travail sur
