@@ -38,7 +38,6 @@
 * [tp27](TP27_Logo/tp27_logo.md) : mini-langage graphique
 * [tp28](TP28_yeux_rouges/tp_yeux_rouges.md) : suppression des yeux
   rouges
-* [tp29] : comme un oral de concours; ccinp : [énoncé](https://www.concours-commun-inp.fr/_resource/annales%20oraux/MPI/Exercices_0_Oraux_Informatique.pdf?download=true), [sources](https://www.concours-commun-inp.fr/_resource/annales%20oraux/MPI/CodeSource_Exercices_0_Oraux_Informatique.zip?download=true) / ens option MP : [énoncé](https://informatique.ens-lyon.fr/concours-info/2023/sujet-MP-2.pdf)
 
 # Trop rapide ?
 Allez chercher du travail sur
