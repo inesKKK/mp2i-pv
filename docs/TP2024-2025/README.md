@@ -38,6 +38,11 @@
 * [tp27](TP27_Logo/tp27_logo.md) : mini-langage graphique
 * [tp28](TP28_yeux_rouges/tp_yeux_rouges.md) : suppression des yeux
   rouges
+* tp29 : contours d'images
+* tp30 : [1er
+  groupe](https://informatique.ens-lyon.fr/concours-info/2022/sujet1.pdf)
+  / [2e groupe sur moodle](https://pam.ac-paris.fr/pam/0750679F/course/view.php?id=328)
+
 
 # Trop rapide ?
 Allez chercher du travail sur
