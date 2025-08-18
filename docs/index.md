@@ -10,8 +10,8 @@
 ### Documents
 
 * La [chronologie](Cours) du cours, les [notions à retenir absolument](Cours/indispensable.md).
-* Les [énoncés de TP](TP2024-2025).
-* Les [énoncés de TD](TD2024-2025).
+* Les [énoncés de TP](TP2025-2026).
+* Les [énoncés de TD](TD2025-2026).
 
 
 <!-- La base utilisée pour illustrer les cours est empruntée à -->
