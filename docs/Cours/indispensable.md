@@ -27,3 +27,25 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * savoir arrêter un processus en premier plan avec `Ctrl-c`
 * savoir faire des redirections d'entrée, de sortie et de sortie
   erreur sur la ligne de commande
+
+### Langages de programmation
+
+* être capable de dessiner un graphe de flot de contrôle d'un programme qu'on comprend
+* connaître la différence entre typage fort et typage faible, et entre
+  typage statique et typage dynamique
+
+### Langage C
+
+* savoir compiler un programme en langage `C`
+* savoir que l'exécution d'un programme `C` est l'exécution de son
+  `main`
+* connaître les règles de construction des identifiants en `C`
+* savoir déclarer et affecter des variables et des constantes
+* savoir déterminer la portée d'une variable
+* connaître la syntaxe d'une fonction
+* savoir que les passages de paramètres se font **par valeur** en `C`
+* connaître les divers types d'entiers qui sont au programme, leur
+  taille et leurs valeurs extrêmes
+* connaître les opérations sur les valeurs numériques et les booléens
+  en `C`
+* connaître la syntaxe des structures de contrôle en `C`

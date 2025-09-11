@@ -30,8 +30,7 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 
 ### Langages de programmation
 
-* être capable de dessiner un graphe de flot de contrôle d
-un programme qu'on comprend
+* être capable de dessiner un graphe de flot de contrôle d'un programme qu'on comprend
 * connaître la différence entre typage fort et typage faible, et entre
   typage statique et typage dynamique
 * savoir écrire des tests fonctionnels et des tests structurels
