@@ -49,3 +49,17 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * connaître les opérations sur les valeurs numériques et les booléens
   en `C`
 * connaître la syntaxe des structures de contrôle en `C`
+
+### Représentation des nombres en machine
+
+* savoir représenter un entier en complément à 2
+* connaître la représentation des flottants normalisés et des
+  flottants dénormalisés
+
+### Algorithmique
+* savoir ce qu'est une entrée et une sortie d'un algorithme
+* savoir ce que signifie terminaison, correction partielle et
+  correction totale d'un algorithme
+* savoir ce que signifie complexité temporelle et complexité spatiale
+  d'un algorithme
+* savoir définir un variant de boucle
