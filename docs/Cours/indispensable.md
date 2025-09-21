@@ -62,4 +62,6 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
   correction totale d'un algorithme
 * savoir ce que signifie complexité temporelle et complexité spatiale
   d'un algorithme
-* savoir définir un variant de boucle
+* savoir définir un variant de boucle et un variant d'appel et savoir
+  ce que leur existence permet de conclure
+* savoir définir un invariant de boucle

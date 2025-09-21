@@ -74,3 +74,12 @@
 * efficacité: complexité temporelle, complexité spatiale
 * indécidabilité du problème de l'arrêt
 * terminaison : définition des variants de boucle
+
+#### 17 septembre 2025
+
+* preuve de terminaison par variant de boucle et par variant d'appel; 
+  code : [factorielle.c](code/factorielle.c) /
+  [factorielle.ml](code/factorielle.ml) /
+  [nb_chiffres_base10.c](code/nb_chiffres_base10.c) /
+  [nb_chiffres_base10.ml](nb_chiffres_base10.ml) / [dichotomie.c](code/dichotomie.c)
+* correction : définition des invariants de boucle
