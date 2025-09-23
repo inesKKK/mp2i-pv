@@ -11,7 +11,7 @@
 
 * La [chronologie](Cours) du cours, les [notions à retenir absolument](Cours/indispensable.md).
 * Les [énoncés de TP](TP2025-2026).
-* Les [énoncés de TD](TD2025-2026).
+* Les [énoncés de TD](https://idf-75-est.elea.apps.education.fr/course/section.php?id=6645).
 
 
 <!-- La base utilisée pour illustrer les cours est empruntée à -->
