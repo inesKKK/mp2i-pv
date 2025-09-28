@@ -83,3 +83,16 @@
   [nb_chiffres_base10.c](code/nb_chiffres_base10.c) /
   [nb_chiffres_base10.ml](nb_chiffres_base10.ml) / [dichotomie.c](code/dichotomie.c)
 * correction : définition des invariants de boucle
+
+#### 22 septembre 2025
+
+* preuve de correction par invariant de boucle
+* preuve de correction par récurrence
+* définition des pointeurs
+* valeur, contenu et déréférencement d'un pointeur
+
+#### 24 septembre 2025
+
+* obtenir une valeur de type pointeur: `NULL`, adresse d'une variable,
+  allocation mémoire avec `malloc`
+* libération mémoire avec `free`

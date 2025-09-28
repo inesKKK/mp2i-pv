@@ -49,6 +49,12 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * connaître les opérations sur les valeurs numériques et les booléens
   en `C`
 * connaître la syntaxe des structures de contrôle en `C`
+* savoir déclarer un tableau et l'initialiser
+* savoir accéder aux cases d'un tableau
+* savoir déclarer un pointeur, et le déréférencer
+* connaître la valeur `NULL`
+* savoir récupérer l'adresse d'une variable
+* savoir utiliser `malloc` et `free`
 
 ### Représentation des nombres en machine
 
@@ -65,3 +71,5 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * savoir définir un variant de boucle et un variant d'appel et savoir
   ce que leur existence permet de conclure
 * savoir définir un invariant de boucle
+* savoir prouver une correction par récurrence pour une fonction
+  récursive
