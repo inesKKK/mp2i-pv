@@ -96,3 +96,23 @@
 * obtenir une valeur de type pointeur: `NULL`, adresse d'une variable,
   allocation mémoire avec `malloc`
 * libération mémoire avec `free`
+
+#### 29 septembre 2025
+
+* pile d'appel d'un processus; code :
+  [pile_tas1.c](code/pile_tas1.c) / [pile_tas2.c](code/pile_tas2.c) [pile_tas3.c](code/pile_tas3.c)
+* bloc d'activation d'un appel
+* tas d'un processus; code : [pile_tas4.c](code/pile_tas4.c)
+* passage d'un pointeur en paramètre; code :
+  [mise_a_42.c](code/mise_a_42.c)
+* tableaux et fonctions; code :
+  [parametre_tableau.c](parametre_tableau.c) / [retour_tableau.c](retour_tableau.c)
+
+### octobre
+
+#### 1er octobre 2025
+
+* compter des opérations en itératif et en récursif
+* ordres de grandeurs : grand O, $\Theta$, $\Omega$
+* comparaisons et calculs des ordres de grandeurs habituels
+(début)

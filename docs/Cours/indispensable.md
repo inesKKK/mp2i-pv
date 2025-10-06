@@ -55,6 +55,12 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * connaître la valeur `NULL`
 * savoir récupérer l'adresse d'une variable
 * savoir utiliser `malloc` et `free`
+* savoir que ce qu'est un bloc d'activation d'appel
+* savoir que les blocs d'activation d'appel se trouvent sur la pile
+* savoir que les emplacements mémoire alloués avec `malloc` se
+  trouvent dans le tas
+* savoir qu'on ne peut pas renvoyer une adresse qui se trouve dans le
+  bloc d'activation de l'appel courant
 
 ### Représentation des nombres en machine
 
@@ -73,3 +79,7 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * savoir définir un invariant de boucle
 * savoir prouver une correction par récurrence pour une fonction
   récursive
+
+### Complexité
+* savoir compter un nombre d'opérations en itératif et en récursif
+* connaître les définitions de grand O, $\Theta$, $\Omega$
