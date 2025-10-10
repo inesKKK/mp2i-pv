@@ -11,12 +11,6 @@ questions.
 
 Cette semaine, un seul énoncé qui est accompagné d'un code qu'il faut compléter.
 
-**Comme on n'a pas vu comment fournir un tableau en argument à une
-fonction, je vous donne les en-têtes de fonctions. Vous ne pouvez pas
-les comprendre, mais avec la documentation vous pouvez quand même
-utiliser les paramètres.**
-
-
 Le but de ce TP est d'écrire un programme qui permet de générer des
 pavages réguliers du plan. Un *pavage* du plan est une
 manière de couvrir le plan avec une infinité de copies du même
