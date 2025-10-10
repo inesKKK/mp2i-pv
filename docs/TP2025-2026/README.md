@@ -10,6 +10,7 @@
   tableaux unidimensionnels
 * [tp5](TP05_pointeurs_et_tableaux/tp_pointeurs_et_tableaux.md) :
   pointeurs et tableaux
+* [tp6](TP06_tableaux_multidimensionnels/tp_tableaux_multidimensionnels.md) : tableaux multidimensionnels
 
 
 # Trop rapide ?
