@@ -11,6 +11,8 @@
 * [tp5](TP05_pointeurs_et_tableaux/tp_pointeurs_et_tableaux.md) :
   pointeurs et tableaux
 * [tp6](TP06_tableaux_multidimensionnels/tp_tableaux_multidimensionnels.md) : tableaux multidimensionnels
+* [tp7](TP07_compilation_sur_plusieurs_fichiers/tp_compilation_separee.md) :
+  compilation séparée et structures
 
 
 # Trop rapide ?
