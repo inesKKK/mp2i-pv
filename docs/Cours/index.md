@@ -116,3 +116,39 @@
 * ordres de grandeurs : grand O, $\Theta$, $\Omega$
 * comparaisons et calculs des ordres de grandeurs habituels
 (début)
+
+#### 6 octobre 2025
+
+* comparaisons et calculs des ordres de grandeurs habituels (fin)
+* comment définir les tailles des entrées; code : [tri_bulle.c](code/tri_bulle.c)
+* complexités dans le pire et le meilleur des cas (définition)
+* Schéma général de calcul d'une complexité
+* étude de la complexité temporelle du tri bulle: meilleur des cas et
+  pire des cas; code : [tri_bulle.c](code/tri_bulle.c)
+
+#### 8 octobre 2025
+
+* tableaux et pointeurs (unidimensionnels et multidimensionnels) comme
+  paramètres d'une fonction; code :
+  [pb_tableaux_pointeurs.c](code/pb_tableaux_pointeurs.c)
+* arguments du `main`; code :
+  [arguments_du_main.c](code/arguments_du_main.c)
+
+
+#### 13 octobre 2025
+
+* étude de la complexité temporelle de la recherche dichotomique: meilleur des
+  cas et pire des cas; code : [dichotomie.c](code/dichotomie.c)
+* étude de la complexité temporelle du tri fusion; code : [tri_fusion.c](code/tri_fusion.c)
+* types structurés en `C` : définition (`struct`), déclaration,
+  initialisateur; accès aux champs
+* types structurés et fonctions; code :
+  [quadrilatere.c](code/quadrilatere.c)
+
+
+#### 15 octobre 2025
+
+* structures auto-référencées : listes chaînées; code :
+  [liste_chainee1.h](code/liste_chainee1.h) / [liste_chainee1.c](code/liste_chainee1.c)
+* listes chaînées en `C` avec une tête; code :
+  [liste_chainee2.h](code/liste_chainee2.h) / [liste_chainee2.c](code/liste_chainee2.c)
