@@ -13,6 +13,7 @@
 * [tp6](TP06_tableaux_multidimensionnels/tp_tableaux_multidimensionnels.md) : tableaux multidimensionnels
 * [tp7](TP07_compilation_sur_plusieurs_fichiers/tp_compilation_separee.md) :
   compilation séparée et structures
+* [tp8](TP08_Listes_chainees/tp_listes_chainees.md) : listes chaînées et gestion de la mémoire
 
 
 # Trop rapide ?
