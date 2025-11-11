@@ -152,3 +152,27 @@
   [liste_chainee1.h](code/liste_chainee1.h) / [liste_chainee1.c](code/liste_chainee1.c)
 * listes chaînées en `C` avec une tête; code :
   [liste_chainee2.h](code/liste_chainee2.h) / [liste_chainee2.c](code/liste_chainee2.c)
+
+### novembre
+
+#### 3 novembre 2025
+* introduction à `OCaml` : immuabilité, expressions
+* compilation et exécution `OCaml` : `OCamlc`, `OCamlopt`, REPL
+* types primitifs `OCaml`
+* définitions de variables
+* expressions conditionnelles
+
+#### 5 novembre 2025
+* expressions `let` et portée
+* annotation de types
+* fonctions anonymes
+
+#### 10 novembre 2025
+* définition d'une fonction
+* sémantiques dynamique et statique des fonctions
+* curryfication
+* fonctions récursives; code : [factorielle.ml](code/factorielle.ml) /
+  [pair_impair.ml](code/pair_impair.ml) / [compte.ml](code/compte.ml)
+  / [compte_rt.ml](code/compte_rt.ml)
+* polymorphisme
+* listes littérales, sémantiques des listes, constructeur de liste (`::`); code : [longue_liste.ml](code/longue_liste.ml)
