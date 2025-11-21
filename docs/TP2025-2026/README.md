@@ -14,7 +14,7 @@
 * [tp7](TP07_compilation_sur_plusieurs_fichiers/tp_compilation_separee.md) :
   compilation séparée et structures
 * [tp8](TP08_Listes_chainees/tp_listes_chainees.md) : listes chaînées et gestion de la mémoire
-* tp9 : [site pour OCaml](http://vps-ff29e1ab.vps.ovh.net/)
+* tp9 et tp10 : [site pour OCaml](http://vps-ff29e1ab.vps.ovh.net/)
 
 # Trop rapide ?
 Allez chercher du travail sur
