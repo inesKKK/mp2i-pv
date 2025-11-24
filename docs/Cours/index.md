@@ -176,3 +176,18 @@
   / [compte_rt.ml](code/compte_rt.ml)
 * polymorphisme
 * listes littérales, sémantiques des listes, constructeur de liste (`::`); code : [longue_liste.ml](code/longue_liste.ml)
+
+#### 12 novembre 2025
+* filtrage par motifs de listes
+* fonctionnement du filtrage
+
+#### 19 novembre 2025
+* filtrage profond, disjonction de motifs
+
+
+#### 20 novembre 2025 (rattrapage du 17)
+* exemples filtrage par motifs de listes; code :
+  [pattern_matching.ml](code/pattern_matching.ml)
+* types algébriques: types énumérés sans valeur; code : [mois.ml](code/mois.ml)
+* portée des constructeurs des types énumérés
+* motifs de filtrage pour les types énumérés

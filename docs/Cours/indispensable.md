@@ -107,3 +107,5 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * savoir définir une fonction
 * savoir définir une fonction récursive
 * savoir utiliser des fonctions partielles
+* savoir manipuler des listes
+* savoir utiliser un filtrage par motifs
