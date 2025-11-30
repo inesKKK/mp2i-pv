@@ -191,3 +191,24 @@
 * types algébriques: types énumérés sans valeur; code : [mois.ml](code/mois.ml)
 * portée des constructeurs des types énumérés
 * motifs de filtrage pour les types énumérés
+
+#### 24 novembre 2025
+* enregistrements et leurs motifs
+* $n$-uplets et leurs motifs
+* types énumérés embarquant des données
+* motifs de filtrage des types énumérés embarquant des données;
+  code : [figure.ml](code/figure.ml) / [liste_entiers_flottants.ml](code/liste_entiers_flottants.ml)
+
+
+#### 26 novembre 2025
+* début des structures de données
+* mot-clef `typedef` en `C`
+* interface des tableaux de taille variable; code :
+  [vartab.h](code/vartab.h) /
+  [main_tableaux_de_taille_variable.c](code/main_tableaux_de_taille_variable.c)
+  /
+  [tableaux_de_taille_variable.h](code/tableaux_de_taille_variable.h)
+  / [tableaux_de_taille_variable.c](code/tableaux_de_taille_variable.c)
+
+### décembre
+
