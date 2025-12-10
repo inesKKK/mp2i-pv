@@ -64,7 +64,7 @@ programme.
 * explication sur les [solveur SAT](https://www.youtube.com/watch?v=hegPyaLJhGM)
 * sur les [opérateurs booléens](https://twitter.com/mikeinspace/status/1503754795848450061)
 * se servir de youtube pour [stocker des données dans une vidéo](https://hackaday.com/2023/02/21/youtube-as-infinite-file-storage/)
-
+* le [bug du rer A](https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/un-bug-informatique-menace-de-bloquer-le-rer-a-et-huit-lignes-de-metro-en-2038-09-12-2025-AN63SZ64XFBYDFEXV3FTWNFI6A.php?at_variant=photo)
 
 ### Les prépas du lycée Paul Valéry
 [ici](https://www.cpge-pv.fr)
