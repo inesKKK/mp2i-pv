@@ -117,3 +117,10 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 ### Structures de données
 * connaître l'interface et savoir implémenter en `C` et en `OCaml` :
   des tableaux de taille variable (seulement en `C` pour l'instant),
+  des piles et des files
+* savoir définir des arbres binaires et connaître le vocabulaire
+  associé
+* connaître les implémentations des arbres binaires (y compris
+  l'implémentation par tableau des arbres binaires complets)
+* savoir ce que sont une file de priorité et un tas max
+* connaître les algorithmes de manipulation des tas max

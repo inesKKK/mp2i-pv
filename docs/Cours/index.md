@@ -212,3 +212,41 @@
 
 ### décembre
 
+#### 1er décembre 2025
+* interface des piles; code : [stack.h](code/stack.h) / [main_stack.c](code/main_stack.c) / [stack_array.h](code/stack_array.h) / [stack_array.c](code/stack_array.c) / [stack_list.h](code/stack_list.h) / [stack_list.c](code/stack_list.c)
+* exemple d'utilisation de pile : calculatrice en polonaise inverse;
+  code : [polonaise.ml](code/polonaise.ml)
+
+#### 3 décembre 2025
+* interface d'une file; code : [queue.h](code/queue.h) /
+  [main_queue.c](code/main_queue.c) /
+  [queue_list.h](code/queue_list.h) /
+  [queue_list.c](code/queue_list.c)
+
+#### 8 décembre 2025
+* types récursifs et polymorphes; code : [liste.ml](code/liset.ml) /
+  [liste_parametree.ml](code/liste_parametree.ml)
+* mot-clef `and` en `OCaml` pour définir des types mutuellement
+  récursifs
+* options
+* parenthésage `(`/`)` et `begin`/`end`
+* files en `OCaml`; code : [queue.ml](code/queue.ml)
+
+
+#### 10 décembre 2025
+* arbres binaires : définitions de base (père, frère, sous-arbre,
+  feuille, nœud interne, branche, arbre binaire strict, arbre binaire
+  complet)
+* lien taille / hauteur dans les divers types d'arbres binaires
+* implémentation des arbres binaires en `C` avec des pointeurs et en `OCaml` avec un type somme
+
+#### 15 décembre 2025
+* implémentation des arbres binaires complets sous forme de tableau
+* files de priorité
+* implémentation des files par tas max : percolation vers le bas (correction et
+  complexité), percolation vers le
+  haut, modification de valeur, insertion de valeur
+  
+#### 17 décembre 2025
+* implémentation des files par tas max (suite) : extraction du
+  maximum, construction d'un tas (avec les complexités)
