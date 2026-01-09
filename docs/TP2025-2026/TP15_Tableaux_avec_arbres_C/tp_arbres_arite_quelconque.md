@@ -58,6 +58,8 @@ Le principe est de créer les tableaux nécessaires en mémoire au fur et
 Le but de ce TP est de faire cette implémentation en `C` pour des
 tableaux d'entiers.
 
-Le fichier d'en-tête : [tableaux_arbres.h](tableaux_arbres.h).
+Le fichier d'en-tête : [tableaux_arbres.h](code/tableaux_arbres.h).
 
 À vous de jouer!
+
+Un fichier de tests pour `get` : [exemples.c](code/exemples.c) / [exemples.h](code/exemples.h)
