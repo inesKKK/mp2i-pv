@@ -250,3 +250,13 @@
 #### 17 décembre 2025
 * implémentation des files par tas max (suite) : extraction du
   maximum, construction d'un tas (avec les complexités)
+
+### janvier
+
+#### 5 janvier 2025
+* complexité en moyenne
+* étude de la complexité en moyenne du tri bulle; code :
+  [tri_bulle.c](code/tri_bulle.c)
+* complexité amortie : méthode du banquier, exemple des tableaux de
+  taille variable et des files implémentées par deux
+  piles

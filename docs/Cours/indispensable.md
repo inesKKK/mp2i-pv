@@ -92,8 +92,8 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * connaître les définitions de grand O, $\Theta$, $\Omega$
 * savoir comparer rapidement des ordres de grandeur de fonctions
   correspondant à des complexités classiques
-* savoir définir complexité dans le meilleur des cas et complexité
-  dans le pire des cas
+* savoir définir complexité dans le meilleur des cas, complexité
+  dans le pire des cas et complexité en moyenne
 * connaître les schémas généraux de calcul de complexité
 * savoir résoudre une relation de récurrence par somme télescopique
 
