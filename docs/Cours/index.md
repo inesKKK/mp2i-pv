@@ -260,3 +260,11 @@
 * complexité amortie : méthode du banquier, exemple des tableaux de
   taille variable et des files implémentées par deux
   piles
+
+#### 12 janvier 2025
+* complexité amortie (suite) : méthode des potentiels, exemple des
+  tableaux de taille variable, exemple des files implémentées par deux
+  piles
+* parcours d'arbres binaires: en profondeur (préfixe, postfixe,
+  suffixe), en largeur
+

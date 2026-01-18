@@ -93,9 +93,12 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * savoir comparer rapidement des ordres de grandeur de fonctions
   correspondant à des complexités classiques
 * savoir définir complexité dans le meilleur des cas, complexité
-  dans le pire des cas et complexité en moyenne
+  dans le pire des cas, complexité en moyenne et complexité amortie
 * connaître les schémas généraux de calcul de complexité
 * savoir résoudre une relation de récurrence par somme télescopique
+* connaître la méthode du banquier et la méthode du potentiel pour la
+  complexité amortie
+
 
 ### `OCaml`
 * savoir utiliser `utop`
@@ -124,3 +127,5 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
   l'implémentation par tableau des arbres binaires complets)
 * savoir ce que sont une file de priorité et un tas max
 * connaître les algorithmes de manipulation des tas max
+* connaître les divers parcours d'arbres (savoir les appliquer et
+  savoir écrire les algorithmes)
