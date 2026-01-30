@@ -146,7 +146,7 @@ pour représenter les fils d'un nœud. Dans ce TP, on fait le choix
 d'implémenter l'arbre en représentation fils gauche / frère droit.
 La figure suivante illustre ce principe :
 
-![](narbres-crop.pdf)
+![](narbres-crop.png)
 
 On définit les types suivants dans le fichier
 [narbres.ml](code/narbres.ml):
