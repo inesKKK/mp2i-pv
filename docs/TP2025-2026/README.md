@@ -17,6 +17,8 @@
 * tp9 à tp13 : [site pour OCaml](http://vps-ff29e1ab.vps.ovh.net/)
 * [tp14](TP14_quadtrees/tp_quadtrees.md) : quadtrees
 * [tp15](TP15_Tableaux_avec_arbres_C/tp_arbres_arite_quelconque.md) : tableaux à la `scala`, sur 2 semaines. Pour les plus rapide : un [sujet ENS](https://informatique.ens-lyon.fr/concours-info/2019/sujet-ancetre_commun.pdf)
+* tp16 : [site pour OCaml](http://vps-ff29e1ab.vps.ovh.net/)
+* [tp17](TP17_Parcours_d_arbres/tp_parcours_arbres.md) : parcours d'arbres
 
 # Trop rapide ?
 Allez chercher du travail sur
