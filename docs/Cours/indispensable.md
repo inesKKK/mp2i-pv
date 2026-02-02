@@ -86,16 +86,22 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * savoir définir un invariant de boucle
 * savoir prouver une correction par récurrence pour une fonction
   récursive
+* connaître le tri par tas (en particulier pouvoit l'appliquer sur un
+  exemple) et pouvoir prouver sa complexité
+* connaître le tri rapide (en particulier pouvoit l'appliquer sur un
+  exemple) et pouvoir prouver sa terminaison, sa vorrection, sa
+  complexité dans le pire des cas et en moyenne
 
 ### Complexité
 * savoir compter un nombre d'opérations en itératif et en récursif
 * connaître les définitions de grand O, $\Theta$, $\Omega$
 * savoir comparer rapidement des ordres de grandeur de fonctions
   correspondant à des complexités classiques
-* savoir définir complexité dans le meilleur des cas, complexité
-  dans le pire des cas, complexité en moyenne et complexité amortie
+* savoir définir complexité dans le meilleur des cas et complexité
+  dans le pire des cas
 * connaître les schémas généraux de calcul de complexité
 * savoir résoudre une relation de récurrence par somme télescopique
+* savoir définir complexité en moyenne et complexité amortie
 * connaître la méthode du banquier et la méthode du potentiel pour la
   complexité amortie
 
@@ -116,6 +122,11 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
   (union sans ou avec données, enregistrements, $n$-uplets, types
   paramétrés, types récursifs)
 * connaître l'existence du type `option` et savoir l'utiliser
+* connaître le type `unit` et son unique valeur `()`
+* savoir utiliser l'opérateur `;`
+* savoir créer un tableau in extenso et accéder à une de ses cases
+  (lecture et écriture)
+* savoir écrire une fonction sans argument
 
 ### Structures de données
 * connaître l'interface et savoir implémenter en `C` et en `OCaml` :

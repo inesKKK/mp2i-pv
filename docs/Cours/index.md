@@ -253,7 +253,7 @@
 
 ### janvier
 
-#### 5 janvier 2025
+#### 5 janvier 2026
 * complexité en moyenne
 * étude de la complexité en moyenne du tri bulle; code :
   [tri_bulle.c](code/tri_bulle.c)
@@ -261,10 +261,36 @@
   taille variable et des files implémentées par deux
   piles
 
-#### 12 janvier 2025
+#### 12 janvier 2026
 * complexité amortie (suite) : méthode des potentiels, exemple des
   tableaux de taille variable, exemple des files implémentées par deux
   piles
 * parcours d'arbres binaires: en profondeur (préfixe, postfixe,
   suffixe), en largeur
 
+#### 19 janvier 2026
+* algorithme de Cheney comme application du parcours en largeur
+* applications des arbres binaires :
+  * minoration de la complexité dans le pire des cas d'un tri par
+    comparaisons
+  * tri par tas
+  * principe du codage de Huffman
+
+#### 21 janvier 2026
+* mutabilité en `OCaml`: enregistrements avec champs mutables, types référence
+  (y compris les tests d'égalité et de différence, `==` et `!=`)
+* `unit` comme type de retour d'une fonction
+* opérateur `;`
+
+#### 26 janvier 2026
+* tri rapide : déroulement sur un exemple, correction totale, analyse
+  de complexité dans le pire des cas, dans le meilleur des cas et en
+  moyenne sous l'hypothèse de l'absence de doublons; code :
+  [tri_rapide.c](code/tri_rapide.c)
+  
+
+#### 28 janvier 2026
+* type `unit` : type de retour, expressions conditionnelles, fonctions
+  sans argument; code : [pile.ml](code/pile.ml)
+* tableaux en `OCaml`
+* boucles `for` en `OCaml` (début)
