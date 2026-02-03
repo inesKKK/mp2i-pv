@@ -294,3 +294,15 @@
   sans argument; code : [pile.ml](code/pile.ml)
 * tableaux en `OCaml`
 * boucles `for` en `OCaml` (début)
+
+#### 1er février 2026
+* tri rapide : variante pour tenir compte des doublons; code :
+  [tri_rapide_3.c](code/tri_rapide_3.c)
+* boucles `while` en `OCaml`
+* exceptions en `OCaml`
+
+#### 2 février 2026
+* type caractère en `C` et en `OCaml`
+* chaînes de caractères en `C` et en `OCaml`
+* représentation d'un ensemble de données
+* arbres binaires de recherche: construction naïve; code : [abr.ml](code/abr.ml)

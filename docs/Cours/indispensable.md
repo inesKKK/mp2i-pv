@@ -68,6 +68,7 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * savoir déclarer et utiliser un type structuré, y compris pour les
   types auto-référencés
 * savoir utiliser `->`
+* savoir manipuler des chaînes de caractères
 
 ### Représentation des nombres en machine
 
@@ -127,6 +128,9 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * savoir créer un tableau in extenso et accéder à une de ses cases
   (lecture et écriture)
 * savoir écrire une fonction sans argument
+* savoir écrire des boucles `for` et while
+* savoir manipuler une chaîne de caractères
+* savoir manipuler des exceptions : créer, lever, attraper 
 
 ### Structures de données
 * connaître l'interface et savoir implémenter en `C` et en `OCaml` :
