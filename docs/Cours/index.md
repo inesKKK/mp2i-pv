@@ -295,6 +295,9 @@
 * tableaux en `OCaml`
 * boucles `for` en `OCaml` (début)
 
+
+### février
+
 #### 1er février 2026
 * tri rapide : variante pour tenir compte des doublons; code :
   [tri_rapide_3.c](code/tri_rapide_3.c)
