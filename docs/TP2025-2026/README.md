@@ -19,6 +19,8 @@
 * [tp15](TP15_Tableaux_avec_arbres_C/tp_arbres_arite_quelconque.md) : tableaux à la `scala`, sur 2 semaines. Pour les plus rapide : un [sujet ENS](https://informatique.ens-lyon.fr/concours-info/2019/sujet-ancetre_commun.pdf)
 * tp16 : [site pour OCaml](http://vps-ff29e1ab.vps.ovh.net/)
 * [tp17](TP17_Parcours_d_arbres/tp_parcours_arbres.md) : parcours d'arbres
+* [tp18](TP18_chaines_de_caracteres/tp_chaines_de_caracteres.md) : chaînes de caractères
+
 
 # Trop rapide ?
 Allez chercher du travail sur
