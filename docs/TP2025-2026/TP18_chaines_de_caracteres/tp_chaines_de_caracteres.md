@@ -37,13 +37,13 @@ chaîne fournie en argument (pour `ocaml`: essayez d'accéder à un
 caractère au-delà du dernier pour comprendre comment faire).
 
 **Exercice 2.** Sans utiliser de fonction déjà écrite pour, écrire une
-fonction `nombre_occurences` qui prend en argument un caractère et
-une chaîne de caractères et renvoie le nombre d'occurences du
+fonction `nombre_occurrences` qui prend en argument un caractère et
+une chaîne de caractères et renvoie le nombre d'occurrences du
 caractère dans la chaîne.
 
 **Exercice 3.** Sans utiliser de fonction déjà écrite pour, écrire une
-fonction `derniere_occurence` qui prend en argument un caractère et
-une chaîne de caractères et renvoie l'indice de la dernière occurence
+fonction `derniere_occurrence` qui prend en argument un caractère et
+une chaîne de caractères et renvoie l'indice de la dernière occurrence
 du caractère dans la chaîne:
 * en `C`, la fonction doit renvoyer -1 si le caractère n'apparaît pas,
 * en `ocaml` la fonction doit être de type `char -> string -> int option`.

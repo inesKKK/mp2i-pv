@@ -9,21 +9,21 @@ void test_longueur(){
   assert( longueur("anticonstitutionnellement") == 25);
 }
 
-void test_nombre_occurences(){
-  assert ( nombre_occurences('a', "") == 0 );
-  assert ( nombre_occurences('a', "123456") == 0 );
-  assert ( nombre_occurences('a', "a123456") == 1 );
-  assert ( nombre_occurences('a', "a12a34a56") == 3 );
-  assert ( nombre_occurences('a', "123456a") == 1 );
-  assert ( nombre_occurences('a', "12aaa3456a") == 4 );
+void test_nombre_occurrences(){
+  assert ( nombre_occurrences('a', "") == 0 );
+  assert ( nombre_occurrences('a', "123456") == 0 );
+  assert ( nombre_occurrences('a', "a123456") == 1 );
+  assert ( nombre_occurrences('a', "a12a34a56") == 3 );
+  assert ( nombre_occurrences('a', "123456a") == 1 );
+  assert ( nombre_occurrences('a', "12aaa3456a") == 4 );
 }
 
-void test_derniere_occurence(){
-  assert( derniere_occurence('a', "") == -1 );
-  assert( derniere_occurence('1', "23456") == -1 );
-  assert( derniere_occurence('A', "Atout") == 0);
-  assert( derniere_occurence('a', "carreau") == 5);
-  assert( derniere_occurence('a', "abracadabra") == 10);
+void test_derniere_occurrence(){
+  assert( derniere_occurrence('a', "") == -1 );
+  assert( derniere_occurrence('1', "23456") == -1 );
+  assert( derniere_occurrence('A', "Atout") == 0);
+  assert( derniere_occurrence('a', "carreau") == 5);
+  assert( derniere_occurrence('a', "abracadabra") == 10);
 }
 
 void test_split(){
@@ -41,7 +41,7 @@ void test_split(){
 
 int main(void){
   test_longueur();
-  test_nombre_occurences();
-  test_derniere_occurence();
+  test_nombre_occurrences();
+  test_derniere_occurrence();
   test_split();
 }

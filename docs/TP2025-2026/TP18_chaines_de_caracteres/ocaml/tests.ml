@@ -5,20 +5,20 @@ let test_longueur () =
   assert ( longueur("a") = 1 );
   assert ( longueur("anticonstitutionnellement") = 25)
 
-let test_nombre_occurences () =
-  assert ( nombre_occurences 'a' "" = 0 );
-  assert ( nombre_occurences 'a' "123456" = 0 );
-  assert ( nombre_occurences 'a' "a123456" = 1 );
-  assert ( nombre_occurences 'a' "a12a34a56" = 3 );
-  assert ( nombre_occurences 'a' "123456a" = 1 );
-  assert ( nombre_occurences 'a' "12aaa3456a" = 4 )
+let test_nombre_occurrences () =
+  assert ( nombre_occurrences 'a' "" = 0 );
+  assert ( nombre_occurrences 'a' "123456" = 0 );
+  assert ( nombre_occurrences 'a' "a123456" = 1 );
+  assert ( nombre_occurrences 'a' "a12a34a56" = 3 );
+  assert ( nombre_occurrences 'a' "123456a" = 1 );
+  assert ( nombre_occurrences 'a' "12aaa3456a" = 4 )
 
-let test_derniere_occurence () =
-  assert( derniere_occurence 'a' "" = None );
-  assert( derniere_occurence '1' "23456" = None );
-  assert( derniere_occurence 'A' "Atout" = Some 0);
-  assert( derniere_occurence 'a' "carreau" = Some 5);
-  assert( derniere_occurence 'a' "abracadabra" = Some 10)
+let test_derniere_occurrence () =
+  assert( derniere_occurrence 'a' "" = None );
+  assert( derniere_occurrence '1' "23456" = None );
+  assert( derniere_occurrence 'A' "Atout" = Some 0);
+  assert( derniere_occurrence 'a' "carreau" = Some 5);
+  assert( derniere_occurrence 'a' "abracadabra" = Some 10)
 
 let test_split () =
   let s = "ceci est un essai pour un exemple" in
@@ -34,7 +34,7 @@ let test_split () =
   
   
 let _ = test_longueur ();
-        test_nombre_occurences ();
-        test_derniere_occurence ();
+        test_nombre_occurrences ();
+        test_derniere_occurrence ();
         test_split ()
 
