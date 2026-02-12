@@ -20,7 +20,7 @@
 * tp16 : [site pour OCaml](http://vps-ff29e1ab.vps.ovh.net/)
 * [tp17](TP17_Parcours_d_arbres/tp_parcours_arbres.md) : parcours d'arbres
 * [tp18](TP18_chaines_de_caracteres/tp_chaines_de_caracteres.md) : chaînes de caractères
-
+* [tp19](TP19_Steganographie/tp_steganographie.md) : stéganographie
 
 # Trop rapide ?
 Allez chercher du travail sur
