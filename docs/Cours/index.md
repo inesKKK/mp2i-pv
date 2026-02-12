@@ -308,4 +308,21 @@
 * type caractère en `C` et en `OCaml`
 * chaînes de caractères en `C` et en `OCaml`
 * représentation d'un ensemble de données
-* arbres binaires de recherche: construction naïve; code : [abr.ml](code/abr.ml)
+* arbres binaires de recherche:
+  * construction naïve; code : [abr.ml](code/abr.ml)
+  * recherche d'élément
+  * parcours infixe
+  * ajout d'un élément
+  * suppression d'un élément
+* arbres rouge et noir: définition
+
+#### 9 février 2026
+* arbres rouge et noir: lien entre taille et hauteur, rotations,
+  insertion d'un élément; code :
+  [arbresRN.ml](code/arbresRN.ml)
+
+#### 10 février 2026
+* entrées / sorties : flux standard, shell, `C` et `ocaml`; code :
+  [bufferisation.c](code/bufferisation.c) /
+  [bufferisation2.c](code/bufferisation2.c) /
+  [lecture_entree_standard.c](code/lecture_entree_standard.c) / [lecture_chaine.c](code/lecture_chaine.c)
