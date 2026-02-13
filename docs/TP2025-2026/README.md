@@ -21,6 +21,7 @@
 * [tp17](TP17_Parcours_d_arbres/tp_parcours_arbres.md) : parcours d'arbres
 * [tp18](TP18_chaines_de_caracteres/tp_chaines_de_caracteres.md) : chaînes de caractères
 * [tp19](TP19_Steganographie/tp_steganographie.md) : stéganographie
+* [tp hors série](TP_4h/tp.zip) : tp Mines-Ponts
 
 # Trop rapide ?
 Allez chercher du travail sur
