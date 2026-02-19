@@ -326,3 +326,15 @@
   [bufferisation.c](code/bufferisation.c) /
   [bufferisation2.c](code/bufferisation2.c) /
   [lecture_entree_standard.c](code/lecture_entree_standard.c) / [lecture_chaine.c](code/lecture_chaine.c)
+
+#### 16 février 2026
+* arbres rouge et noir : suppression d'un élément; code :
+  [arbresRN.ml](code/arbresRN.ml)
+* tables de hachage: définition. résolution des collisions par
+  chaînage
+
+#### 17 février 2026
+* tables de hachage: définition. résolution des collisions par
+  sondage; module `Hashtbl` en `OCaml`
+* tests fonctionnels ou "boîtes noires"
+* tests structurels ou "boîtes blanches"

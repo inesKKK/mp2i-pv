@@ -33,6 +33,7 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * être capable de dessiner un graphe de flot de contrôle d'un programme qu'on comprend
 * connaître la différence entre typage fort et typage faible, et entre
   typage statique et typage dynamique
+* savoir écrire des tests fonctionnels et des tests structurels
 
 ### Langage C
 
@@ -108,7 +109,6 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * connaître la méthode du banquier et la méthode du potentiel pour la
   complexité amortie
 
-
 ### `OCaml`
 * savoir utiliser `utop`
 * savoir compiler un programme en `OCaml`
@@ -134,6 +134,7 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * savoir manipuler une chaîne de caractères
 * savoir manipuler des exceptions : créer, lever, attraper 
 * lecture et écriture dans un fichier
+* savoir utiliser `Hashtbl` pour implémenter une table de hachage
 
 ### Structures de données
 * connaître l'interface et savoir implémenter en `C` et en `OCaml` :
@@ -150,3 +151,5 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * ABR : définition, opérations de base
 * arbres rouge-noir : définition, lien entre taille et hauteur,
   algorithme d'ajout d'un nouvel élément
+* tables de hachage : définition, résolution des collisions par sondage et par
+  chaînage
