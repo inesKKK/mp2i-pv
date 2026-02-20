@@ -73,6 +73,20 @@ gnuplot> plot "donnees" using 2:3 with lines
 pour tracer la courbe représentant les données de la 3e colonne en
 fonction de celles de la deuxième colonne, du fichier `donnees`.
 
+Voici un extrait d'un de mes fichiers de données comme exemple :
+```
+#	taille	nb insertion	temps insertions	nb suppression	suppressions
+	100	0	-12.023751		0	-12.716898
+	100	100	-10.289150		50	-11.330604
+	100	200	-9.903488		100	-10.724468
+	100	300	-9.396670		150	-10.260162
+	100	400	-9.097012		200	-9.903488
+	100	500	-8.633727		250	-9.596003
+	100	600	-8.633727		300	-9.361163
+	100	700	-8.458924		350	-9.133379
+	100	800	-8.115067		400	-8.873868
+```
+
 On suppose qu'on a une table de hachage de `N` alvéoles. On veut
  connaître le temps mis pour `M` insertions prises au hasard, le temps
  de consultation pour `M/2` consultations au hasard et le temps de
