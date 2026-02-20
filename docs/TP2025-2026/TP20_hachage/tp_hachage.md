@@ -66,8 +66,12 @@ consultation et de suppression d'élément dans votre table de hachage.
 Pour les tracés, on utilisera `gnuplot` (essayez de le lancer en ligne
 de commande dans un terminal, si ce n'est pas installé, appelez-moi).
 
-Un tutoriel pour utiliser gnuplot avec des données dans un fichier:
-[https://riptutorial.com/gnuplot/example/12382/plot-a-single-data-file](https://sodocumentation.net/gnuplot/topic/3591/basic-plotting-of-data-files).
+Une fois `gnuplot` lancé, vous pouvez utiliser la commande
+```
+gnuplot> plot "donnees" using 2:3 with lines
+```
+pour tracer la courbe représentant les données de la 3e colonne en
+fonction de celles de la deuxième colonne, du fichier `donnees`.
 
 On suppose qu'on a une table de hachage de `N` alvéoles. On veut
  connaître le temps mis pour `M` insertions prises au hasard, le temps
