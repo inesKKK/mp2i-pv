@@ -81,12 +81,6 @@ On suppose qu'on a une table de hachage de `N` alvéoles. On veut
  
  Faites les mêmes expériences en gérant les collisions par sondage.
 
-# Pour ceux qui ont fini
-Je vous propose d'essayer de commencer un [sujet de TP
-d'ENS](https://informatique.ens-lyon.fr/concours-info/2019/sujet-ancetre_commun.pdf),
-en `C` ou en `OCaml`, au choix.
-
-
 # Vous avez fini ?
 
 Un joli [sujet de compression](https://informatique.ens-lyon.fr/concours-info/2022/sujet3.pdf).
