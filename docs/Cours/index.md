@@ -338,3 +338,19 @@
   sondage; module `Hashtbl` en `OCaml`
 * tests fonctionnels ou "boîtes noires"
 * tests structurels ou "boîtes blanches"
+
+### mars
+
+#### 9 mars 2026
+* `assert`
+* récursivité et induction : preuve du principe de récurrence,
+  vocabulaire lié aux ordres
+* ordres bien fondés
+
+#### 10 mars 2026
+* ordres sur les ensembles produits
+* définitions par induction
+* théorème d'induction structurelle
+* caractérisation d'un ensemble défini par induction comme union
+  infinie
+* théorème d'induction bien fondée

@@ -34,6 +34,7 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * connaître la différence entre typage fort et typage faible, et entre
   typage statique et typage dynamique
 * savoir écrire des tests fonctionnels et des tests structurels
+* documenter son code à bon escient
 
 ### Langage C
 
@@ -153,3 +154,11 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
   algorithme d'ajout d'un nouvel élément
 * tables de hachage : définition, résolution des collisions par sondage et par
   chaînage
+
+### Induction
+* savoir ce qu'est une définition inductive
+* savoir spécifier un ensemble défini par induction par intersection
+  infinie
+* savoir spécifier un ensemble défini par induction par union infinie
+* savoir prouver l'équivalence des deux définitions
+* savoir faire une preuve par induction structurelle
