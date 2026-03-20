@@ -89,7 +89,7 @@ Voici le curieux règlement d'un club britannique :
    problème.
 3. Utiliser minisat pour répondre aux questions suivantes : Ce
    règlement permet-il d'accueillir des membres ? Ce règlement
-   permet-il d'accueillir des membres non écossais ?
+   permet-il d'accueillir des membres écossais ?
 
 **Question 8.** Fabriquer son propre solveur sur [learn-ocaml](http://vps-ff29e1ab.vps.ovh.net/).
 
