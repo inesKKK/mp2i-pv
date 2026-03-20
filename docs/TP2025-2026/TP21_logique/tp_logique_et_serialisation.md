@@ -15,7 +15,7 @@ type litteral = Pos of int | Neg of int (* entiers > 0 *)
 type clause = litteral list (* clause *)
 type cnf = clause list (* formule sous forme normale conjonctive *)
 type valuation = bool array
-(* La case i contient la valuation de la variable propositionnelle i+1 *)
+(* La case i contient la valuation de la variable propositionnelle i, la case 0 ne sert donc pas *)
 ```
 
 **Question 1.** Écrire une fonction `eval_clause : valuation -> clause
