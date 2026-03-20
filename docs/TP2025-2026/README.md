@@ -23,6 +23,7 @@
 * [tp19](TP19_Steganographie/tp_steganographie.md) : stéganographie
 * [tp hors série](TP_4h/tp.zip) : tp Mines-Ponts
 * [tp20](TP20_hachage/tp_hachage.md) : hachage
+* [tp21](TP21_logique/tp_logique_et_serialisation.md) : logique
 
 # Trop rapide ?
 Allez chercher du travail sur
