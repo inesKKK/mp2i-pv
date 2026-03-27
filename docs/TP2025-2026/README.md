@@ -24,7 +24,7 @@
 * [tp hors série](TP_4h/tp.zip) : tp Mines-Ponts
 * [tp20](TP20_hachage/tp_hachage.md) : hachage
 * [tp21](TP21_logique/tp_logique_et_serialisation.md) : logique
-* [tp22](TP22_sudoku/tp_sudoku.md) : résolution de sudoku
+* [tp22](TP22_Sudoku/tp_sudoku.md) : résolution de sudoku
 
 
 # Trop rapide ?
