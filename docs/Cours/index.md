@@ -354,3 +354,28 @@
 * caractérisation d'un ensemble défini par induction comme union
   infinie
 * théorème d'induction bien fondée
+
+#### 16 mars 2026
+* construction inductive des formules de logique propositionnelle,
+  représentation par arbre d'une formule, notions de taille et de
+  hauteur
+* ensemble des valeurs de vérité
+* valuations et extension inductive aux formules
+* nouveaux connecteurs : $\to$, $\leftrightarrow$, $\top$, $\bot$
+* satisfiabilité d'une formule, modèle (notation $\models$)
+
+#### 17 mars 2026
+* équivalence logique; contraposée, lois de De Morgan
+* conséquence logique (notation $\models$)
+* vocabulaire : littéraux positifs et négatifs, clauses
+* problèmes SAT et $n$-SAT
+* formes normales négatives : constructions et preuves
+* formes normales conjonctives : construction, preuve, exemple de
+  formule dont la FNC a une taille exponentielle
+
+
+#### 24 mars 2026
+* substitution dans un formule logique : définition, une substitution
+  dans une tautologie est une tautologie
+* algorithme de Quine
+* formules normales disjonctives, FND complètes

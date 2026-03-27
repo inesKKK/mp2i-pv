@@ -162,3 +162,26 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * savoir spécifier un ensemble défini par induction par union infinie
 * savoir prouver l'équivalence des deux définitions
 * savoir faire une preuve par induction structurelle
+
+### Logique
+* savoir construire inductivement les formules de la logique
+  propositionnelle
+* savoir ce qu'est une valuation, pouvoir l'étendre à des formules
+* savoir ce qu'est un modèle et ce que signifie la satisfiabilité
+* connaître les connecteurs classiques et leurs tables de vérité
+* savoir écrire la table de vérité d'une formule
+* savoir ce que sont des tautologies et des antilogies
+* savoir ce que sont une équivalence logique et une conséquence
+  logique
+* connaître la contraposée, les lois de De Morgan et le principe du
+  tiers exclu
+* savoir ce que sont des littéraux et des clause
+* savoir énoncer les problèmes SAT et n-SAT
+* savoir mettre une formule sous forme normale négative, sous forme
+  normale conjonctive et sous forme normale disjonctive
+* connaître un exemple de formule pour laquelle la mise sous FNC donne
+  une formule exponentiellement plus grande, et une formule pour
+  laquelle la mise sous FND donne une formule exponentiellement plus
+  grande
+* savoir substituer une formule à une variable
+* connaître l'algorithme de Quine et savoir l'appliquer
