@@ -25,6 +25,7 @@
 * [tp20](TP20_hachage/tp_hachage.md) : hachage
 * [tp21](TP21_logique/tp_logique_et_serialisation.md) : logique
 * [tp22](TP22_sudoku/tp_sudoku.md) : résolution de sudoku
+* [tp23](TP23_Backtracking/tp_backtracking.md) : backtracking
 
 
 # Trop rapide ?
