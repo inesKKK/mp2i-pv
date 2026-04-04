@@ -379,3 +379,18 @@
   dans une tautologie est une tautologie
 * algorithme de Quine
 * formules normales disjonctives, FND complètes
+
+#### 30 mars 2026
+* début stratégies algorithmiques
+* force brute
+* backtracking (retour sur trace); code : [reines.c](code/reines.c) /
+  [espaces.ml](code/espaces.ml)
+* début algorithmes gloutons; code : [egypte.ml](code/egypte.ml)
+
+#### 31 mars 2026
+* suite algorithmes gloutons : placement d'activités
+* début programmation dynamique, propriété des sous-problèmes optimaux
+  et chevauchement de sous-problèmes; code : [fibonacci.c](code/fibonacci2.c) /
+  [fibonacci_dynamique.c](code/fibonacci_dynamique.c) /
+  [fibonacci_dynamique2.c](code/fibonacci_dynamique2.c) /
+  [monnaie_naive.ml](code/monnaie_naive.ml) / [monnaie.ml](code/monnaie.ml)

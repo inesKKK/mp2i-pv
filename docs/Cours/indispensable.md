@@ -96,6 +96,9 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * connaître le tri rapide (en particulier pouvoit l'appliquer sur un
   exemple) et pouvoir prouver sa terminaison, sa vorrection, sa
   complexité dans le pire des cas et en moyenne
+* connaître les stratégies suivantes et savoir les mettre en œuvre :
+  force brute, backtracking, glouton,
+  programmation dynamique (de bas en haut et mémoïsation)
 
 ### Complexité
 * savoir compter un nombre d'opérations en itératif et en récursif
