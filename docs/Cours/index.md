@@ -394,3 +394,13 @@
   [fibonacci_dynamique.c](code/fibonacci_dynamique.c) /
   [fibonacci_dynamique2.c](code/fibonacci_dynamique2.c) /
   [monnaie_naive.ml](code/monnaie_naive.ml) / [monnaie.ml](code/monnaie.ml)
+
+### avril
+
+#### 7 avril 2026
+* fin programmation dynamique; code :
+  [levenshtein_naif.c](code/levenshtein_naif.c) /
+  [levenshtein.c](code/levenshtein.c) /
+  [typographie.c](code/typographie.c)
+* diviser pour régner : couverture de $n$ points par $k$ segments
+  égaux de plus petite longueur; ligne d'horizon

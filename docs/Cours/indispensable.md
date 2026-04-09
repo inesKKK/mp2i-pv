@@ -98,7 +98,12 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
   complexité dans le pire des cas et en moyenne
 * connaître les stratégies suivantes et savoir les mettre en œuvre :
   force brute, backtracking, glouton,
-  programmation dynamique (de bas en haut et mémoïsation)
+  programmation dynamique (de bas en haut et mémoïsation), diviser
+  pour  régner
+* savoir identifier la propriété des sous-problèmes optimaux et le
+  chevauchement de sous-problèmes (en vue d'appliquer une stratégie de
+  programmation dynamique)
+
 
 ### Complexité
 * savoir compter un nombre d'opérations en itératif et en récursif
