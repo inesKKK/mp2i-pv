@@ -26,7 +26,8 @@
 * [tp21](TP21_logique/tp_logique_et_serialisation.md) : logique
 * [tp22](TP22_Sudoku/tp_sudoku.md) : résolution de sudoku
 * [tp23](TP23_Backtracking/tp_backtracking.md) : backtracking
-
+* [tp24](https://vjudge.net/) : compétition de programmation
+* tp25 : algorithme de Boyer-Moore [version facile](TP25_Boyer_Moore/tp_sans_fichier.md) / [version difficile](TP25_Boyer_Moore/tp_avec_fichier.md)
 
 # Trop rapide ?
 Allez chercher du travail sur
