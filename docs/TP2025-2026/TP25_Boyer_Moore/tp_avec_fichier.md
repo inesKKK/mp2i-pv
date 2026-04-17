@@ -25,7 +25,7 @@ DESCRIPTION
 Dans ce TP, on va se contenter de motifs qui sont des
 chaînes de caractères et d'un texte.
 
-### Exercice 1 : Occurence la plus à droite de chaque caractère dans le motif privé de sa dernière lettre
+### Exercice 1 : Occurrence la plus à droite de chaque caractère dans le motif privé de sa dernière lettre
 
 Écrire une fonction
 
@@ -35,7 +35,7 @@ int *occ_droite(const char *motif);
 
 qui prend une chaîne de caractères en argument et renvoie un tableau
 de la taille le nombre de valeurs du type `char`, qui contient la
-dernière occurence de `(char) i` dans la case d'indice `i`, et -1 si
+dernière occurrence de `(char) i` dans la case d'indice `i`, et -1 si
 `(char) i` n'apparaît pas dans le motif.
 
 
@@ -45,8 +45,8 @@ On considère le type liste chaînée:
 
 ```C
 struct liste_occ {
-  int occ; //indice de début d'une occurence
-  struct liste_occ *suite; //occurences suivantes
+  int occ; //indice de début d'une occurrence
+  struct liste_occ *suite; //occurrences suivantes
 };
 ```
 
@@ -59,10 +59,10 @@ struct liste_occ *boyer_moore(
     const char *motif,    //motif à chercher
     int debut_texte,      //position de début dans le tampon
     int courante_fichier, //position courante du texte
-    int *droite);         //occurences les plus à droite
+    int *droite);         //occurrences les plus à droite
 ```
 
-qui renvoie la liste des indices de début d'occurences du motif dans le
+qui renvoie la liste des indices de début d'occurrences du motif dans le
 texte, en utilisant l'algorithme de Boyer-Moore.
 
 L'idée de base est la suivante: on a déjà lu un peu de texte dans le
@@ -80,7 +80,7 @@ dans le `fichier`.
 void affichage(FILE *fichier, const char *motif)
 ```
 
-qui affiche le texte en soulignant les occurences du motif.
+qui affiche le texte en soulignant les occurrences du motif.
 
 Exemple, si cette fonction est exécutée sur le texte:
 
