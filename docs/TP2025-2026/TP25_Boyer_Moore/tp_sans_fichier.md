@@ -1,4 +1,4 @@
-TP24 : Algorithme de Boyer-Moore - version facile
+TP25 : Algorithme de Boyer-Moore - version facile
 ==
 
 Il s'agit dans ce TP de programmer une version simpliste de la
