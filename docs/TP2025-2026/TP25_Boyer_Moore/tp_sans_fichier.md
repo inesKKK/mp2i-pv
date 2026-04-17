@@ -25,7 +25,7 @@ DESCRIPTION
 Dans ce TP, on va se contenter de motifs et de textes qui sont des
 chaînes de caractères.
 
-### Exercice 1 : Occurence la plus à droite de chaque caractère
+### Exercice 1 : Occurence la plus à droite de chaque caractère dans le motif privé de sa dernière lettre
 
 Écrire une fonction
 
