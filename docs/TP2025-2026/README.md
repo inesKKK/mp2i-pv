@@ -27,11 +27,11 @@
 * [tp22](TP22_Sudoku/tp_sudoku.md) : résolution de sudoku
 * [tp23](TP23_Backtracking/tp_backtracking.md) : backtracking
 * [tp24](https://vjudge.net/) : compétition de programmation
-* tp25 : algorithme de Boyer-Moore [version facile](TP25_Boyer_Moore/tp_sans_fichier.md) / [version difficile](TP25_Boyer_Moore/tp_avec_fichier.md)
+* tp25 : algorithme de Boyer-Moore [version facile](TP25_Boyer_Moore/tp_sans_fichier.md) / [version difficile](TP25_Boyer_Moore/tp_avec_fichier.md) / [supplément](https://web.archive.org/web/20241228220319/https://informatique.ens-lyon.fr/concours-info/2022/sujet2.pdf) pour les courageux qui auraient terminé
 
 # Trop rapide ?
 Allez chercher du travail sur
-[http://informatique.ens-lyon.fr/concours-info/](http://informatique.ens-lyon.fr/concours-info/). Suggestion :
+[https://web.archive.org/web/20260217032850/https://informatique.ens-lyon.fr/concours-info/](https://web.archive.org/web/20260217032850/https://informatique.ens-lyon.fr/concours-info/). Suggestion :
 Mikado (2011)
 
 
