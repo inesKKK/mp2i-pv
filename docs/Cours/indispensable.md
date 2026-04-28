@@ -103,6 +103,9 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * savoir identifier la propriété des sous-problèmes optimaux et le
   chevauchement de sous-problèmes (en vue d'appliquer une stratégie de
   programmation dynamique)
+* algorithmique du texte : connaître les algorithmes de Rabin-Karp, de
+  Boyer-Moore, de Huffman, LZW (les connaître = savoir les appliquer
+  sur des exemples, et savoir les écrire)
 
 
 ### Complexité

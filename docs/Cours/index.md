@@ -404,3 +404,14 @@
   [typographie.c](code/typographie.c)
 * diviser pour régner : couverture de $n$ points par $k$ segments
   égaux de plus petite longueur; ligne d'horizon
+
+#### 13 avril 2026
+* meet in the middle : somme de sous-ensembles
+* algorithmique du texte : recherche de motif (algorithme naïf +
+  algorithme de Rabin-Karp)
+
+#### 14 avril 2026
+* suite algorithmique du texte : recherche de motif (algorithme de
+  Boyer-Moore-Horspool)
+* fin algorithmique du texte : compression de données
+  (algorithme de Lempel-Ziv-Welsh)
