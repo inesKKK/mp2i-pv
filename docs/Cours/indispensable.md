@@ -196,3 +196,11 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
   grande
 * savoir substituer une formule à une variable
 * connaître l'algorithme de Quine et savoir l'appliquer
+
+### Bases de données
+* connaître le vocabulaire de base
+* savoir établir un schéma entité/association à partir d'une
+  description concrète
+* savoir passer d'un schéma entité/association à une liste de tables
+* savoir faire des requêtes, y compris avoir jointures, y compris avec
+  agrégats

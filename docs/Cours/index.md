@@ -415,3 +415,22 @@
   Boyer-Moore-Horspool)
 * fin algorithmique du texte : compression de données
   (algorithme de Lempel-Ziv-Welsh)
+
+### mai
+#### 4 mai 2026
+* début bases de données : vocabulaire sur les tables
+* requêtes simples sur une seule table : `SELECT ... FROM ... WHERE ...`
+* organisation du résultat d'une requête : `AS`, `ORDER BY`,
+  `DISTINCT`
+* opérations ensemblistes : `INTERSECT`, `EXCEPT`, `UNION`
+
+#### 5 mai 2026
+* jointures "à la main"
+* jointures internes avec `JOIN`
+* jointures externes avec `LEFT JOIN`
+* requêtes complexes : requêtes imbriquées
+* modèle entités / associations
+* contraintes de cardinalité
+* contraintes d'intégrité : clefs primaires, clefs étrangères
+* fonctions d'agrégation : `MIN`, `MAX`, `SUM`, `AVG`, `COUNT`
+* agrégats : `GROUP BY`, `HAVING`
