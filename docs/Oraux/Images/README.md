@@ -1,9 +1,9 @@
 Oral blanc -- Manipulation d'Images en C
 ---
 
-(énoncé de TP CCMP : [arvhive](https://concoursminesponts.fr/wp-content/uploads/2025/12/sujet_images-1.zip))
+(énoncé de TP CCMP : [archive](https://concoursminesponts.fr/wp-content/uploads/2025/12/sujet_images-1.zip))
 
-durée : 3h
+durée : 3h  (*Nota : le vrai oral CCMP dure 3h30*)
 
 [énoncé](sujet_images/sujet.pdf)
 
@@ -36,5 +36,5 @@ IMG_SaveJPG(charge_image("image.jpg"), "fichier.jpg", 50);
 permet de sauvegarder l'image donnée en premier argument dans le
 fichier dont le nom est donné en deuxième argument (le troisième
 argument concerne la qualité de la sauvegarde). Vous pouvez ensuite
-utiliser un logiciel de visualisation d'image (par exemple votre
+utiliser un logiciel de visualisation d'images (par exemple votre
 navigateur web).
