@@ -29,6 +29,7 @@
 * [tp24](https://vjudge.net/) : compétition de programmation
 * tp25 : algorithme de Boyer-Moore [version facile](TP25_Boyer_Moore/tp_sans_fichier.md) / [version difficile](TP25_Boyer_Moore/tp_avec_fichier.md) / [supplément](https://web.archive.org/web/20241228220319/https://informatique.ens-lyon.fr/concours-info/2022/sujet2.pdf) pour les courageux qui auraient terminé
 * [tp26](TP26_BD1/tp_bd1.md) : bases de données 1
+* [tp27](TP27_BD2/tp_bd2.md) : bases de données 2
 
 # Trop rapide ?
 Allez chercher du travail sur
