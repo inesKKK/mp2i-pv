@@ -7,19 +7,10 @@ devez utiliser la ligne de commande `psql communes utilisateur` (sur
 les machines de la salle de TP).
 
 
-18. Quels sont, dans l'ordre lexicographique croissant, les codes
-  des communes avec strictement plus de naissances que la moyenne des
-  naissances par commune ? [4725 lignes]
-25. Donnez la table des communes ayant plus d’habitants que le
-  chef-lieu de leur département. La table aura pour colonnes : le nom
-  de la commune, sa population, le nom du département, le nom du
-  chef-lieu et la population de son chef-lieu. [58 lignes]
-
-
 ### Exercice 1 : modélisation
 Le problème est mal modélisé dans le tp précédent car par exemple on ne peut
 pas s'assurer que les attributs `cheflieu` des tables `regions` et
-`departements` prennent effecctivement leurs valeurs dans les clefs
+`departements` prennent effectivement leurs valeurs dans les clefs
 primaires de la table `communes`.
 
 Dessiner un diagramme entités / associations modélisant la situation,
