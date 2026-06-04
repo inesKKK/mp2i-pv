@@ -31,6 +31,7 @@
 * [tp26](TP26_BD1/tp_bd1.md) : bases de données 1
 * [tp27](TP27_BD2/tp_bd2.md) : bases de données 2
 * [tp28](TP28_yeux_rouges/tp_yeux_rouges.md) : suppression des yeux rouges
+* [tp29](TP29_Labyrinthes/tp_labyrinthes.md) : résolution et génération de labyrinthes
 
 # Trop rapide ?
 Allez chercher du travail sur
