@@ -32,6 +32,7 @@
 * [tp27](TP27_BD2/tp_bd2.md) : bases de données 2
 * [tp28](TP28_yeux_rouges/tp_yeux_rouges.md) : suppression des yeux rouges
 * [tp29](TP29_Labyrinthes/tp_labyrinthes.md) : résolution et génération de labyrinthes
+* [tp30](TP30_contours_image/tp_contours_images.md) : ciseaux magiques
 
 # Trop rapide ?
 Allez chercher du travail sur
