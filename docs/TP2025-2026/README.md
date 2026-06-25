@@ -33,6 +33,7 @@
 * [tp28](TP28_yeux_rouges/tp_yeux_rouges.md) : suppression des yeux rouges
 * [tp29](TP29_Labyrinthes/tp_labyrinthes.md) : résolution et génération de labyrinthes
 * [tp30](TP30_contours_image/tp_contours_images.md) : ciseaux magiques (un [formulaire d'aide](TP30_contours_image/aide_formules.py) pour le calcul des poids)
+* [tp31](TP31_Economie_de_peages/tp_economie_de_pages.md) : péages autoroutiers
 
 # Trop rapide ?
 Allez chercher du travail sur
