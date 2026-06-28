@@ -1,6 +1,5 @@
 * [botC.c](botC.c)
 * [bot.ml](bot.ml)
 * [communication.c](communication.c)
-* [index.md](index.md)
 * [Makefile](Makefile)
 * [moteur.c](moteur.c)
