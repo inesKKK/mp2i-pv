@@ -24,6 +24,8 @@ section {
 
     /* Make the banner full width */
     right: 0;
+    font-size: 16px !important; /* Taille fixe pour le texte */
+    zoom: 1 !important; /* Désactive le zoom pour cet élément (non standard, mais peut aider) */
 }
 
 #banner .fork {
