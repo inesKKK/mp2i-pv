@@ -17,13 +17,6 @@ même mot de passe, mais les données ne sont pas partagées.
 Nous allons faire une première manipulation qui vous permettra de
 partager une partie de vos données et d'y accéder de chez vous. 
 
-### Installation du certificat de la Région sur firefox
-La plupart des sites web ne sont accessibles que grâce à un certificat
-fourni par la région. Il se trouve dans le fichier
-`"/usr/local/share/ca-certificates/RIDF CA.crt"` (les guillemets
-servent à déspécialiser l'espace). Vous devez importer ce certificat
-sous firefox et spécifier qu'il doit servir à naviguer sur le web.
-
 ### Création d'un répertoire partagé sur le cloud
 **Si vous n'avez pas de compte sur l'ENT, passez la fin de cette
 partie et revenez-y quand vous en aurez un.**
@@ -43,8 +36,8 @@ partie et revenez-y quand vous en aurez un.**
 C'est fini : tout ce que vous écrirez dans le répertoire `~/mondrive`
 sera copié sur votre drive et inversement.
 
-À chaque connexion sur une nouvelle machine il faudra réinstaller le
-certificat et reprendre ses étapes. Vos fichiers sur le drive seront
+À chaque connexion sur une nouvelle machine il faudra reprendre ses
+étapes. Vos fichiers sur le drive seront 
 alors présents sur toutes les machines sur lesquelles vous avez
 effectué ces opérations et se mettront à jour automatiquement (sauf
 coupure réseau). Vous pourrez accéder à vos données chez vous soit à
