@@ -83,7 +83,7 @@ argument est un chemin valide désignant une destination:
     fichier avec ce nom est créé s'il n'existe pas, et son contenu est
     écrasé par celui du fichier source).
 
-1. Listez le contenu du répertoire `/tmp`.
+1. Listez le contenu du répertoire `/usr/bin`.
 2. Trouvez un fichier régulier dans ce répertoire sur lequel vous avez
    les droits en lecture.
 3. Copiez ce fichier dans votre répertoire de login sous le nom `fic`.
