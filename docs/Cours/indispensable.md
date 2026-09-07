@@ -15,3 +15,30 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
   `mkdir`, `rmdir`, `cp`, `mv`, `rm`
 * ce qu'est un lien physique, ce qu'est un lien symbolique, comment
   les créer
+* connaître les droits : groupes d'utilisateurs, types de droits,
+  savoir les lire, les interpréter et les modifier
+* savoir rediriger l'entrée standard, la sortie standard et la sortie
+  erreur
+
+### Processus
+
+* connaître différence entre premier plan et arrière plan
+* savoir utiliser `&`, `Ctrl-z` et `bg`
+* savoir arrêter un processus en premier plan avec `Ctrl-c`
+* savoir faire des redirections d'entrée, de sortie et de sortie
+  erreur sur la ligne de commande
+
+### Langages de programmation
+
+* être capable de dessiner un graphe de flot de contrôle d'un programme qu'on comprend
+* connaître la différence entre typage fort et typage faible, et entre
+  typage statique et typage dynamique
+
+### Langage C
+
+* savoir compiler un programme en langage `C`
+* savoir que l'exécution d'un programme `C` est l'exécution de son
+  `main`
+* connaître les règles de construction des identifiants en `C`
+* savoir déclarer et affecter des variables
+* savoir déterminer la portée d'une variable

@@ -16,3 +16,28 @@
 * répertoires comme entité structurante pour le passage du tableau
   d'i-nœuds à l'arborescence du SGF
 * liens physiques et liens symboliques; commandes `ln` et `ln -s`
+
+#### 3 septembre 2026
+
+* exemple de création d'un faux gros fichier; code: [bigfile.c](code/bigfile.c)
+* espace d'adressage
+* droits sur les fichiers : consultation, signification et modification
+* caractérisation d'un langage de programmation: paradigmes
+  (POO/impératif/fonctionnel)
+* graphe de flot de contrôle d'un programme
+* compilation vs. interprétation
+* types : définition, taille, conversions explicite et implicite, typage fort vs. typage faible
+
+#### 7 septembre 2026
+
+* types : typage statique vs. typage dynamique
+* identifiants dans les langages de programmation
+* bases de `C` : compilation
+* bases de `C` : flot d'un programme `C` et rôle de la fonction `main`
+* identifiants en `C` : règles
+* variables en `C` : déclaration, affectation
+* variables en `C` : portée
+* variables en `C` : portée; code :
+  [reutilisation_identifiant.c](code/reutilisation_identifiant.c)
+* constantes littérales en `C`
+
