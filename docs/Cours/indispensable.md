@@ -42,3 +42,9 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * connaître les règles de construction des identifiants en `C`
 * savoir déclarer et affecter des variables
 * savoir déterminer la portée d'une variable
+* connaître la syntaxe d'une fonction
+* savoir que les passages de paramètres se font **par valeur** en `C`
+* connaître les divers types d'entiers qui sont au programme, leur
+  taille et leurs valeurs extrêmes
+
+* connaître la syntaxe des structures de contrôle en `C`

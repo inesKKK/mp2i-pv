@@ -35,9 +35,22 @@
 * bases de `C` : compilation
 * bases de `C` : flot d'un programme `C` et rôle de la fonction `main`
 * identifiants en `C` : règles
-* variables en `C` : déclaration, affectation
-* variables en `C` : portée
-* variables en `C` : portée; code :
+* variables en `C` : déclaration, affectation, portée; code :
   [reutilisation_identifiant.c](code/reutilisation_identifiant.c)
 * constantes littérales en `C`
+
+#### 9 septembre
+
+* constantes symboliques en `C`
+* fonctions en `C`: invocation/appel, syntaxe
+* fonctions en `C`: passage par valeurs, variables locales, valeur de
+  retour; code : [passage_par_valeurs.c](code/passage_par_valeurs.c)
+* types en `C`: `int`, `unsigned int`, `int8_t`, `int32_t`, `int64_t`,
+  `uint8_t`, `uint32_t`, `uint64_t`
+* bit de poids fort / bit de poids faible
+* complément à 2
+* opérations sur les entiers
+* structures de contrôle de `C`: conditionnelles, boucles
+  conditionnelles, boucles inconditionnelles
+
 
