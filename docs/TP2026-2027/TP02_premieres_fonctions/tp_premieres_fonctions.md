@@ -34,7 +34,9 @@ fonction demandée (avant le `main`), de le compiler et de l'exécuter.
 Écrire une fonction `aire_rectangle` qui prend en argument deux nombres à virgule flottante représentant la largeur et la longueur d'un rectangle et renvoie l'air de ce rectangle.
 
 [aire_rectangle.c](tests/test_aire_rectangle.c) (ce test est à compiler
-avec l'option `-lm` à cause de l'utilisation de la bibliothèque de math)
+avec l'option `-lm` à cause de l'utilisation de la bibliothèque de
+math; cette option, contrairement à ce qu'on fait habituellement, doit
+se situer en fin de ligne de commande)
 
 **Exercice 2**:
 Écrire une fonction `hypothenuse` qui prend en argument deux entiers
