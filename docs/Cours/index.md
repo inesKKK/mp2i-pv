@@ -39,7 +39,7 @@
   [reutilisation_identifiant.c](code/reutilisation_identifiant.c)
 * constantes littérales en `C`
 
-#### 9 septembre
+#### 9 septembre 2026
 
 * constantes symboliques en `C`
 * fonctions en `C`: invocation/appel, syntaxe
@@ -53,4 +53,36 @@
 * structures de contrôle de `C`: conditionnelles, boucles
   conditionnelles, boucles inconditionnelles
 
+#### 12 septembre 2026
 
+* norme IEEE 754 pour les nombres à virgule flottante en double
+  précision
+* opérations sur les doubles, problèmes de précision et erreurs d'arrondi
+* opérations entre doubles et entiers
+* booléens
+* introduction à l'algorithmique
+* conception d'un algorithme: entrée, sortie, problème de décision
+* correction: terminaison, correction partielle et totale; code :
+  [plus_grande_puissance_de_2.c](code/plus_grande_puissance_de_2.c) /
+  [plus_grande_puissance_de_2.ml](code/plus_grande_puissance_de_2.ml)
+* efficacité: complexité temporelle, complexité spatiale
+* indécidabilité du problème de l'arrêt
+* terminaison : définition des variants de boucle
+
+#### 14 septembre 2026
+
+* preuve de terminaison par variant de boucle et par variant d'appel; 
+  code : [factorielle.c](code/factorielle.c) /
+  [factorielle.ml](code/factorielle.ml) /
+  [nb_chiffres_base10.c](code/nb_chiffres_base10.c) /
+  [nb_chiffres_base10.ml](nb_chiffres_base10.ml) / [dichotomie.c](code/dichotomie.c)
+* correction : définition des invariants de boucle
+* preuve de correction par invariant de boucle
+* preuve de correction par récurrence
+
+#### 16 septembre 2026
+
+* gestion de la mémoire en `C`: tableau (déclaration, initialisation)
+* définition des pointeurs
+* valeur, contenu et déréférencement d'un pointeur
+* obtenir une valeur de type pointeur: `NULL`, adresse d'une variable

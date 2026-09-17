@@ -46,5 +46,29 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * savoir que les passages de paramètres se font **par valeur** en `C`
 * connaître les divers types d'entiers qui sont au programme, leur
   taille et leurs valeurs extrêmes
-
+* connaître les opérations sur les valeurs numériques et les booléens
+  en `C`
 * connaître la syntaxe des structures de contrôle en `C`
+* savoir déclarer un tableau et l'initialiser
+* savoir accéder aux cases d'un tableau
+* savoir déclarer un pointeur, et le déréférencer
+* connaître la valeur `NULL`
+* savoir récupérer l'adresse d'une variable
+
+### Représentation des nombres en machine
+
+* savoir représenter un entier en complément à 2
+* connaître la représentation des flottants normalisés et des
+  flottants dénormalisés
+
+### Algorithmique
+* savoir ce qu'est une entrée et une sortie d'un algorithme
+* savoir ce que signifie terminaison, correction partielle et
+  correction totale d'un algorithme
+* savoir ce que signifie complexité temporelle et complexité spatiale
+  d'un algorithme
+* savoir définir un variant de boucle et un variant d'appel et savoir
+  ce que leur existence permet de conclure
+* savoir définir un invariant de boucle
+* savoir prouver une correction par récurrence pour une fonction
+  récursive
