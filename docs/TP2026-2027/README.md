@@ -6,3 +6,7 @@
 * [tp2](TP02_premieres_fonctions/tp_premieres_fonctions.md) : premières fonctions en `C`
 * [tp3](TP03_boucles/tp_boucles.md) : boucles
 
+
+# Liens utiles
+
+* [raccourcis claviers emacs](aide_emacs.md)
