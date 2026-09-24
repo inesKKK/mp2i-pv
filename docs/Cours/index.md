@@ -82,7 +82,33 @@
 
 #### 16 septembre 2026
 
-* gestion de la mémoire en `C`: tableau (déclaration, initialisation)
+* gestion de la mémoire en `C` : tableau (déclaration, initialisation)
 * définition des pointeurs
 * valeur, contenu et déréférencement d'un pointeur
-* obtenir une valeur de type pointeur: `NULL`, adresse d'une variable
+* obtenir une valeur de type pointeur : `NULL`, adresse d'une variable
+
+#### 21 septembre 2026
+
+* obtenir une valeur de type pointeur : allocation mémoire avec `malloc`
+* libération mémoire avec `free`
+* pile d'appel d'un processus; code :
+  [pile_tas1.c](code/pile_tas1.c) / [pile_tas2.c](code/pile_tas2.c) [pile_tas3.c](code/pile_tas3.c)
+* bloc d'activation d'un appel
+* tas d'un processus; code : [pile_tas4.c](code/pile_tas4.c)
+* passage d'un pointeur en paramètre; code :
+  [mise_a_42.c](code/mise_a_42.c)
+* tableaux et fonctions; code :
+  [parametre_tableau.c](parametre_tableau.c) / [retour_tableau.c](retour_tableau.c)
+
+
+#### 23 septembre 2026
+
+* tableaux et pointeurs (unidimensionnels et multidimensionnels) comme
+  paramètres d'une fonction; code :
+  [tableaux_multidim.c](code/tableaux_multidim.c),
+  [pb_tableaux_pointeurs.c](code/pb_tableaux_pointeurs.c),
+  [dimensions_incompatibles.c](code/dimensions_incompatibles.c)
+* arguments du `main`; code :
+  [arguments_du_main.c](code/arguments_du_main.c)
+* * types structurés en `C` : définition (`struct`), déclaration,
+  initialisateur

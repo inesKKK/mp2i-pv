@@ -54,6 +54,18 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * savoir déclarer un pointeur, et le déréférencer
 * connaître la valeur `NULL`
 * savoir récupérer l'adresse d'une variable
+* savoir utiliser `malloc` et `free`
+* savoir que ce qu'est un bloc d'activation d'appel
+* savoir que les blocs d'activation d'appel se trouvent sur la pile
+* savoir que les emplacements mémoire alloués avec `malloc` se
+  trouvent dans le tas
+* savoir qu'on ne peut pas renvoyer une adresse qui se trouve dans le
+  bloc d'activation de l'appel courant
+* comprendre la différence de forme en mémoire entre les tableaux
+  statiques et les tableaux alloués avec `malloc` en
+  multi-dimensionnel
+* savoir utiliser les arguments du `main` (y compris avec `atoi`)
+* savoir déclarer et utiliser un type structuré
 
 ### Représentation des nombres en machine
 
