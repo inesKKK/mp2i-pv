@@ -103,7 +103,7 @@ du premier tableau dans le deuxième.
 ### Exercice 6 : Inversion d'éléments
 Écrire une fonction `miroir` qui prend en argument deux
 tableaux de booléens de même taille et leur taille, et teste si le
-contenu du deuxième tableau est 'egal au contenu du premier mais dans
+contenu du deuxième tableau est égal au contenu du premier mais dans
 l'autre sens.
 
 [miroir.c](tests/miroir.c)
