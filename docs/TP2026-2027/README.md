@@ -7,7 +7,12 @@
 * [tp3](TP03_boucles/tp_boucles.md) : boucles
 * [tp4](TP04_tableaux_unidimensionnels/tp_tableaux_unidimensionnels.md) :
   tableaux unidimensionnels
+* [tp5](TP05_pointeurs_et_tableaux/tp_pointeurs_et_tableaux.md) :
+  pointeurs et tableaux
 
 # Liens utiles
 
 * [raccourcis claviers emacs](aide_emacs.md)
+* une [fiche sur `gdb`](../GDB/gdb.md) pour ceux qui voudraient se
+servir d'un debugger (aucune obligation)
+
