@@ -84,3 +84,7 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 * savoir définir un invariant de boucle
 * savoir prouver une correction par récurrence pour une fonction
   récursive
+
+### Complexité
+* savoir compter un nombre d'opérations en itératif et en récursif
+* connaître la définition de grand O

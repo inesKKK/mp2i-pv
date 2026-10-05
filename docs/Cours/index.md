@@ -112,3 +112,8 @@
   [arguments_du_main.c](code/arguments_du_main.c)
 * * types structurés en `C` : définition (`struct`), déclaration,
   initialisateur
+
+#### 30 septembre 2026
+
+* compter des opérations en itératif et en récursif
+* ordres de grandeurs : grand O
