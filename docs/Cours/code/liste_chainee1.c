@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <assert.h>
+#include <stdio.h>
 #include "liste_chainee1.h"
 
 /** L : liste;
@@ -158,14 +159,17 @@ struct maillon *supprime_dernier_recursif(struct maillon *L){
  */
 struct maillon *supprime_dernier_iteratif(struct maillon *L){
   struct maillon *M;
-  assert(L != NULL);
+
+  if(L == NULL){
+    return NULL;
+  }
 
   if(L->suiv == NULL){
     free(L);
     return NULL;
   }
 
-  M = L->suiv;
+  M = L;
   while(M->suiv->suiv != NULL){
     M = M->suiv;
   }
@@ -176,6 +180,14 @@ struct maillon *supprime_dernier_iteratif(struct maillon *L){
 }
 
 
+void afficher(struct maillon *L){
+  printf(" -> ");
+  while(L != NULL){
+    printf("%d ", L->val);
+    L = L->suiv;
+  }
+  printf("\n");
+}
 
 int main(){
   struct maillon *L = ajoute(NULL, 1);
@@ -184,4 +196,13 @@ int main(){
   L = supprime_tete(L);
   L = supprime_tete(L);
   L = supprime_tete(L);
+
+  for(int i=0; i<10; i=i+1){
+    L = ajoute(L, i);
+  }
+  for(int i=0; i<10; i=i+1){
+    afficher(L);
+    L = supprime_dernier_iteratif(L);
+  }
+  afficher(L);
 }
