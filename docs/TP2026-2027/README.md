@@ -10,6 +10,7 @@
 * [tp5](TP05_pointeurs_et_tableaux/tp_pointeurs_et_tableaux.md) :
   pointeurs et tableaux
 * [tp6](TP06_tableaux_multidimensionnels/tp_tableaux_multidimensionnels.md) : tableaux multidimensionnels
+* [tp7](TP07_drapeaux_structures/tp_drapeaux.md) : types structurés
 
 # Liens utiles
 
