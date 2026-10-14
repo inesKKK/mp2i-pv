@@ -1,4 +1,4 @@
-TD : jeu du drapeau
+TP7 : jeu du drapeau
 ---
 
 
