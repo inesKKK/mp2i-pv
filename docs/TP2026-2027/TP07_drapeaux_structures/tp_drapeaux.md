@@ -159,10 +159,10 @@ Pour mettre en place le jeu, on a besoin des fonctions auxiliaires
 suivantes, qui se trouvent dans le fichier `auxiliaire.c` :
 
 ```C
-void affiche_image(const char *fichier);
+void affiche_image(const char *fichier); // nom du fichier dans le répertoire courant
 void ferme_image();
 void attendre();
-drapeau drapeau_pays_mystere(const char *rep);
+drapeau drapeau_pays_mystere(const char *rep); // rep est un chemin valide désignant le répertoire contenant les fichiers images
 drapeau drapeau_pays_propose(const char *rep);
 ```
 
