@@ -93,7 +93,7 @@ ligne pour la librairie de math), puis en exécutant.
 **Question 3.** Écrire la fonction
 
 ```C
-drapeau drapeau_noir(); //revoie un drapeau avec uniquement des non-couleurs
+drapeau drapeau_noir(); //renvoie un drapeau avec uniquement des non-couleurs
 ```
 
 qui respectivement initialise un drapeau dont tous les pixels sont des non-couleurs.
