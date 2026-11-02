@@ -117,3 +117,34 @@
 
 * compter des opérations en itératif et en récursif
 * ordres de grandeurs : grand O
+
+### octobre (distanciel)
+
+#### 6 octobre 2026
+
+* ordres de grandeurs : $\Theta$, $\Omega$
+* comparaisons et calculs des ordres de grandeurs habituels
+* comment définir les tailles des entrées; code : [tri_bulle.c](code/tri_bulle.c)
+
+#### 8 octobre 2026
+
+* types structurés et fonctions; code :
+  [quadrilatere.c](code/quadrilatere.c)
+* structures auto-référencées : listes chaînées; code :
+  [liste_chainee1.h](code/liste_chainee1.h) / [liste_chainee1.c](code/liste_chainee1.c)
+* listes chaînées en `C` avec une tête; code :
+  [liste_chainee2.h](code/liste_chainee2.h) / [liste_chainee2.c](code/liste_chainee2.c)
+
+#### 12 octobre 2026
+
+* complexités dans le pire et le meilleur des cas (définition)
+* Schéma général de calcul d'une complexité
+* étude de la complexité temporelle du tri bulle: meilleur des cas et
+  pire des cas; code : [tri_bulle.c](code/tri_bulle.c)
+* étude de la complexité temporelle de la recherche dichotomique: meilleur des
+  cas et pire des cas; code : [dichotomie.c](code/dichotomie.c)
+
+
+#### 15 octobre 2026
+
+* mot-clef `typedef` en `C`

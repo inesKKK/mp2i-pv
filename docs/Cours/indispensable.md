@@ -65,7 +65,9 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
   statiques et les tableaux alloués avec `malloc` en
   multi-dimensionnel
 * savoir utiliser les arguments du `main` (y compris avec `atoi`)
-* savoir déclarer et utiliser un type structuré
+* savoir déclarer et utiliser un type structuré, y compris pour les
+  types auto-référencés
+* savoir utiliser `->`
 
 ### Représentation des nombres en machine
 
@@ -87,4 +89,10 @@ Des [conseils pour apprendre un cours](https://www.youtube.com/watch?v=RVB3PBPxM
 
 ### Complexité
 * savoir compter un nombre d'opérations en itératif et en récursif
-* connaître la définition de grand O
+* connaître la définition de grand O, $\Theta$, $\Omega$
+* savoir comparer rapidement des ordres de grandeur de fonctions
+  correspondant à des complexités classiques
+* savoir définir complexité dans le meilleur des cas et complexité
+  dans le pire des cas
+* connaître les schémas généraux de calcul de complexité
+* savoir résoudre une relation de récurrence par somme télescopique
