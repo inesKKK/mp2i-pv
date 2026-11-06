@@ -158,20 +158,20 @@ $ 0.01 \vec{u} + 0.05 \vec{v} -0.03 \vec{w} $
 
 où $\vec{u}$ est le vecteur unitaire de l'oiseau vers le point $(0.5, 0.5)$, $\vec{v}$ est le vecteur unitaire de l'oiseau vers son ami et $\vec{w}$ est le vecteur unitaire de l'oiseau vers son ennemi.
 
-**Question 3.** Écrire et documenter une fonction `deplacement_oiseau` qui prend en paramètre (dans cet ordre) un pointeur sur nuée et deux pointeurs sur oiseau : le premier donne l'oiseau au temps $t$, le deuxième l'oiseau au temps $t+1$ (même ami et même ennemi, mais coordonnées mises à jour selon les règles établies ci-dessus ---si elles dépassent les limites pour être visible ce n'est pas grave).
+Écrire et documenter une fonction `deplacement_oiseau` qui prend en paramètre (dans cet ordre) un pointeur sur nuée et deux pointeurs sur oiseau : le premier donne l'oiseau au temps $t$, le deuxième l'oiseau au temps $t+1$ (même ami et même ennemi, mais coordonnées mises à jour selon les règles établies ci-dessus ---si elles dépassent les limites pour être visible ce n'est pas grave).
 
-**Question 4.** Écrire et documenter une fonction `alloue_nuee` qui prend en argument un entier qui est la taille de la nuée et alloue la mémoire nécessaire pour une nouvelle nuee (et renvoie l'adresse de cette nouvelle nuée).
+**Question 3.** Écrire et documenter une fonction `alloue_nuee` qui prend en argument un entier qui est la taille de la nuée et alloue la mémoire nécessaire pour une nouvelle nuee (et renvoie l'adresse de cette nouvelle nuée).
 
-**Question 5.** Écrire une fonction `init_nuee` qui prend en argument un
+**Question 4.** Écrire une fonction `init_nuee` qui prend en argument un
 entier qui est la taille de la nuée et crée la nuée en tirant au hasard les abscisse, ordonnée, ami et ennemi de chaque oiseau (abscisse et ordonnée entre 0 et 1).
 
-**Question 6.** Pour éviter d'effectuer sans arrêt des copies de données, les données liées à une nuée d'oiseau vont en fait alterner entre deux emplacements mémoire de type `struct nuee`. En permanence, l'un correspondra à l'étape qu'on est en train de calculer, tandis que l'autre correspondra à l'étape précédente (et bien sûr ils inverseront leur rôle à chaque changement d'étape). Écrire et documenter une fonction `deplacement` qui prend en argument un pointeur sur une nuée correspondant à l'état actuel de la nuée, et un second pointeur sur une nuée qui permettra d'écrire les nouvelles coordonnées des oiseaux de la nuée. 
+**Question 5.** Pour éviter d'effectuer sans arrêt des copies de données, les données liées à une nuée d'oiseau vont en fait alterner entre deux emplacements mémoire de type `struct nuee`. En permanence, l'un correspondra à l'étape qu'on est en train de calculer, tandis que l'autre correspondra à l'étape précédente (et bien sûr ils inverseront leur rôle à chaque changement d'étape). Écrire et documenter une fonction `deplacement` qui prend en argument un pointeur sur une nuée correspondant à l'état actuel de la nuée, et un second pointeur sur une nuée qui permettra d'écrire les nouvelles coordonnées des oiseaux de la nuée. 
 
-**Question 7.** De temps en temps, pour relancer la dynamique de la nuée, il faut modifier les ami et ennemi de chaque oiseau. Écrire et documenter une fonction `change_amities` qui a comme paramètre un pointeur sur nuee et retire au hasard les ami et ennemi de chaque oiseau.
+**Question 6.** De temps en temps, pour relancer la dynamique de la nuée, il faut modifier les ami et ennemi de chaque oiseau. Écrire et documenter une fonction `change_amities` qui a comme paramètre un pointeur sur nuee et retire au hasard les ami et ennemi de chaque oiseau.
 
-**Question 8.** Pour les affichages, il faut transformer une nuée en image. Écrire et documenter une fonction `image` qui prend en argument un pointeur sur nuee et renvoie un tableau bidimensionnel de booléens de taille 300x300 où une case vaut `false` si et seulement s'il y a un oiseau dedans (n'oubliez pas que les coordonnées visibles des oiseaux sont entre 0 et 1, il faut donc appliquer un coefficient multiplicatif pour se ramener à 0-300).
+**Question 7.** Pour les affichages, il faut transformer une nuée en image. Écrire et documenter une fonction `image` qui prend en argument un pointeur sur nuee et renvoie un tableau bidimensionnel de booléens de taille 300x300 où une case vaut `false` si et seulement s'il y a un oiseau dedans (n'oubliez pas que les coordonnées visibles des oiseaux sont entre 0 et 1, il faut donc appliquer un coefficient multiplicatif pour se ramener à 0-300).
 
-**Question 9.** Je vous fournis la fonction `ecrire_image` qui permet de créer un fichier image au format `ppm` à partir d'un tableau bidimensionnel de booléens.
+**Question 8.** Je vous fournis la fonction `ecrire_image` qui permet de créer un fichier image au format `ppm` à partir d'un tableau bidimensionnel de booléens.
 
 Écrire un programme avec plusieurs étapes de déplacement de la nuée
 qui produit un fichier à chaque fois (en numérotant les fichiers dans l'ordre). Vous pouvez prendre les paramètres suivants:
@@ -192,7 +192,7 @@ De mon côté, j'obtiens l'animation suivante:
 
 ![](img/oiseaux_modele.gif)
 
-**Question 10.**
+**Question 9.**
 Modifier le programme (les deux versions sont à rendre quand même) en
 faisant en sorte qu'à l'étape de changement d'amitié, seulement 10%
 des oiseaux changent d'ami (de façon probabiliste: un
