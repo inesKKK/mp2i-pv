@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-#include "fichier.h"
+#include "fichiers.h"
 
 void ecrire_image(int n, bool **img, int largeur, int hauteur){
     char fichier[20];
