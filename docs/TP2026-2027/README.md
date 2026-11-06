@@ -11,6 +11,8 @@
   pointeurs et tableaux
 * [tp6](TP06_tableaux_multidimensionnels/tp_tableaux_multidimensionnels.md) : tableaux multidimensionnels
 * [tp7](TP07_drapeaux_structures/tp_drapeaux.md) : types structurés
+* [tp8](TP08_Listes_chainees/tp_listes_chainees.md) : listes chaînées et gestion de la mémoire
+
 
 # Liens utiles
 
